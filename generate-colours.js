@@ -43,16 +43,16 @@ function createColourBody(colourName, HEX) {
  * Initialise the module 
  */
 function init() {
-	del.sync(['./colours/*.sublime-snippet']);
+	del.sync(['./NameThatColourSnippets/*.sublime-snippet']);
 
-	if (!emptyDir.sync('./colours')) {
+	if (!emptyDir.sync('./NameThatColourSnippets', file => file !== '.gitkeep')) {
 		console.log('The delete task did not work');
 
 		return;
 	}
 
 	for (let colour in colours) {
-		let filename = `./colours/${dasharize(colour)}.sublime-snippet`;
+		let filename = `./NameThatColourSnippets/${dasharize(colour)}.sublime-snippet`;
 
 		fs.writeFileSync(filename, createColourBody(colour, colours[colour]), 'utf8');
 	}

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-deep-cove]]></content>
+	    <tabTrigger>C-051040</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Deep Cove Colour</description>
+	</snippet>
+	

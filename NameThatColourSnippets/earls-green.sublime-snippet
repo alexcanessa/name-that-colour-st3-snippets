@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-earls-green]]></content>
+	    <tabTrigger>C-C9B93B</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Earls Green Colour</description>
+	</snippet>
+	

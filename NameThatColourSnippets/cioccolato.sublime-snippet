@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-cioccolato]]></content>
+	    <tabTrigger>C-55280C</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Cioccolato Colour</description>
+	</snippet>
+	

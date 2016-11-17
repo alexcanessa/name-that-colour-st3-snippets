@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-juniper]]></content>
+	    <tabTrigger>C-6D9292</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Juniper Colour</description>
+	</snippet>
+	

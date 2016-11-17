@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-moss-green]]></content>
+	    <tabTrigger>C-ADDFAD</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Moss Green Colour</description>
+	</snippet>
+	

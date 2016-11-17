@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-mexican-red]]></content>
+	    <tabTrigger>C-A72525</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Mexican Red Colour</description>
+	</snippet>
+	

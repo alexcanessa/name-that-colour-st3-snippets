@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-geraldine]]></content>
+	    <tabTrigger>C-FB8989</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Geraldine Colour</description>
+	</snippet>
+	

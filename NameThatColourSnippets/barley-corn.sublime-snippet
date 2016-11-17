@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-barley-corn]]></content>
+	    <tabTrigger>C-A68B5B</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Barley Corn Colour</description>
+	</snippet>
+	

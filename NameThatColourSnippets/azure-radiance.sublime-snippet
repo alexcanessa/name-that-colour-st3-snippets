@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-azure-radiance]]></content>
+	    <tabTrigger>C-007FFF</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Azure Radiance Colour</description>
+	</snippet>
+	

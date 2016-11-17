@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-oracle]]></content>
+	    <tabTrigger>C-377475</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Oracle Colour</description>
+	</snippet>
+	

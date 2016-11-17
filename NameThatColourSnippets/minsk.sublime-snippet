@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-minsk]]></content>
+	    <tabTrigger>C-3F307F</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Minsk Colour</description>
+	</snippet>
+	

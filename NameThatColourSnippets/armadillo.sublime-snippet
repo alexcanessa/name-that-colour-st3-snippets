@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-armadillo]]></content>
+	    <tabTrigger>C-433E37</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Armadillo Colour</description>
+	</snippet>
+	

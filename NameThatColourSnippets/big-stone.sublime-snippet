@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-big-stone]]></content>
+	    <tabTrigger>C-162A40</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Big Stone Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-van-cleef]]></content>
+	    <tabTrigger>C-49170C</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Van Cleef Colour</description>
+	</snippet>
+	

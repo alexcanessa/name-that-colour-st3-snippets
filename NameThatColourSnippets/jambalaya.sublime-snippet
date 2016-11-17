@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-jambalaya]]></content>
+	    <tabTrigger>C-5B3013</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Jambalaya Colour</description>
+	</snippet>
+	

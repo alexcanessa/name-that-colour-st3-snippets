@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-dorado]]></content>
+	    <tabTrigger>C-6B5755</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Dorado Colour</description>
+	</snippet>
+	

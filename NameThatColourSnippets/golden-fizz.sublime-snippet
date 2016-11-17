@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-golden-fizz]]></content>
+	    <tabTrigger>C-F5FB3D</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Golden Fizz Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-mandalay]]></content>
+	    <tabTrigger>C-AD781B</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Mandalay Colour</description>
+	</snippet>
+	

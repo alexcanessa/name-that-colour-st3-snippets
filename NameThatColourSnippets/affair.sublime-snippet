@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-affair]]></content>
+	    <tabTrigger>C-714693</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Affair Colour</description>
+	</snippet>
+	

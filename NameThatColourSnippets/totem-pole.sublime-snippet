@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-totem-pole]]></content>
+	    <tabTrigger>C-991B07</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Totem Pole Colour</description>
+	</snippet>
+	

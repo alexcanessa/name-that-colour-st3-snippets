@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-del-rio]]></content>
+	    <tabTrigger>C-B09A95</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Del Rio Colour</description>
+	</snippet>
+	

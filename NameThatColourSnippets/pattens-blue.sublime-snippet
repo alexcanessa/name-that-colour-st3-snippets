@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-pattens-blue]]></content>
+	    <tabTrigger>C-DEF5FF</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Pattens Blue Colour</description>
+	</snippet>
+	

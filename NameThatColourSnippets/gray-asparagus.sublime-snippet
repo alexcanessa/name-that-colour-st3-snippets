@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-gray-asparagus]]></content>
+	    <tabTrigger>C-465945</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Gray Asparagus Colour</description>
+	</snippet>
+	

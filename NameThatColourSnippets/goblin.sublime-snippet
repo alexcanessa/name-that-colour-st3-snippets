@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-goblin]]></content>
+	    <tabTrigger>C-3D7D52</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Goblin Colour</description>
+	</snippet>
+	

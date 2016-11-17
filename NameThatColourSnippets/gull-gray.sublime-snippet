@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-gull-gray]]></content>
+	    <tabTrigger>C-9DACB7</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Gull Gray Colour</description>
+	</snippet>
+	

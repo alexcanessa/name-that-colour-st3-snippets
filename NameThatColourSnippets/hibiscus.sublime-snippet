@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-hibiscus]]></content>
+	    <tabTrigger>C-B6316C</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Hibiscus Colour</description>
+	</snippet>
+	

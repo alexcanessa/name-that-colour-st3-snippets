@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-clam-shell]]></content>
+	    <tabTrigger>C-D4B6AF</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Clam Shell Colour</description>
+	</snippet>
+	

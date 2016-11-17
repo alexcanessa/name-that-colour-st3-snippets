@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-cola]]></content>
+	    <tabTrigger>C-3F2500</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Cola Colour</description>
+	</snippet>
+	

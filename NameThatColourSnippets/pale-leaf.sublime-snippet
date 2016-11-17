@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-pale-leaf]]></content>
+	    <tabTrigger>C-C0D3B9</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Pale Leaf Colour</description>
+	</snippet>
+	

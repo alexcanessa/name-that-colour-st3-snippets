@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-scandal]]></content>
+	    <tabTrigger>C-CFFAF4</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Scandal Colour</description>
+	</snippet>
+	

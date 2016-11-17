@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-blue-zodiac]]></content>
+	    <tabTrigger>C-13264D</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Blue Zodiac Colour</description>
+	</snippet>
+	

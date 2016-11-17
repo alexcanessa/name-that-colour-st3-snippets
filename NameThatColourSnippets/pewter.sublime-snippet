@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-pewter]]></content>
+	    <tabTrigger>C-96A8A1</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Pewter Colour</description>
+	</snippet>
+	

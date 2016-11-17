@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-tropical-rain-forest]]></content>
+	    <tabTrigger>C-00755E</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Tropical Rain Forest Colour</description>
+	</snippet>
+	

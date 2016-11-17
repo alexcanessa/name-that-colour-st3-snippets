@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-laser-lemon]]></content>
+	    <tabTrigger>C-FFFF66</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Laser Lemon Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-valencia]]></content>
+	    <tabTrigger>C-D84437</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Valencia Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-buttermilk]]></content>
+	    <tabTrigger>C-FFF1B5</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Buttermilk Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-french-lilac]]></content>
+	    <tabTrigger>C-ECC7EE</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>French Lilac Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-voodoo]]></content>
+	    <tabTrigger>C-533455</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Voodoo Colour</description>
+	</snippet>
+	

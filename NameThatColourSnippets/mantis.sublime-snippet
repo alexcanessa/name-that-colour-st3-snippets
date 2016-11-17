@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-mantis]]></content>
+	    <tabTrigger>C-74C365</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Mantis Colour</description>
+	</snippet>
+	

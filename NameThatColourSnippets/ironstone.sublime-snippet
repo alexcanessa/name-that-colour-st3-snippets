@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-ironstone]]></content>
+	    <tabTrigger>C-86483C</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Ironstone Colour</description>
+	</snippet>
+	

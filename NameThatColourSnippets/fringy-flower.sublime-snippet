@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-fringy-flower]]></content>
+	    <tabTrigger>C-B1E2C1</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Fringy Flower Colour</description>
+	</snippet>
+	

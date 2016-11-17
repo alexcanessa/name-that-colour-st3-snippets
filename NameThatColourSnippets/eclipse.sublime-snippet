@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-eclipse]]></content>
+	    <tabTrigger>C-311C17</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Eclipse Colour</description>
+	</snippet>
+	

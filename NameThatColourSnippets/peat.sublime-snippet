@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-peat]]></content>
+	    <tabTrigger>C-716B56</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Peat Colour</description>
+	</snippet>
+	

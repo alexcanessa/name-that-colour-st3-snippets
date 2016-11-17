@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-gossamer]]></content>
+	    <tabTrigger>C-069B81</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Gossamer Colour</description>
+	</snippet>
+	

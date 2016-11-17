@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-marshland]]></content>
+	    <tabTrigger>C-0B0F08</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Marshland Colour</description>
+	</snippet>
+	

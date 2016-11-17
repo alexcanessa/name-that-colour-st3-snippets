@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-polo-blue]]></content>
+	    <tabTrigger>C-8DA8CC</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Polo Blue Colour</description>
+	</snippet>
+	

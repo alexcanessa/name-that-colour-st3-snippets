@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-matrix]]></content>
+	    <tabTrigger>C-B05D54</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Matrix Colour</description>
+	</snippet>
+	

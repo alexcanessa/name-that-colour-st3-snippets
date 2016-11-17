@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-black-rose]]></content>
+	    <tabTrigger>C-67032D</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Black Rose Colour</description>
+	</snippet>
+	

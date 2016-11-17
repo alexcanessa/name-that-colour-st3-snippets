@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-green-vogue]]></content>
+	    <tabTrigger>C-032B52</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Green Vogue Colour</description>
+	</snippet>
+	

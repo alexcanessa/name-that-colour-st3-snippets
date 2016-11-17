@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-porsche]]></content>
+	    <tabTrigger>C-EAAE69</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Porsche Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-persian-rose]]></content>
+	    <tabTrigger>C-FE28A2</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Persian Rose Colour</description>
+	</snippet>
+	

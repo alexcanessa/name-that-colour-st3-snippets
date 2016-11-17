@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-clear-day]]></content>
+	    <tabTrigger>C-E9FFFD</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Clear Day Colour</description>
+	</snippet>
+	

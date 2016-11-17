@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-cream-can]]></content>
+	    <tabTrigger>C-F5C85C</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Cream Can Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-lotus]]></content>
+	    <tabTrigger>C-863C3C</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Lotus Colour</description>
+	</snippet>
+	

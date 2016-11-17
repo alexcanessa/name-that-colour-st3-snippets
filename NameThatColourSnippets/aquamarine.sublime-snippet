@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-aquamarine]]></content>
+	    <tabTrigger>C-7FFFD4</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Aquamarine Colour</description>
+	</snippet>
+	

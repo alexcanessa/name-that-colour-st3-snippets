@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-sea-pink]]></content>
+	    <tabTrigger>C-ED989E</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Sea Pink Colour</description>
+	</snippet>
+	

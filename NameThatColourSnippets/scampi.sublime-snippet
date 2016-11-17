@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-scampi]]></content>
+	    <tabTrigger>C-675FA6</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Scampi Colour</description>
+	</snippet>
+	

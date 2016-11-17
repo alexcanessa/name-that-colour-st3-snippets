@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-rock-blue]]></content>
+	    <tabTrigger>C-9EB1CD</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Rock Blue Colour</description>
+	</snippet>
+	

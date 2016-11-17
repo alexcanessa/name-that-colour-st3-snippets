@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-studio]]></content>
+	    <tabTrigger>C-714AB2</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Studio Colour</description>
+	</snippet>
+	

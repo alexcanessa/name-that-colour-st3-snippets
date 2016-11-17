@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-jelly-bean]]></content>
+	    <tabTrigger>C-297B9A</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Jelly Bean Colour</description>
+	</snippet>
+	

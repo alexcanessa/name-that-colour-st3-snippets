@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-black-russian]]></content>
+	    <tabTrigger>C-0A001C</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Black Russian Colour</description>
+	</snippet>
+	

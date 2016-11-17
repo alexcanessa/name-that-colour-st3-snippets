@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-cork]]></content>
+	    <tabTrigger>C-40291D</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Cork Colour</description>
+	</snippet>
+	

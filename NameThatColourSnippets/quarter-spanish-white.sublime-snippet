@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-quarter-spanish-white]]></content>
+	    <tabTrigger>C-F7F2E1</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Quarter Spanish White Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-paarl]]></content>
+	    <tabTrigger>C-A65529</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Paarl Colour</description>
+	</snippet>
+	

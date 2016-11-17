@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-red-devil]]></content>
+	    <tabTrigger>C-860111</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Red Devil Colour</description>
+	</snippet>
+	

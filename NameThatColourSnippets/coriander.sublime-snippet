@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-coriander]]></content>
+	    <tabTrigger>C-C4D0B0</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Coriander Colour</description>
+	</snippet>
+	

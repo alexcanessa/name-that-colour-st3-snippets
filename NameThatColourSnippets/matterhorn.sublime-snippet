@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-matterhorn]]></content>
+	    <tabTrigger>C-4E3B41</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Matterhorn Colour</description>
+	</snippet>
+	

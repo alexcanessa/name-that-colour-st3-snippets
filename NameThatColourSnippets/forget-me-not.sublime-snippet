@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-forget-me-not]]></content>
+	    <tabTrigger>C-FFF1EE</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Forget Me Not Colour</description>
+	</snippet>
+	

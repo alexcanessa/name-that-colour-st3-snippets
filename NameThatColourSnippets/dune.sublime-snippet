@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-dune]]></content>
+	    <tabTrigger>C-383533</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Dune Colour</description>
+	</snippet>
+	

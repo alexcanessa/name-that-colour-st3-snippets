@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-riptide]]></content>
+	    <tabTrigger>C-8BE6D8</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Riptide Colour</description>
+	</snippet>
+	

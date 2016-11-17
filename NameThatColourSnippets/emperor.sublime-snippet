@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-emperor]]></content>
+	    <tabTrigger>C-514649</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Emperor Colour</description>
+	</snippet>
+	

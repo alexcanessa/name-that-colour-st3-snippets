@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-prim]]></content>
+	    <tabTrigger>C-F0E2EC</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Prim Colour</description>
+	</snippet>
+	

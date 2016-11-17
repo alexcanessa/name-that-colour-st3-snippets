@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-half-and-half]]></content>
+	    <tabTrigger>C-FFFEE1</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Half and Half Colour</description>
+	</snippet>
+	

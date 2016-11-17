@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-lonestar]]></content>
+	    <tabTrigger>C-6D0101</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Lonestar Colour</description>
+	</snippet>
+	

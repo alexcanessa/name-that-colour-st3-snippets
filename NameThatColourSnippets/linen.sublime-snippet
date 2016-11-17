@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-linen]]></content>
+	    <tabTrigger>C-FAF0E6</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Linen Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-givry]]></content>
+	    <tabTrigger>C-F8E4BF</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Givry Colour</description>
+	</snippet>
+	

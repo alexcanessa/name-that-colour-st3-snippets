@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-chantilly]]></content>
+	    <tabTrigger>C-F8C3DF</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Chantilly Colour</description>
+	</snippet>
+	

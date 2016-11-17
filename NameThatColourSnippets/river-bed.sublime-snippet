@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-river-bed]]></content>
+	    <tabTrigger>C-434C59</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>River Bed Colour</description>
+	</snippet>
+	

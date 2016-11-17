@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-electric-lime]]></content>
+	    <tabTrigger>C-CCFF00</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Electric Lime Colour</description>
+	</snippet>
+	

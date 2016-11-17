@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-madang]]></content>
+	    <tabTrigger>C-B7F0BE</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Madang Colour</description>
+	</snippet>
+	

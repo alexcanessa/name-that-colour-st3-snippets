@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-espresso]]></content>
+	    <tabTrigger>C-612718</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Espresso Colour</description>
+	</snippet>
+	

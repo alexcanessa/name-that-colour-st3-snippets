@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-amethyst]]></content>
+	    <tabTrigger>C-9966CC</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Amethyst Colour</description>
+	</snippet>
+	

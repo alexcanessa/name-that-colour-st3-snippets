@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-westar]]></content>
+	    <tabTrigger>C-DCD9D2</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Westar Colour</description>
+	</snippet>
+	

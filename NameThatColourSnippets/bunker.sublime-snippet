@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-bunker]]></content>
+	    <tabTrigger>C-0D1117</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Bunker Colour</description>
+	</snippet>
+	

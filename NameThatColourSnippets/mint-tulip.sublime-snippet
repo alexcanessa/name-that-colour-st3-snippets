@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-mint-tulip]]></content>
+	    <tabTrigger>C-C4F4EB</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Mint Tulip Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-atlantis]]></content>
+	    <tabTrigger>C-97CD2D</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Atlantis Colour</description>
+	</snippet>
+	

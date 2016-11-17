@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-lisbon-brown]]></content>
+	    <tabTrigger>C-423921</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Lisbon Brown Colour</description>
+	</snippet>
+	

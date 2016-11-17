@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-loafer]]></content>
+	    <tabTrigger>C-EEF4DE</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Loafer Colour</description>
+	</snippet>
+	

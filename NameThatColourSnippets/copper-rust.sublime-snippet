@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-copper-rust]]></content>
+	    <tabTrigger>C-944747</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Copper Rust Colour</description>
+	</snippet>
+	

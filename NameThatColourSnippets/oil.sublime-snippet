@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-oil]]></content>
+	    <tabTrigger>C-281E15</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Oil Colour</description>
+	</snippet>
+	

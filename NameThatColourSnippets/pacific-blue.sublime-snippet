@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-pacific-blue]]></content>
+	    <tabTrigger>C-009DC4</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Pacific Blue Colour</description>
+	</snippet>
+	

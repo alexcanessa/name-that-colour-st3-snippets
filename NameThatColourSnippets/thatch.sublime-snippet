@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-thatch]]></content>
+	    <tabTrigger>C-B69D98</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Thatch Colour</description>
+	</snippet>
+	

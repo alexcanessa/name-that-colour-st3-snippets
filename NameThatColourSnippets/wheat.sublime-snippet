@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-wheat]]></content>
+	    <tabTrigger>C-F5DEB3</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Wheat Colour</description>
+	</snippet>
+	

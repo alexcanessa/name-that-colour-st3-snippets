@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-kobi]]></content>
+	    <tabTrigger>C-E79FC4</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Kobi Colour</description>
+	</snippet>
+	

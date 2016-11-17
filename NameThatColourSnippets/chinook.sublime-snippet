@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-chinook]]></content>
+	    <tabTrigger>C-A8E3BD</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Chinook Colour</description>
+	</snippet>
+	

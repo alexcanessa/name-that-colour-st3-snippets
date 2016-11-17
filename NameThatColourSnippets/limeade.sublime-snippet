@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-limeade]]></content>
+	    <tabTrigger>C-6F9D02</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Limeade Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-dell]]></content>
+	    <tabTrigger>C-396413</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Dell Colour</description>
+	</snippet>
+	

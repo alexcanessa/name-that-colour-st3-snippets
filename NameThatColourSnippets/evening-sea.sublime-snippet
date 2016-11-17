@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-evening-sea]]></content>
+	    <tabTrigger>C-024E46</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Evening Sea Colour</description>
+	</snippet>
+	

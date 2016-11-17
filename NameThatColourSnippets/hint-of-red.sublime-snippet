@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-hint-of-red]]></content>
+	    <tabTrigger>C-FBF9F9</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Hint of Red Colour</description>
+	</snippet>
+	

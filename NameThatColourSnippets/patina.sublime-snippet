@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-patina]]></content>
+	    <tabTrigger>C-639A8F</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Patina Colour</description>
+	</snippet>
+	

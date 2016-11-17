@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-daintree]]></content>
+	    <tabTrigger>C-012731</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Daintree Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-colonial-white]]></content>
+	    <tabTrigger>C-FFEDBC</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Colonial White Colour</description>
+	</snippet>
+	

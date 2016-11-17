@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-romance]]></content>
+	    <tabTrigger>C-FFFEFD</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Romance Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-lemon]]></content>
+	    <tabTrigger>C-FDE910</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Lemon Colour</description>
+	</snippet>
+	

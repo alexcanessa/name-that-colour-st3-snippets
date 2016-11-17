@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-zuccini]]></content>
+	    <tabTrigger>C-044022</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Zuccini Colour</description>
+	</snippet>
+	

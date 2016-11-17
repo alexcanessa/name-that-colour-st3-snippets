@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-stack]]></content>
+	    <tabTrigger>C-8A8F8A</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Stack Colour</description>
+	</snippet>
+	

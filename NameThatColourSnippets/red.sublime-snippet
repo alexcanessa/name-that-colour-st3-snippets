@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-red]]></content>
+	    <tabTrigger>C-FF0000</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Red Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-tussock]]></content>
+	    <tabTrigger>C-C5994B</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Tussock Colour</description>
+	</snippet>
+	

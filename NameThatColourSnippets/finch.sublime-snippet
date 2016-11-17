@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-finch]]></content>
+	    <tabTrigger>C-626649</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Finch Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-black-squeeze]]></content>
+	    <tabTrigger>C-F2FAFA</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Black Squeeze Colour</description>
+	</snippet>
+	

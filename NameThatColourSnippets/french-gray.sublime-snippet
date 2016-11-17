@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-french-gray]]></content>
+	    <tabTrigger>C-BDBDC6</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>French Gray Colour</description>
+	</snippet>
+	

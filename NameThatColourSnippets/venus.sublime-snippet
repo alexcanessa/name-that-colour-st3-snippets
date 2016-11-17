@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-venus]]></content>
+	    <tabTrigger>C-928590</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Venus Colour</description>
+	</snippet>
+	

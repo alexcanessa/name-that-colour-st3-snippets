@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-sea-nymph]]></content>
+	    <tabTrigger>C-78A39C</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Sea Nymph Colour</description>
+	</snippet>
+	

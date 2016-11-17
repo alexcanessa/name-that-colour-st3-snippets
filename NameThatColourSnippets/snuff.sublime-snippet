@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-snuff]]></content>
+	    <tabTrigger>C-E2D8ED</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Snuff Colour</description>
+	</snippet>
+	

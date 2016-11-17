@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-sail]]></content>
+	    <tabTrigger>C-B8E0F9</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Sail Colour</description>
+	</snippet>
+	

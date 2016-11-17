@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-cod-gray]]></content>
+	    <tabTrigger>C-0B0B0B</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Cod Gray Colour</description>
+	</snippet>
+	

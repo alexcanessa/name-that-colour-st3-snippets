@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-green-leaf]]></content>
+	    <tabTrigger>C-436A0D</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Green Leaf Colour</description>
+	</snippet>
+	

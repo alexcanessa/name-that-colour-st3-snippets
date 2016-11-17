@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-strikemaster]]></content>
+	    <tabTrigger>C-956387</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Strikemaster Colour</description>
+	</snippet>
+	

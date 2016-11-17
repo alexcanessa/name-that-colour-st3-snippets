@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-chalky]]></content>
+	    <tabTrigger>C-EED794</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Chalky Colour</description>
+	</snippet>
+	

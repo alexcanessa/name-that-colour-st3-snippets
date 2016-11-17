@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-tawny-port]]></content>
+	    <tabTrigger>C-692545</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Tawny Port Colour</description>
+	</snippet>
+	

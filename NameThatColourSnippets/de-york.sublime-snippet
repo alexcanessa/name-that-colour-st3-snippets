@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-de-york]]></content>
+	    <tabTrigger>C-7AC488</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>De York Colour</description>
+	</snippet>
+	

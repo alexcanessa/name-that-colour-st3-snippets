@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-tuna]]></content>
+	    <tabTrigger>C-353542</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Tuna Colour</description>
+	</snippet>
+	

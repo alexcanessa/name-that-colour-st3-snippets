@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-mantle]]></content>
+	    <tabTrigger>C-8B9C90</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Mantle Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-mariner]]></content>
+	    <tabTrigger>C-286ACD</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Mariner Colour</description>
+	</snippet>
+	

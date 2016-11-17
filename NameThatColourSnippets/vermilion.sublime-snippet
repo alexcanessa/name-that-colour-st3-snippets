@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-vermilion]]></content>
+	    <tabTrigger>C-FF4D00</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Vermilion Colour</description>
+	</snippet>
+	

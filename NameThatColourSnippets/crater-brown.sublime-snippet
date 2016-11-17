@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-crater-brown]]></content>
+	    <tabTrigger>C-462425</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Crater Brown Colour</description>
+	</snippet>
+	

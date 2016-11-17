@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-jet-stream]]></content>
+	    <tabTrigger>C-B5D2CE</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Jet Stream Colour</description>
+	</snippet>
+	

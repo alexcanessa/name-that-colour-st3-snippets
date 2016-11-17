@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-vista-white]]></content>
+	    <tabTrigger>C-FCF8F7</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Vista White Colour</description>
+	</snippet>
+	

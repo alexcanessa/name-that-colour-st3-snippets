@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-limed-ash]]></content>
+	    <tabTrigger>C-747D63</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Limed Ash Colour</description>
+	</snippet>
+	

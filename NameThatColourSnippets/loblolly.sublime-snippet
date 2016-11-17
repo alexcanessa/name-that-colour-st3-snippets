@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-loblolly]]></content>
+	    <tabTrigger>C-BDC9CE</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Loblolly Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-conch]]></content>
+	    <tabTrigger>C-C9D9D2</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Conch Colour</description>
+	</snippet>
+	

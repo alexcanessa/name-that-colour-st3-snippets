@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-mulberry]]></content>
+	    <tabTrigger>C-C54B8C</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Mulberry Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-gin]]></content>
+	    <tabTrigger>C-E8F2EB</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Gin Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-beige]]></content>
+	    <tabTrigger>C-F5F5DC</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Beige Colour</description>
+	</snippet>
+	

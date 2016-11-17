@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-parsley]]></content>
+	    <tabTrigger>C-134F19</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Parsley Colour</description>
+	</snippet>
+	

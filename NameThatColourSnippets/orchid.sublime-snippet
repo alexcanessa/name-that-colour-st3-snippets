@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-orchid]]></content>
+	    <tabTrigger>C-DA70D6</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Orchid Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-bastille]]></content>
+	    <tabTrigger>C-292130</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Bastille Colour</description>
+	</snippet>
+	

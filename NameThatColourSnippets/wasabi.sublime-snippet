@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-wasabi]]></content>
+	    <tabTrigger>C-788A25</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Wasabi Colour</description>
+	</snippet>
+	

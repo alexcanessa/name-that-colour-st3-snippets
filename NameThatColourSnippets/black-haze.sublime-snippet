@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-black-haze]]></content>
+	    <tabTrigger>C-F6F7F7</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Black Haze Colour</description>
+	</snippet>
+	

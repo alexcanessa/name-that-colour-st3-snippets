@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-fire-bush]]></content>
+	    <tabTrigger>C-E89928</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Fire Bush Colour</description>
+	</snippet>
+	

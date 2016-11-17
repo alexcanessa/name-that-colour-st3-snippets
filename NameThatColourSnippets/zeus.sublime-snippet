@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-zeus]]></content>
+	    <tabTrigger>C-292319</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Zeus Colour</description>
+	</snippet>
+	

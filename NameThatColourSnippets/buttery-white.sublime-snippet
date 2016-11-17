@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-buttery-white]]></content>
+	    <tabTrigger>C-FFFCEA</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Buttery White Colour</description>
+	</snippet>
+	

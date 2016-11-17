@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-toast]]></content>
+	    <tabTrigger>C-9A6E61</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Toast Colour</description>
+	</snippet>
+	

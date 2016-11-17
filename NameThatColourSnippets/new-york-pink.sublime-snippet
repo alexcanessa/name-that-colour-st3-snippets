@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-new-york-pink]]></content>
+	    <tabTrigger>C-D7837F</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>New York Pink Colour</description>
+	</snippet>
+	

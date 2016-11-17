@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-biscay]]></content>
+	    <tabTrigger>C-1B3162</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Biscay Colour</description>
+	</snippet>
+	

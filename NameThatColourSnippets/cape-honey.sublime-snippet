@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-cape-honey]]></content>
+	    <tabTrigger>C-FEE5AC</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Cape Honey Colour</description>
+	</snippet>
+	

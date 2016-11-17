@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-torea-bay]]></content>
+	    <tabTrigger>C-0F2D9E</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Torea Bay Colour</description>
+	</snippet>
+	

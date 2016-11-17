@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-plum]]></content>
+	    <tabTrigger>C-843179</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Plum Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-siren]]></content>
+	    <tabTrigger>C-7A013A</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Siren Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-fuzzy-wuzzy-brown]]></content>
+	    <tabTrigger>C-C45655</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Fuzzy Wuzzy Brown Colour</description>
+	</snippet>
+	

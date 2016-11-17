@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-olivetone]]></content>
+	    <tabTrigger>C-716E10</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Olivetone Colour</description>
+	</snippet>
+	

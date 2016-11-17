@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-irish-coffee]]></content>
+	    <tabTrigger>C-5F3D26</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Irish Coffee Colour</description>
+	</snippet>
+	

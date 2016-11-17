@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-cape-cod]]></content>
+	    <tabTrigger>C-3C4443</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Cape Cod Colour</description>
+	</snippet>
+	

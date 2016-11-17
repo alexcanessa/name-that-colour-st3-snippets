@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-cerise]]></content>
+	    <tabTrigger>C-DA3287</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Cerise Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-clairvoyant]]></content>
+	    <tabTrigger>C-480656</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Clairvoyant Colour</description>
+	</snippet>
+	

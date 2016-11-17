@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-corvette]]></content>
+	    <tabTrigger>C-FAD3A2</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Corvette Colour</description>
+	</snippet>
+	

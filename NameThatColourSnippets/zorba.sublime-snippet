@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-zorba]]></content>
+	    <tabTrigger>C-A59B91</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Zorba Colour</description>
+	</snippet>
+	

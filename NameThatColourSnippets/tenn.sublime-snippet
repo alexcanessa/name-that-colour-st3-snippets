@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-tenn]]></content>
+	    <tabTrigger>C-CD5700</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Tenn Colour</description>
+	</snippet>
+	

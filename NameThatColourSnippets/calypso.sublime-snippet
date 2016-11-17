@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-calypso]]></content>
+	    <tabTrigger>C-31728D</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Calypso Colour</description>
+	</snippet>
+	

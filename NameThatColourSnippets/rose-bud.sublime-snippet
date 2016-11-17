@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-rose-bud]]></content>
+	    <tabTrigger>C-FBB2A3</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Rose Bud Colour</description>
+	</snippet>
+	

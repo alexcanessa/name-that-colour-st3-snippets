@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-makara]]></content>
+	    <tabTrigger>C-897D6D</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Makara Colour</description>
+	</snippet>
+	

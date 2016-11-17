@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-bahama-blue]]></content>
+	    <tabTrigger>C-026395</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Bahama Blue Colour</description>
+	</snippet>
+	

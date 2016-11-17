@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-foam]]></content>
+	    <tabTrigger>C-D8FCFA</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Foam Colour</description>
+	</snippet>
+	

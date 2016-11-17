@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-mustard]]></content>
+	    <tabTrigger>C-FFDB58</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Mustard Colour</description>
+	</snippet>
+	

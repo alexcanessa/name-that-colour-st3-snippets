@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-neptune]]></content>
+	    <tabTrigger>C-7CB7BB</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Neptune Colour</description>
+	</snippet>
+	

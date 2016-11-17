@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-punch]]></content>
+	    <tabTrigger>C-DC4333</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Punch Colour</description>
+	</snippet>
+	

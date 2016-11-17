@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-mosque]]></content>
+	    <tabTrigger>C-036A6E</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Mosque Colour</description>
+	</snippet>
+	

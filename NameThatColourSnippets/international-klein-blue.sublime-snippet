@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-international-klein-blue]]></content>
+	    <tabTrigger>C-002FA7</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>International Klein Blue Colour</description>
+	</snippet>
+	

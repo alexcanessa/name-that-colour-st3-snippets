@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-kingfisher-daisy]]></content>
+	    <tabTrigger>C-3E0480</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Kingfisher Daisy Colour</description>
+	</snippet>
+	

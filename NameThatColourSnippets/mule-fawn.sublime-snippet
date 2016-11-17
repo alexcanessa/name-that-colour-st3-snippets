@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-mule-fawn]]></content>
+	    <tabTrigger>C-8C472F</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Mule Fawn Colour</description>
+	</snippet>
+	

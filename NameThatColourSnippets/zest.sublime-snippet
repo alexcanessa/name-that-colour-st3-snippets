@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-zest]]></content>
+	    <tabTrigger>C-E5841B</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Zest Colour</description>
+	</snippet>
+	

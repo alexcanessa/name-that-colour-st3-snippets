@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-granny-smith-apple]]></content>
+	    <tabTrigger>C-9DE093</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Granny Smith Apple Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-lemon-chiffon]]></content>
+	    <tabTrigger>C-FFFACD</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Lemon Chiffon Colour</description>
+	</snippet>
+	

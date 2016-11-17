@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-clementine]]></content>
+	    <tabTrigger>C-E96E00</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Clementine Colour</description>
+	</snippet>
+	

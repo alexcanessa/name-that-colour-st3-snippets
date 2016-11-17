@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-castro]]></content>
+	    <tabTrigger>C-52001F</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Castro Colour</description>
+	</snippet>
+	

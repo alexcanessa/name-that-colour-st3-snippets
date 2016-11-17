@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-gray-suit]]></content>
+	    <tabTrigger>C-C1BECD</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Gray Suit Colour</description>
+	</snippet>
+	

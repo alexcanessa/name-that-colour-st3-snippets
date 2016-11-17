@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-cutty-sark]]></content>
+	    <tabTrigger>C-507672</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Cutty Sark Colour</description>
+	</snippet>
+	

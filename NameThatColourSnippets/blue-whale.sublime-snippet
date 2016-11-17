@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-blue-whale]]></content>
+	    <tabTrigger>C-042E4C</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Blue Whale Colour</description>
+	</snippet>
+	

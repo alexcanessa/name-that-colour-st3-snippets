@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-russett]]></content>
+	    <tabTrigger>C-755A57</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Russett Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-aztec]]></content>
+	    <tabTrigger>C-0D1C19</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Aztec Colour</description>
+	</snippet>
+	

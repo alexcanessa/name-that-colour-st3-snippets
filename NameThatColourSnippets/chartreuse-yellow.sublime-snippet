@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-chartreuse-yellow]]></content>
+	    <tabTrigger>C-DFFF00</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Chartreuse Yellow Colour</description>
+	</snippet>
+	

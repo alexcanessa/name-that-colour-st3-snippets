@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-olive-drab]]></content>
+	    <tabTrigger>C-6B8E23</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Olive Drab Colour</description>
+	</snippet>
+	

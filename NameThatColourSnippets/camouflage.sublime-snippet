@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-camouflage]]></content>
+	    <tabTrigger>C-3C3910</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Camouflage Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-outrageous-orange]]></content>
+	    <tabTrigger>C-FF6037</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Outrageous Orange Colour</description>
+	</snippet>
+	

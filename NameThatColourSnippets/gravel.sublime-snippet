@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-gravel]]></content>
+	    <tabTrigger>C-4A444B</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Gravel Colour</description>
+	</snippet>
+	

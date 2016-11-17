@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-heavy-metal]]></content>
+	    <tabTrigger>C-2B3228</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Heavy Metal Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-venice-blue]]></content>
+	    <tabTrigger>C-055989</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Venice Blue Colour</description>
+	</snippet>
+	

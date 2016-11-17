@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-smalt]]></content>
+	    <tabTrigger>C-003399</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Smalt Colour</description>
+	</snippet>
+	

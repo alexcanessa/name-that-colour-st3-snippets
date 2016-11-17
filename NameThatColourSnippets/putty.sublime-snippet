@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-putty]]></content>
+	    <tabTrigger>C-E7CD8C</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Putty Colour</description>
+	</snippet>
+	

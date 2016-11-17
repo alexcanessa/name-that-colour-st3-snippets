@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-raven]]></content>
+	    <tabTrigger>C-727B89</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Raven Colour</description>
+	</snippet>
+	

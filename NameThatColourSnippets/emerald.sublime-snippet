@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-emerald]]></content>
+	    <tabTrigger>C-50C878</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Emerald Colour</description>
+	</snippet>
+	

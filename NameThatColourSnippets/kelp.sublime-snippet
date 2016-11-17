@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-kelp]]></content>
+	    <tabTrigger>C-454936</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Kelp Colour</description>
+	</snippet>
+	

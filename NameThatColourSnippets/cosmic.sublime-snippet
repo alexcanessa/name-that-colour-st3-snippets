@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-cosmic]]></content>
+	    <tabTrigger>C-76395D</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Cosmic Colour</description>
+	</snippet>
+	

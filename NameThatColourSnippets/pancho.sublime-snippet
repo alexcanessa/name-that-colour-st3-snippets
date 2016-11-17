@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-pancho]]></content>
+	    <tabTrigger>C-EDCDAB</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Pancho Colour</description>
+	</snippet>
+	

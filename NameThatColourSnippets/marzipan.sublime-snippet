@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-marzipan]]></content>
+	    <tabTrigger>C-F8DB9D</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Marzipan Colour</description>
+	</snippet>
+	

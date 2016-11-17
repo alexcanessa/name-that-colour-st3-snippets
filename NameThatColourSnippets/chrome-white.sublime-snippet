@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-chrome-white]]></content>
+	    <tabTrigger>C-E8F1D4</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Chrome White Colour</description>
+	</snippet>
+	

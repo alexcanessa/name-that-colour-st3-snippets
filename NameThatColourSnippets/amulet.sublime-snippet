@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-amulet]]></content>
+	    <tabTrigger>C-7B9F80</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Amulet Colour</description>
+	</snippet>
+	

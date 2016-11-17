@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-cotton-seed]]></content>
+	    <tabTrigger>C-C2BDB6</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Cotton Seed Colour</description>
+	</snippet>
+	

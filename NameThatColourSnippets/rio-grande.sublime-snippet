@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-rio-grande]]></content>
+	    <tabTrigger>C-BBD009</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Rio Grande Colour</description>
+	</snippet>
+	

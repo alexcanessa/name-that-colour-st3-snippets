@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-my-sin]]></content>
+	    <tabTrigger>C-FFB31F</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>My Sin Colour</description>
+	</snippet>
+	

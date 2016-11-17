@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-cupid]]></content>
+	    <tabTrigger>C-FBBEDA</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Cupid Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-shuttle-gray]]></content>
+	    <tabTrigger>C-5F6672</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Shuttle Gray Colour</description>
+	</snippet>
+	

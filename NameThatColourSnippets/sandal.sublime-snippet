@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-sandal]]></content>
+	    <tabTrigger>C-AA8D6F</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Sandal Colour</description>
+	</snippet>
+	

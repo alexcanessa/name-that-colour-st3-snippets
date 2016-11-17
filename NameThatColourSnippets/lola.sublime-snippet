@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-lola]]></content>
+	    <tabTrigger>C-DFCFDB</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Lola Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-mirage]]></content>
+	    <tabTrigger>C-161928</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Mirage Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-silver]]></content>
+	    <tabTrigger>C-C0C0C0</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Silver Colour</description>
+	</snippet>
+	

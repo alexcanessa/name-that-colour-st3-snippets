@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-willow-brook]]></content>
+	    <tabTrigger>C-DFECDA</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Willow Brook Colour</description>
+	</snippet>
+	

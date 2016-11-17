@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-karry]]></content>
+	    <tabTrigger>C-FFEAD4</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Karry Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-celtic]]></content>
+	    <tabTrigger>C-163222</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Celtic Colour</description>
+	</snippet>
+	

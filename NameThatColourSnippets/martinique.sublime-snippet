@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-martinique]]></content>
+	    <tabTrigger>C-363050</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Martinique Colour</description>
+	</snippet>
+	

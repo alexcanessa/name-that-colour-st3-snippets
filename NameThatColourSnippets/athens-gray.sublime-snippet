@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-athens-gray]]></content>
+	    <tabTrigger>C-EEF0F3</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Athens Gray Colour</description>
+	</snippet>
+	

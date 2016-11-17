@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-fantasy]]></content>
+	    <tabTrigger>C-FAF3F0</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Fantasy Colour</description>
+	</snippet>
+	

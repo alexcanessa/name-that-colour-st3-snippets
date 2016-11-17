@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-salmon]]></content>
+	    <tabTrigger>C-FF8C69</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Salmon Colour</description>
+	</snippet>
+	

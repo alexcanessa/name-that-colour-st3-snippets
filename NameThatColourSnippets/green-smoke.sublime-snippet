@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-green-smoke]]></content>
+	    <tabTrigger>C-A4AF6E</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Green Smoke Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-edgewater]]></content>
+	    <tabTrigger>C-C8E3D7</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Edgewater Colour</description>
+	</snippet>
+	

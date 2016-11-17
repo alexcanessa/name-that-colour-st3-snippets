@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-pale-sky]]></content>
+	    <tabTrigger>C-6E7783</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Pale Sky Colour</description>
+	</snippet>
+	

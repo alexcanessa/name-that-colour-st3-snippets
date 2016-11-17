@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-persimmon]]></content>
+	    <tabTrigger>C-FF6B53</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Persimmon Colour</description>
+	</snippet>
+	

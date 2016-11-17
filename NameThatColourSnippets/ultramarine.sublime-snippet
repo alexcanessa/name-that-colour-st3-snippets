@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-ultramarine]]></content>
+	    <tabTrigger>C-120A8F</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Ultramarine Colour</description>
+	</snippet>
+	

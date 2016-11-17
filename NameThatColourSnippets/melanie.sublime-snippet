@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-melanie]]></content>
+	    <tabTrigger>C-E4C2D5</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Melanie Colour</description>
+	</snippet>
+	

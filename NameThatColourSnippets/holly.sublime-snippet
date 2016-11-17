@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-holly]]></content>
+	    <tabTrigger>C-011D13</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Holly Colour</description>
+	</snippet>
+	

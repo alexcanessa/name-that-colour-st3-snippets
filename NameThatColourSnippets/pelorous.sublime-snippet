@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-pelorous]]></content>
+	    <tabTrigger>C-3EABBF</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Pelorous Colour</description>
+	</snippet>
+	

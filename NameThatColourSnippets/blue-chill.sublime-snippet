@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-blue-chill]]></content>
+	    <tabTrigger>C-0C8990</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Blue Chill Colour</description>
+	</snippet>
+	

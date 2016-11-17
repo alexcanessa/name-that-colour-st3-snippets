@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-eagle]]></content>
+	    <tabTrigger>C-B6BAA4</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Eagle Colour</description>
+	</snippet>
+	

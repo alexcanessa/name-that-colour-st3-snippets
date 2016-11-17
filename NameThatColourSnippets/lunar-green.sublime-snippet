@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-lunar-green]]></content>
+	    <tabTrigger>C-3C493A</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Lunar Green Colour</description>
+	</snippet>
+	

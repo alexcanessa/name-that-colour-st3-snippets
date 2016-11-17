@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-east-bay]]></content>
+	    <tabTrigger>C-414C7D</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>East Bay Colour</description>
+	</snippet>
+	

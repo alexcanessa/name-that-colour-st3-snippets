@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-sugar-cane]]></content>
+	    <tabTrigger>C-F9FFF6</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Sugar Cane Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-macaroni-and-cheese]]></content>
+	    <tabTrigger>C-FFB97B</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Macaroni and Cheese Colour</description>
+	</snippet>
+	

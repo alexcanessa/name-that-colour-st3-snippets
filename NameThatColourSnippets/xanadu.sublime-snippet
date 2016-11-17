@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-xanadu]]></content>
+	    <tabTrigger>C-738678</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Xanadu Colour</description>
+	</snippet>
+	

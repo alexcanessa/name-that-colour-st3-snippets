@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-kokoda]]></content>
+	    <tabTrigger>C-6E6D57</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Kokoda Colour</description>
+	</snippet>
+	

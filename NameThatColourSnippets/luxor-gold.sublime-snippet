@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-luxor-gold]]></content>
+	    <tabTrigger>C-A7882C</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Luxor Gold Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-spun-pearl]]></content>
+	    <tabTrigger>C-AAABB7</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Spun Pearl Colour</description>
+	</snippet>
+	

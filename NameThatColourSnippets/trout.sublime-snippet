@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-trout]]></content>
+	    <tabTrigger>C-4A4E5A</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Trout Colour</description>
+	</snippet>
+	

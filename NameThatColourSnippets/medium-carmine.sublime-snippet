@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-medium-carmine]]></content>
+	    <tabTrigger>C-AF4035</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Medium Carmine Colour</description>
+	</snippet>
+	

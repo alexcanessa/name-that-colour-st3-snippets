@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-crown-of-thorns]]></content>
+	    <tabTrigger>C-771F1F</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Crown of Thorns Colour</description>
+	</snippet>
+	

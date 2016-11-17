@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-roman-coffee]]></content>
+	    <tabTrigger>C-795D4C</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Roman Coffee Colour</description>
+	</snippet>
+	

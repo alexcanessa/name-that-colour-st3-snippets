@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-nile-blue]]></content>
+	    <tabTrigger>C-193751</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Nile Blue Colour</description>
+	</snippet>
+	

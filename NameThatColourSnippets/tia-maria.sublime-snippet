@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-tia-maria]]></content>
+	    <tabTrigger>C-C1440E</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Tia Maria Colour</description>
+	</snippet>
+	

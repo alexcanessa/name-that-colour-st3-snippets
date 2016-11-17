@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-carousel-pink]]></content>
+	    <tabTrigger>C-F9E0ED</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Carousel Pink Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-gorse]]></content>
+	    <tabTrigger>C-FFF14F</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Gorse Colour</description>
+	</snippet>
+	

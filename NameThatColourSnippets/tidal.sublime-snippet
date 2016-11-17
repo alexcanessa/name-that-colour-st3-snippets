@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-tidal]]></content>
+	    <tabTrigger>C-F1FFAD</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Tidal Colour</description>
+	</snippet>
+	

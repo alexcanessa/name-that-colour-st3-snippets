@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-persian-green]]></content>
+	    <tabTrigger>C-00A693</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Persian Green Colour</description>
+	</snippet>
+	

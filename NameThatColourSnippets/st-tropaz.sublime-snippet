@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-st-tropaz]]></content>
+	    <tabTrigger>C-2D569B</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>St Tropaz Colour</description>
+	</snippet>
+	

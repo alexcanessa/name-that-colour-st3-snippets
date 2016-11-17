@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-paua]]></content>
+	    <tabTrigger>C-260368</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Paua Colour</description>
+	</snippet>
+	

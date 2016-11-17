@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-off-yellow]]></content>
+	    <tabTrigger>C-FEF9E3</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Off Yellow Colour</description>
+	</snippet>
+	

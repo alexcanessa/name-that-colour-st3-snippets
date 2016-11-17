@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-ming]]></content>
+	    <tabTrigger>C-36747D</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Ming Colour</description>
+	</snippet>
+	

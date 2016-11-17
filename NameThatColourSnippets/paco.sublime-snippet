@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-paco]]></content>
+	    <tabTrigger>C-411F10</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Paco Colour</description>
+	</snippet>
+	

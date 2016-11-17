@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-elm]]></content>
+	    <tabTrigger>C-1C7C7D</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Elm Colour</description>
+	</snippet>
+	

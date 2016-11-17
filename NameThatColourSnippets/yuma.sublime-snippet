@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-yuma]]></content>
+	    <tabTrigger>C-CEC291</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Yuma Colour</description>
+	</snippet>
+	

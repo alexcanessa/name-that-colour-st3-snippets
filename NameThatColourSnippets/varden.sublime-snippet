@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-varden]]></content>
+	    <tabTrigger>C-FFF6DF</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Varden Colour</description>
+	</snippet>
+	

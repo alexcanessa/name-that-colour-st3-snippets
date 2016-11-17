@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-celery]]></content>
+	    <tabTrigger>C-B8C25D</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Celery Colour</description>
+	</snippet>
+	

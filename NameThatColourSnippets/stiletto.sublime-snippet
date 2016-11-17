@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-stiletto]]></content>
+	    <tabTrigger>C-9C3336</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Stiletto Colour</description>
+	</snippet>
+	

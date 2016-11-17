@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-sangria]]></content>
+	    <tabTrigger>C-92000A</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Sangria Colour</description>
+	</snippet>
+	

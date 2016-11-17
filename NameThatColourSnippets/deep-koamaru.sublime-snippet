@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-deep-koamaru]]></content>
+	    <tabTrigger>C-1B127B</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Deep Koamaru Colour</description>
+	</snippet>
+	

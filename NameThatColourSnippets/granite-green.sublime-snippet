@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-granite-green]]></content>
+	    <tabTrigger>C-8D8974</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Granite Green Colour</description>
+	</snippet>
+	

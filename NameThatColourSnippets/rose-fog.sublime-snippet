@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-rose-fog]]></content>
+	    <tabTrigger>C-E7BCB4</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Rose Fog Colour</description>
+	</snippet>
+	

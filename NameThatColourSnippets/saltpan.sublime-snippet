@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-saltpan]]></content>
+	    <tabTrigger>C-F1F7F2</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Saltpan Colour</description>
+	</snippet>
+	

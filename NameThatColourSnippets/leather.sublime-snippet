@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-leather]]></content>
+	    <tabTrigger>C-967059</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Leather Colour</description>
+	</snippet>
+	

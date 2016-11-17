@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-kidnapper]]></content>
+	    <tabTrigger>C-E1EAD4</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Kidnapper Colour</description>
+	</snippet>
+	

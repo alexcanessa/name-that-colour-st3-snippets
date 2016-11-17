@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-cannon-black]]></content>
+	    <tabTrigger>C-251706</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Cannon Black Colour</description>
+	</snippet>
+	

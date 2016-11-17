@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-vivid-violet]]></content>
+	    <tabTrigger>C-803790</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Vivid Violet Colour</description>
+	</snippet>
+	

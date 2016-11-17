@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-cashmere]]></content>
+	    <tabTrigger>C-E6BEA5</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Cashmere Colour</description>
+	</snippet>
+	

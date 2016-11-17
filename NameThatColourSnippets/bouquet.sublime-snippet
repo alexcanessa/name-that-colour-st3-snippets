@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-bouquet]]></content>
+	    <tabTrigger>C-AE809E</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Bouquet Colour</description>
+	</snippet>
+	

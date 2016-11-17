@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-wild-rice]]></content>
+	    <tabTrigger>C-ECE090</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Wild Rice Colour</description>
+	</snippet>
+	

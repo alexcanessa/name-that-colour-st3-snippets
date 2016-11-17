@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-pot-pourri]]></content>
+	    <tabTrigger>C-F5E7E2</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Pot Pourri Colour</description>
+	</snippet>
+	

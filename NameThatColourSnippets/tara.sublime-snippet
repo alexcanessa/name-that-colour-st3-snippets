@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-tara]]></content>
+	    <tabTrigger>C-E1F6E8</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Tara Colour</description>
+	</snippet>
+	

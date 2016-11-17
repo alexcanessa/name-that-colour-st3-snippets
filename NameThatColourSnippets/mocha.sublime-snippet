@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-mocha]]></content>
+	    <tabTrigger>C-782D19</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Mocha Colour</description>
+	</snippet>
+	

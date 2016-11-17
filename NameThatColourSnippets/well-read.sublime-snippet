@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-well-read]]></content>
+	    <tabTrigger>C-B43332</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Well Read Colour</description>
+	</snippet>
+	

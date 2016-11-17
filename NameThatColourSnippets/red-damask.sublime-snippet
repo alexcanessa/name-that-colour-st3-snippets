@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-red-damask]]></content>
+	    <tabTrigger>C-DA6A41</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Red Damask Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-valhalla]]></content>
+	    <tabTrigger>C-2B194F</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Valhalla Colour</description>
+	</snippet>
+	

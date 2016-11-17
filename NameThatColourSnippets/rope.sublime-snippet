@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-rope]]></content>
+	    <tabTrigger>C-8E4D1E</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Rope Colour</description>
+	</snippet>
+	

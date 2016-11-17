@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-congo-brown]]></content>
+	    <tabTrigger>C-593737</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Congo Brown Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-crail]]></content>
+	    <tabTrigger>C-B95140</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Crail Colour</description>
+	</snippet>
+	

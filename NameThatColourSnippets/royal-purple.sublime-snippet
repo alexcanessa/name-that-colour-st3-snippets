@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-royal-purple]]></content>
+	    <tabTrigger>C-6B3FA0</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Royal Purple Colour</description>
+	</snippet>
+	

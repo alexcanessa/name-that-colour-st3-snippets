@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-cello]]></content>
+	    <tabTrigger>C-1E385B</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Cello Colour</description>
+	</snippet>
+	

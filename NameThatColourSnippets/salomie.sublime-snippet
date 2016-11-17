@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-salomie]]></content>
+	    <tabTrigger>C-FEDB8D</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Salomie Colour</description>
+	</snippet>
+	

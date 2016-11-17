@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-soapstone]]></content>
+	    <tabTrigger>C-FFFBF9</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Soapstone Colour</description>
+	</snippet>
+	

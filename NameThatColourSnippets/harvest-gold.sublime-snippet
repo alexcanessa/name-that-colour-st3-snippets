@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-harvest-gold]]></content>
+	    <tabTrigger>C-E0B974</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Harvest Gold Colour</description>
+	</snippet>
+	

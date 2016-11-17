@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-denim]]></content>
+	    <tabTrigger>C-1560BD</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Denim Colour</description>
+	</snippet>
+	

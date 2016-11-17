@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-sandwisp]]></content>
+	    <tabTrigger>C-F5E7A2</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Sandwisp Colour</description>
+	</snippet>
+	

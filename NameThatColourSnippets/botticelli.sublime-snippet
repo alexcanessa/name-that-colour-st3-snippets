@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-botticelli]]></content>
+	    <tabTrigger>C-C7DDE5</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Botticelli Colour</description>
+	</snippet>
+	

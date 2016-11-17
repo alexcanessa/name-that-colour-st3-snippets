@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-spring-leaves]]></content>
+	    <tabTrigger>C-578363</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Spring Leaves Colour</description>
+	</snippet>
+	

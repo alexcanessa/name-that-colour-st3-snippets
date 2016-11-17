@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-pale-slate]]></content>
+	    <tabTrigger>C-C3BFC1</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Pale Slate Colour</description>
+	</snippet>
+	

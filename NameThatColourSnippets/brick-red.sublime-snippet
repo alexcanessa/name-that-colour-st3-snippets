@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-brick-red]]></content>
+	    <tabTrigger>C-C62D42</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Brick Red Colour</description>
+	</snippet>
+	

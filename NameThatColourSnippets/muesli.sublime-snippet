@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-muesli]]></content>
+	    <tabTrigger>C-AA8B5B</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Muesli Colour</description>
+	</snippet>
+	

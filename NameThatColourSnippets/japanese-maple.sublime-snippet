@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-japanese-maple]]></content>
+	    <tabTrigger>C-780109</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Japanese Maple Colour</description>
+	</snippet>
+	

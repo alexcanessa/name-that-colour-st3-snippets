@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-flint]]></content>
+	    <tabTrigger>C-6F6A61</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Flint Colour</description>
+	</snippet>
+	

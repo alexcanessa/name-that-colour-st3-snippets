@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-vulcan]]></content>
+	    <tabTrigger>C-10121D</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Vulcan Colour</description>
+	</snippet>
+	

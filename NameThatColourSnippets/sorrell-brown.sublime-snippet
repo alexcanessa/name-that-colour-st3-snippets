@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-sorrell-brown]]></content>
+	    <tabTrigger>C-CEB98F</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Sorrell Brown Colour</description>
+	</snippet>
+	

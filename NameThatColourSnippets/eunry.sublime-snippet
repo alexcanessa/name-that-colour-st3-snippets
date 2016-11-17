@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-eunry]]></content>
+	    <tabTrigger>C-CFA39D</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Eunry Colour</description>
+	</snippet>
+	

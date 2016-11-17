@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-log-cabin]]></content>
+	    <tabTrigger>C-242A1D</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Log Cabin Colour</description>
+	</snippet>
+	

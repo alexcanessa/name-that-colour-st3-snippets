@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-astra]]></content>
+	    <tabTrigger>C-FAEAB9</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Astra Colour</description>
+	</snippet>
+	

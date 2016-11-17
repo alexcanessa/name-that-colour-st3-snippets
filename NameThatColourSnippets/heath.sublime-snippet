@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-heath]]></content>
+	    <tabTrigger>C-541012</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Heath Colour</description>
+	</snippet>
+	

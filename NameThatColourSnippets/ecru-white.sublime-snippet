@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-ecru-white]]></content>
+	    <tabTrigger>C-F5F3E5</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Ecru White Colour</description>
+	</snippet>
+	

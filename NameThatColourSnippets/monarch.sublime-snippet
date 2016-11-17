@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-monarch]]></content>
+	    <tabTrigger>C-8B0723</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Monarch Colour</description>
+	</snippet>
+	

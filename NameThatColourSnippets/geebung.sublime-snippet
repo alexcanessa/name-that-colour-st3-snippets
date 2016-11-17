@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-geebung]]></content>
+	    <tabTrigger>C-D18F1B</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Geebung Colour</description>
+	</snippet>
+	

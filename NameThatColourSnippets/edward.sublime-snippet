@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-edward]]></content>
+	    <tabTrigger>C-A2AEAB</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Edward Colour</description>
+	</snippet>
+	

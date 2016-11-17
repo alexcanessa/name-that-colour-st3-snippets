@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-gimblet]]></content>
+	    <tabTrigger>C-B8B56A</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Gimblet Colour</description>
+	</snippet>
+	

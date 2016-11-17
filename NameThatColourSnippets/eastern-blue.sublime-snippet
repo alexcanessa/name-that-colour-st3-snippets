@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-eastern-blue]]></content>
+	    <tabTrigger>C-1E9AB0</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Eastern Blue Colour</description>
+	</snippet>
+	

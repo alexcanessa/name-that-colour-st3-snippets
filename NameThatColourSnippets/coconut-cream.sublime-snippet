@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-coconut-cream]]></content>
+	    <tabTrigger>C-F8F7DC</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Coconut Cream Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-corduroy]]></content>
+	    <tabTrigger>C-606E68</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Corduroy Colour</description>
+	</snippet>
+	

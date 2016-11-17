@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-negroni]]></content>
+	    <tabTrigger>C-FFE2C5</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Negroni Colour</description>
+	</snippet>
+	

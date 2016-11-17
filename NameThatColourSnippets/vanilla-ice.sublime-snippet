@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-vanilla-ice]]></content>
+	    <tabTrigger>C-F3D9DF</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Vanilla Ice Colour</description>
+	</snippet>
+	

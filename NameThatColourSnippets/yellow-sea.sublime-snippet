@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-yellow-sea]]></content>
+	    <tabTrigger>C-FEA904</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Yellow Sea Colour</description>
+	</snippet>
+	

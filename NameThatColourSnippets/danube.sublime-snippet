@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-danube]]></content>
+	    <tabTrigger>C-6093D1</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Danube Colour</description>
+	</snippet>
+	

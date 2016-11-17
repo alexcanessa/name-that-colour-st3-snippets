@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-persian-red]]></content>
+	    <tabTrigger>C-CC3333</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Persian Red Colour</description>
+	</snippet>
+	

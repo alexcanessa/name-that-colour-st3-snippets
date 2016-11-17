@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-saddle]]></content>
+	    <tabTrigger>C-4C3024</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Saddle Colour</description>
+	</snippet>
+	

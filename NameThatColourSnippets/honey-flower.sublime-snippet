@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-honey-flower]]></content>
+	    <tabTrigger>C-4F1C70</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Honey Flower Colour</description>
+	</snippet>
+	

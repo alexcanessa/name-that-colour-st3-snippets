@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-ash]]></content>
+	    <tabTrigger>C-C6C3B5</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Ash Colour</description>
+	</snippet>
+	

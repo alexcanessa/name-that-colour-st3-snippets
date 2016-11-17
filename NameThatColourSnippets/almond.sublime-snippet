@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-almond]]></content>
+	    <tabTrigger>C-EED9C4</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Almond Colour</description>
+	</snippet>
+	

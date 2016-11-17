@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-flamenco]]></content>
+	    <tabTrigger>C-FF7D07</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Flamenco Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-provincial-pink]]></content>
+	    <tabTrigger>C-FEF5F1</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Provincial Pink Colour</description>
+	</snippet>
+	

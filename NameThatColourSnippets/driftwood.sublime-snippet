@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-driftwood]]></content>
+	    <tabTrigger>C-AF8751</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Driftwood Colour</description>
+	</snippet>
+	

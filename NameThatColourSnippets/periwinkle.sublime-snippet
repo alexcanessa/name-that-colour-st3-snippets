@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-periwinkle]]></content>
+	    <tabTrigger>C-CCCCFF</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Periwinkle Colour</description>
+	</snippet>
+	

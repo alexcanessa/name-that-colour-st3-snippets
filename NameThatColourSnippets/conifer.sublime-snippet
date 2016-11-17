@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-conifer]]></content>
+	    <tabTrigger>C-ACDD4D</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Conifer Colour</description>
+	</snippet>
+	

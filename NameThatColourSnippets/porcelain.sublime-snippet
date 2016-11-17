@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-porcelain]]></content>
+	    <tabTrigger>C-EFF2F3</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Porcelain Colour</description>
+	</snippet>
+	

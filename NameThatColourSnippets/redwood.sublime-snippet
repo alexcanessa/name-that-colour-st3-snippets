@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-redwood]]></content>
+	    <tabTrigger>C-5D1E0F</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Redwood Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-turtle-green]]></content>
+	    <tabTrigger>C-2A380B</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Turtle Green Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-seashell]]></content>
+	    <tabTrigger>C-F1F1F1</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Seashell Colour</description>
+	</snippet>
+	

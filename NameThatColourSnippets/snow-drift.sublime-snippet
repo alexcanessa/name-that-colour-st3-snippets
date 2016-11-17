@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-snow-drift]]></content>
+	    <tabTrigger>C-F7FAF7</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Snow Drift Colour</description>
+	</snippet>
+	

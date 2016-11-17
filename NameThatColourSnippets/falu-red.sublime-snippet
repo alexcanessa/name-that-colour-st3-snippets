@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-falu-red]]></content>
+	    <tabTrigger>C-801818</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Falu Red Colour</description>
+	</snippet>
+	

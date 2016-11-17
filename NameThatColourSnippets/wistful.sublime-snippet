@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-wistful]]></content>
+	    <tabTrigger>C-A4A6D3</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Wistful Colour</description>
+	</snippet>
+	

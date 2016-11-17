@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-kaitoke-green]]></content>
+	    <tabTrigger>C-004620</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Kaitoke Green Colour</description>
+	</snippet>
+	

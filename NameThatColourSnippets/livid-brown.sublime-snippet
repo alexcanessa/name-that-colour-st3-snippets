@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-livid-brown]]></content>
+	    <tabTrigger>C-4D282E</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Livid Brown Colour</description>
+	</snippet>
+	

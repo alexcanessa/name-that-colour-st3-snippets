@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-crusoe]]></content>
+	    <tabTrigger>C-004816</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Crusoe Colour</description>
+	</snippet>
+	

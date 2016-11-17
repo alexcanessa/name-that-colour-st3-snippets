@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-milano-red]]></content>
+	    <tabTrigger>C-B81104</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Milano Red Colour</description>
+	</snippet>
+	

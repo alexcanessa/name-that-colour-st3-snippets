@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-terracotta]]></content>
+	    <tabTrigger>C-E2725B</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Terracotta Colour</description>
+	</snippet>
+	

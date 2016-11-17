@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-tasman]]></content>
+	    <tabTrigger>C-CFDCCF</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Tasman Colour</description>
+	</snippet>
+	

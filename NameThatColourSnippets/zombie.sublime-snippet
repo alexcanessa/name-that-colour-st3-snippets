@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-zombie]]></content>
+	    <tabTrigger>C-E4D69B</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Zombie Colour</description>
+	</snippet>
+	

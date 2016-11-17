@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-sunglow]]></content>
+	    <tabTrigger>C-FFCC33</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Sunglow Colour</description>
+	</snippet>
+	

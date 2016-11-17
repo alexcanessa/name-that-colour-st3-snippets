@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-sinbad]]></content>
+	    <tabTrigger>C-9FD7D3</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Sinbad Colour</description>
+	</snippet>
+	

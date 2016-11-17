@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-portage]]></content>
+	    <tabTrigger>C-8B9FEE</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Portage Colour</description>
+	</snippet>
+	

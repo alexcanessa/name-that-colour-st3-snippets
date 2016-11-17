@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-web-orange]]></content>
+	    <tabTrigger>C-FFA500</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Web Orange Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-bright-gray]]></content>
+	    <tabTrigger>C-3C4151</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Bright Gray Colour</description>
+	</snippet>
+	

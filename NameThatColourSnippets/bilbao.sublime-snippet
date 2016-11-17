@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-bilbao]]></content>
+	    <tabTrigger>C-327C14</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Bilbao Colour</description>
+	</snippet>
+	

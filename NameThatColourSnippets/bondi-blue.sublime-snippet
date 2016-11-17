@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-bondi-blue]]></content>
+	    <tabTrigger>C-0095B6</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Bondi Blue Colour</description>
+	</snippet>
+	

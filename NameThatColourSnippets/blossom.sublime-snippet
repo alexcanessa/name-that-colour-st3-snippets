@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-blossom]]></content>
+	    <tabTrigger>C-DCB4BC</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Blossom Colour</description>
+	</snippet>
+	

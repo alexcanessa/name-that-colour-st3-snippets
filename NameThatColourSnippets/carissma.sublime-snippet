@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-carissma]]></content>
+	    <tabTrigger>C-EA88A8</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Carissma Colour</description>
+	</snippet>
+	

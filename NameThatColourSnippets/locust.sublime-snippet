@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-locust]]></content>
+	    <tabTrigger>C-A8AF8E</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Locust Colour</description>
+	</snippet>
+	

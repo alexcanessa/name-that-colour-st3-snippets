@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-indigo]]></content>
+	    <tabTrigger>C-4F69C6</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Indigo Colour</description>
+	</snippet>
+	

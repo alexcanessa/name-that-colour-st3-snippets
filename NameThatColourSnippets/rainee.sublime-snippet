@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-rainee]]></content>
+	    <tabTrigger>C-B9C8AC</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Rainee Colour</description>
+	</snippet>
+	

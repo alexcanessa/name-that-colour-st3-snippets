@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-silver-rust]]></content>
+	    <tabTrigger>C-C9C0BB</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Silver Rust Colour</description>
+	</snippet>
+	

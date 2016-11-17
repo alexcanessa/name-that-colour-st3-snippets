@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-chatelle]]></content>
+	    <tabTrigger>C-BDB3C7</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Chatelle Colour</description>
+	</snippet>
+	

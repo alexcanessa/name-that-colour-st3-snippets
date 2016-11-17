@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-mimosa]]></content>
+	    <tabTrigger>C-F8FDD3</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Mimosa Colour</description>
+	</snippet>
+	

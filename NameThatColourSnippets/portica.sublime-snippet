@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-portica]]></content>
+	    <tabTrigger>C-F9E663</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Portica Colour</description>
+	</snippet>
+	

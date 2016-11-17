@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-english-walnut]]></content>
+	    <tabTrigger>C-3E2B23</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>English Walnut Colour</description>
+	</snippet>
+	

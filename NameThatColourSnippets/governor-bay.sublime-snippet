@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-governor-bay]]></content>
+	    <tabTrigger>C-2F3CB3</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Governor Bay Colour</description>
+	</snippet>
+	

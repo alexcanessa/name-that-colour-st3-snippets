@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-swirl]]></content>
+	    <tabTrigger>C-D3CDC5</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Swirl Colour</description>
+	</snippet>
+	

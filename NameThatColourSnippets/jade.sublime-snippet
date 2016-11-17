@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-jade]]></content>
+	    <tabTrigger>C-00A86B</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Jade Colour</description>
+	</snippet>
+	

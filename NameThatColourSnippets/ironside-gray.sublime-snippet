@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-ironside-gray]]></content>
+	    <tabTrigger>C-676662</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Ironside Gray Colour</description>
+	</snippet>
+	

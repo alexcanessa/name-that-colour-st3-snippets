@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-mojo]]></content>
+	    <tabTrigger>C-C04737</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Mojo Colour</description>
+	</snippet>
+	

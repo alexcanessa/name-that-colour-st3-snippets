@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-pippin]]></content>
+	    <tabTrigger>C-FFE1DF</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Pippin Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-pine-green]]></content>
+	    <tabTrigger>C-01796F</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Pine Green Colour</description>
+	</snippet>
+	

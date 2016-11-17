@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-biloba-flower]]></content>
+	    <tabTrigger>C-B2A1EA</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Biloba Flower Colour</description>
+	</snippet>
+	

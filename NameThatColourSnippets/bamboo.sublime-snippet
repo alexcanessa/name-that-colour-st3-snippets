@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-bamboo]]></content>
+	    <tabTrigger>C-DA6304</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Bamboo Colour</description>
+	</snippet>
+	

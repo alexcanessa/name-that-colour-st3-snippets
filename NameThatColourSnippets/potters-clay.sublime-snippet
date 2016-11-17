@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-potters-clay]]></content>
+	    <tabTrigger>C-8C5738</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Potters Clay Colour</description>
+	</snippet>
+	

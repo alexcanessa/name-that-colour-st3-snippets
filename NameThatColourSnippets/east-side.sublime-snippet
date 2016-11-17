@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-east-side]]></content>
+	    <tabTrigger>C-AC91CE</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>East Side Colour</description>
+	</snippet>
+	

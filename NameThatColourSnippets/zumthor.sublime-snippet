@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-zumthor]]></content>
+	    <tabTrigger>C-EDF6FF</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Zumthor Colour</description>
+	</snippet>
+	

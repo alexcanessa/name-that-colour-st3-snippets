@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-lightning-yellow]]></content>
+	    <tabTrigger>C-FCC01E</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Lightning Yellow Colour</description>
+	</snippet>
+	

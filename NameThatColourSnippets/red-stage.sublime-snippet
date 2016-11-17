@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-red-stage]]></content>
+	    <tabTrigger>C-D05F04</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Red Stage Colour</description>
+	</snippet>
+	

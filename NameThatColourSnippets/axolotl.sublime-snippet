@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-axolotl]]></content>
+	    <tabTrigger>C-4E6649</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Axolotl Colour</description>
+	</snippet>
+	

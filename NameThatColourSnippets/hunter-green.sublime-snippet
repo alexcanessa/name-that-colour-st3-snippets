@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-hunter-green]]></content>
+	    <tabTrigger>C-161D10</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Hunter Green Colour</description>
+	</snippet>
+	

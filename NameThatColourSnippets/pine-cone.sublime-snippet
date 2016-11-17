@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-pine-cone]]></content>
+	    <tabTrigger>C-6D5E54</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Pine Cone Colour</description>
+	</snippet>
+	

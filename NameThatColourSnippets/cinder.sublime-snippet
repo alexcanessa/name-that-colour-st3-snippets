@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-cinder]]></content>
+	    <tabTrigger>C-0E0E18</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Cinder Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-cognac]]></content>
+	    <tabTrigger>C-9F381D</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Cognac Colour</description>
+	</snippet>
+	

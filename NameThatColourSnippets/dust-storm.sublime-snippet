@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-dust-storm]]></content>
+	    <tabTrigger>C-E5CCC9</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Dust Storm Colour</description>
+	</snippet>
+	

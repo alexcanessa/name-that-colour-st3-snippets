@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-stonewall]]></content>
+	    <tabTrigger>C-928573</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Stonewall Colour</description>
+	</snippet>
+	

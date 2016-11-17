@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-oyster-pink]]></content>
+	    <tabTrigger>C-E9CECD</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Oyster Pink Colour</description>
+	</snippet>
+	

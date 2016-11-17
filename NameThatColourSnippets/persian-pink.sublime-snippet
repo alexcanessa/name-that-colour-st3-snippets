@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-persian-pink]]></content>
+	    <tabTrigger>C-F77FBE</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Persian Pink Colour</description>
+	</snippet>
+	

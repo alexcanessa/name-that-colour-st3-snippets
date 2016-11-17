@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-catskill-white]]></content>
+	    <tabTrigger>C-EEF6F7</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Catskill White Colour</description>
+	</snippet>
+	

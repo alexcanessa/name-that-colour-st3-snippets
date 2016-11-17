@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-quincy]]></content>
+	    <tabTrigger>C-623F2D</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Quincy Colour</description>
+	</snippet>
+	

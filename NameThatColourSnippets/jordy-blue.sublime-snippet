@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-jordy-blue]]></content>
+	    <tabTrigger>C-8AB9F1</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Jordy Blue Colour</description>
+	</snippet>
+	

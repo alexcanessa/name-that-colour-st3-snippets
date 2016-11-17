@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-perano]]></content>
+	    <tabTrigger>C-A9BEF2</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Perano Colour</description>
+	</snippet>
+	

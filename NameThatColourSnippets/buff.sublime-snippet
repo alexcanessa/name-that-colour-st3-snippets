@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-buff]]></content>
+	    <tabTrigger>C-F0DC82</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Buff Colour</description>
+	</snippet>
+	

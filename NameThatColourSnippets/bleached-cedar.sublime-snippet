@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-bleached-cedar]]></content>
+	    <tabTrigger>C-2C2133</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Bleached Cedar Colour</description>
+	</snippet>
+	

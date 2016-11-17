@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-frost]]></content>
+	    <tabTrigger>C-EDF5DD</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Frost Colour</description>
+	</snippet>
+	

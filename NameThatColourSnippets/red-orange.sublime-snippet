@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-red-orange]]></content>
+	    <tabTrigger>C-FF3F34</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Red Orange Colour</description>
+	</snippet>
+	

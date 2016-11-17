@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-tower-gray]]></content>
+	    <tabTrigger>C-A9BDBF</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Tower Gray Colour</description>
+	</snippet>
+	

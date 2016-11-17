@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-lily]]></content>
+	    <tabTrigger>C-C8AABF</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Lily Colour</description>
+	</snippet>
+	

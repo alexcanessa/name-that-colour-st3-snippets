@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-remy]]></content>
+	    <tabTrigger>C-FEEBF3</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Remy Colour</description>
+	</snippet>
+	

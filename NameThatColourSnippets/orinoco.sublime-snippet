@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-orinoco]]></content>
+	    <tabTrigger>C-F3FBD4</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Orinoco Colour</description>
+	</snippet>
+	

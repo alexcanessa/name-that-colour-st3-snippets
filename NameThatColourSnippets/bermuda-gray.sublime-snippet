@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-bermuda-gray]]></content>
+	    <tabTrigger>C-6B8BA2</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Bermuda Gray Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-cruise]]></content>
+	    <tabTrigger>C-B5ECDF</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Cruise Colour</description>
+	</snippet>
+	

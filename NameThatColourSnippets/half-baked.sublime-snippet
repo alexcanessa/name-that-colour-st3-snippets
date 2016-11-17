@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-half-baked]]></content>
+	    <tabTrigger>C-85C4CC</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Half Baked Colour</description>
+	</snippet>
+	

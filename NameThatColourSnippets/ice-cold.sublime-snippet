@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-ice-cold]]></content>
+	    <tabTrigger>C-B1F4E7</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Ice Cold Colour</description>
+	</snippet>
+	

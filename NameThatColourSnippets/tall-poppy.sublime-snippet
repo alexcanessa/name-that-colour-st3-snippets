@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-tall-poppy]]></content>
+	    <tabTrigger>C-B32D29</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Tall Poppy Colour</description>
+	</snippet>
+	

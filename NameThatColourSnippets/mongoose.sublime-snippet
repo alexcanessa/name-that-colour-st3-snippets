@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-mongoose]]></content>
+	    <tabTrigger>C-B5A27F</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Mongoose Colour</description>
+	</snippet>
+	

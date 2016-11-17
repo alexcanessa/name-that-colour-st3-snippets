@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-oyster-bay]]></content>
+	    <tabTrigger>C-DAFAFF</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Oyster Bay Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-bison-hide]]></content>
+	    <tabTrigger>C-C1B7A4</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Bison Hide Colour</description>
+	</snippet>
+	

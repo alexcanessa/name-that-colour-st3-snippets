@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-papaya-whip]]></content>
+	    <tabTrigger>C-FFEFD5</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Papaya Whip Colour</description>
+	</snippet>
+	

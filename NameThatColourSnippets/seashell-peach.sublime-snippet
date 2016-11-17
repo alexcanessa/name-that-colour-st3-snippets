@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-seashell-peach]]></content>
+	    <tabTrigger>C-FFF5EE</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Seashell Peach Colour</description>
+	</snippet>
+	

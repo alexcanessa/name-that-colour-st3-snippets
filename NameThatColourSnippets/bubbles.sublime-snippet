@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-bubbles]]></content>
+	    <tabTrigger>C-E7FEFF</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Bubbles Colour</description>
+	</snippet>
+	

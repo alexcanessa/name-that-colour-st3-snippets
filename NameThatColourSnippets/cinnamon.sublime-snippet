@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-cinnamon]]></content>
+	    <tabTrigger>C-7B3F00</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Cinnamon Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-gumbo]]></content>
+	    <tabTrigger>C-7CA1A6</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Gumbo Colour</description>
+	</snippet>
+	

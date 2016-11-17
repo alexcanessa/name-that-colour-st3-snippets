@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-swans-down]]></content>
+	    <tabTrigger>C-DCF0EA</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Swans Down Colour</description>
+	</snippet>
+	

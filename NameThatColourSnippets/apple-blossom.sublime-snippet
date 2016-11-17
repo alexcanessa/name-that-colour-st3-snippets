@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-apple-blossom]]></content>
+	    <tabTrigger>C-AF4D43</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Apple Blossom Colour</description>
+	</snippet>
+	

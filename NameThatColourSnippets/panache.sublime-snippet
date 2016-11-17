@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-panache]]></content>
+	    <tabTrigger>C-EAF6EE</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Panache Colour</description>
+	</snippet>
+	

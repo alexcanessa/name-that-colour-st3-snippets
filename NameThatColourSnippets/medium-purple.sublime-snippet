@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-medium-purple]]></content>
+	    <tabTrigger>C-9370DB</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Medium Purple Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-anakiwa]]></content>
+	    <tabTrigger>C-9DE5FF</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Anakiwa Colour</description>
+	</snippet>
+	

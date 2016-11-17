@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-sandy-beach]]></content>
+	    <tabTrigger>C-FFEAC8</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Sandy Beach Colour</description>
+	</snippet>
+	

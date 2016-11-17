@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-everglade]]></content>
+	    <tabTrigger>C-1C402E</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Everglade Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-japanese-laurel]]></content>
+	    <tabTrigger>C-0A6906</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Japanese Laurel Colour</description>
+	</snippet>
+	

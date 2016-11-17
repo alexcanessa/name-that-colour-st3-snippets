@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-sprout]]></content>
+	    <tabTrigger>C-C1D7B0</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Sprout Colour</description>
+	</snippet>
+	

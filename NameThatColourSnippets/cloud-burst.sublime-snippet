@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-cloud-burst]]></content>
+	    <tabTrigger>C-202E54</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Cloud Burst Colour</description>
+	</snippet>
+	

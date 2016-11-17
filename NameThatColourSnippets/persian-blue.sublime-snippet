@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-persian-blue]]></content>
+	    <tabTrigger>C-1C39BB</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Persian Blue Colour</description>
+	</snippet>
+	

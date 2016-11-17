@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-iroko]]></content>
+	    <tabTrigger>C-433120</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Iroko Colour</description>
+	</snippet>
+	

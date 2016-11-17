@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-paris-daisy]]></content>
+	    <tabTrigger>C-FFF46E</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Paris Daisy Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-elf-green]]></content>
+	    <tabTrigger>C-088370</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Elf Green Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-costa-del-sol]]></content>
+	    <tabTrigger>C-615D30</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Costa Del Sol Colour</description>
+	</snippet>
+	

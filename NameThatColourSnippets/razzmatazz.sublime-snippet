@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-razzmatazz]]></content>
+	    <tabTrigger>C-E30B5C</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Razzmatazz Colour</description>
+	</snippet>
+	

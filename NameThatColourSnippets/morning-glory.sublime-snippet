@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-morning-glory]]></content>
+	    <tabTrigger>C-9EDEE0</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Morning Glory Colour</description>
+	</snippet>
+	

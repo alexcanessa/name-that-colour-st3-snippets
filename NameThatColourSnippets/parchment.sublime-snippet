@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-parchment]]></content>
+	    <tabTrigger>C-F1E9D2</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Parchment Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-onahau]]></content>
+	    <tabTrigger>C-CDF4FF</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Onahau Colour</description>
+	</snippet>
+	

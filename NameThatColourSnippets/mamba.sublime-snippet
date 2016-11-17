@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-mamba]]></content>
+	    <tabTrigger>C-8E8190</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Mamba Colour</description>
+	</snippet>
+	

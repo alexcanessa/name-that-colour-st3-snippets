@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-double-spanish-white]]></content>
+	    <tabTrigger>C-E6D7B9</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Double Spanish White Colour</description>
+	</snippet>
+	

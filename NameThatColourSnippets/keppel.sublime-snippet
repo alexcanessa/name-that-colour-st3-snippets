@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-keppel]]></content>
+	    <tabTrigger>C-3AB09E</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Keppel Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-golden-tainoi]]></content>
+	    <tabTrigger>C-FFCC5C</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Golden Tainoi Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-blue-stone]]></content>
+	    <tabTrigger>C-016162</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Blue Stone Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-chateau-green]]></content>
+	    <tabTrigger>C-40A860</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Chateau Green Colour</description>
+	</snippet>
+	

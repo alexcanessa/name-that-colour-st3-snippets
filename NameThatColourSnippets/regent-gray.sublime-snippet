@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-regent-gray]]></content>
+	    <tabTrigger>C-86949F</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Regent Gray Colour</description>
+	</snippet>
+	

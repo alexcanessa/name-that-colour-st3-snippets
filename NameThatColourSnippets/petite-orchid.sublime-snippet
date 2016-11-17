@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-petite-orchid]]></content>
+	    <tabTrigger>C-DB9690</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Petite Orchid Colour</description>
+	</snippet>
+	

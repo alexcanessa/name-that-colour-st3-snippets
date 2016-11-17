@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-chathams-blue]]></content>
+	    <tabTrigger>C-175579</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Chathams Blue Colour</description>
+	</snippet>
+	

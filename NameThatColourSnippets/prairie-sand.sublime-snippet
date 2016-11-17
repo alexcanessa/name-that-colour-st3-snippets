@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-prairie-sand]]></content>
+	    <tabTrigger>C-9A3820</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Prairie Sand Colour</description>
+	</snippet>
+	

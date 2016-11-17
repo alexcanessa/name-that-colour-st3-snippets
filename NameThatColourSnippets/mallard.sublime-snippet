@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-mallard]]></content>
+	    <tabTrigger>C-233418</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Mallard Colour</description>
+	</snippet>
+	

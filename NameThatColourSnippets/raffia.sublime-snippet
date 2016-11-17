@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-raffia]]></content>
+	    <tabTrigger>C-EADAB8</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Raffia Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-americano]]></content>
+	    <tabTrigger>C-87756E</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Americano Colour</description>
+	</snippet>
+	

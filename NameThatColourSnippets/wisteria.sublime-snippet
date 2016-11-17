@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-wisteria]]></content>
+	    <tabTrigger>C-9771B5</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Wisteria Colour</description>
+	</snippet>
+	

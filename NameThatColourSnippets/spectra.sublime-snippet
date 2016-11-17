@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-spectra]]></content>
+	    <tabTrigger>C-2F5A57</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Spectra Colour</description>
+	</snippet>
+	

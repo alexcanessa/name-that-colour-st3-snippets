@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-pastel-pink]]></content>
+	    <tabTrigger>C-FFD1DC</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Pastel Pink Colour</description>
+	</snippet>
+	

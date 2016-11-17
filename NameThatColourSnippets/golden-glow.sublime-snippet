@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-golden-glow]]></content>
+	    <tabTrigger>C-FDE295</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Golden Glow Colour</description>
+	</snippet>
+	

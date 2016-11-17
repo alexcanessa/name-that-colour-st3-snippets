@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-roti]]></content>
+	    <tabTrigger>C-C6A84B</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Roti Colour</description>
+	</snippet>
+	

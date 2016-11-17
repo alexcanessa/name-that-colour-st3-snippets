@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-pharlap]]></content>
+	    <tabTrigger>C-A3807B</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Pharlap Colour</description>
+	</snippet>
+	

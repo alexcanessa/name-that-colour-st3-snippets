@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-jagger]]></content>
+	    <tabTrigger>C-350E57</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Jagger Colour</description>
+	</snippet>
+	

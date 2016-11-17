@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-dawn-pink]]></content>
+	    <tabTrigger>C-F3E9E5</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Dawn Pink Colour</description>
+	</snippet>
+	

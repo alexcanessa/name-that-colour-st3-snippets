@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-cameo]]></content>
+	    <tabTrigger>C-D9B99B</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Cameo Colour</description>
+	</snippet>
+	

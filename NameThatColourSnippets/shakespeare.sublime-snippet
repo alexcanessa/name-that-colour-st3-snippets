@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-shakespeare]]></content>
+	    <tabTrigger>C-4EABD1</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Shakespeare Colour</description>
+	</snippet>
+	

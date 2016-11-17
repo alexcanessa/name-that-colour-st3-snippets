@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-merlin]]></content>
+	    <tabTrigger>C-413C37</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Merlin Colour</description>
+	</snippet>
+	

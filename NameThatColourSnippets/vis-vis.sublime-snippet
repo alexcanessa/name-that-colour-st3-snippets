@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-vis-vis]]></content>
+	    <tabTrigger>C-FFEFA1</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Vis Vis Colour</description>
+	</snippet>
+	

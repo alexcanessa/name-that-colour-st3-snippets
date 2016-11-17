@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-french-rose]]></content>
+	    <tabTrigger>C-F64A8A</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>French Rose Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-cab-sav]]></content>
+	    <tabTrigger>C-4D0A18</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Cab Sav Colour</description>
+	</snippet>
+	

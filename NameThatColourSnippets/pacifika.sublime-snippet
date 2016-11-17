@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-pacifika]]></content>
+	    <tabTrigger>C-778120</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Pacifika Colour</description>
+	</snippet>
+	

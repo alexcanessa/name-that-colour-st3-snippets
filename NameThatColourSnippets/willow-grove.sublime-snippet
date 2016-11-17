@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-willow-grove]]></content>
+	    <tabTrigger>C-65745D</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Willow Grove Colour</description>
+	</snippet>
+	

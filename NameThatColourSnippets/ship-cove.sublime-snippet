@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-ship-cove]]></content>
+	    <tabTrigger>C-788BBA</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Ship Cove Colour</description>
+	</snippet>
+	

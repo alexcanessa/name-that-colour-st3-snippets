@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-pixie-green]]></content>
+	    <tabTrigger>C-C0D8B6</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Pixie Green Colour</description>
+	</snippet>
+	

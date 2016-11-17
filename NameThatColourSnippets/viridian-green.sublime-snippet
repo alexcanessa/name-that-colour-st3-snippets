@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-viridian-green]]></content>
+	    <tabTrigger>C-678975</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Viridian Green Colour</description>
+	</snippet>
+	

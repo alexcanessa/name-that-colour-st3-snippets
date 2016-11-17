@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-mobster]]></content>
+	    <tabTrigger>C-7F7589</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Mobster Colour</description>
+	</snippet>
+	

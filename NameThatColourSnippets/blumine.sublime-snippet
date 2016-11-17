@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-blumine]]></content>
+	    <tabTrigger>C-18587A</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Blumine Colour</description>
+	</snippet>
+	

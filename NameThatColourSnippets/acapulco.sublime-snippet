@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-acapulco]]></content>
+	    <tabTrigger>C-7CB0A1</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Acapulco Colour</description>
+	</snippet>
+	

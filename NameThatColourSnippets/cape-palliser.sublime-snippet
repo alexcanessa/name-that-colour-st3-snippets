@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-cape-palliser]]></content>
+	    <tabTrigger>C-A26645</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Cape Palliser Colour</description>
+	</snippet>
+	

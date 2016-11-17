@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-brown-pod]]></content>
+	    <tabTrigger>C-401801</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Brown Pod Colour</description>
+	</snippet>
+	

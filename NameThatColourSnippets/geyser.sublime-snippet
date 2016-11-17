@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-geyser]]></content>
+	    <tabTrigger>C-D4DFE2</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Geyser Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-disco]]></content>
+	    <tabTrigger>C-871550</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Disco Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-festival]]></content>
+	    <tabTrigger>C-FBE96C</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Festival Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-pumice]]></content>
+	    <tabTrigger>C-C2CAC4</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Pumice Colour</description>
+	</snippet>
+	

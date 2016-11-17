@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-grenadier]]></content>
+	    <tabTrigger>C-D54600</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Grenadier Colour</description>
+	</snippet>
+	

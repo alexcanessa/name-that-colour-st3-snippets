@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-friar-gray]]></content>
+	    <tabTrigger>C-807E79</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Friar Gray Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-flush-mahogany]]></content>
+	    <tabTrigger>C-CA3435</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Flush Mahogany Colour</description>
+	</snippet>
+	

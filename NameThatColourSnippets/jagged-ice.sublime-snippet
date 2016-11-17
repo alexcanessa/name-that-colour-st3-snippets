@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-jagged-ice]]></content>
+	    <tabTrigger>C-C2E8E5</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Jagged Ice Colour</description>
+	</snippet>
+	

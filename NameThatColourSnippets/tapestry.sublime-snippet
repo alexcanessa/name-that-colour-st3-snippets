@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-tapestry]]></content>
+	    <tabTrigger>C-B05E81</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Tapestry Colour</description>
+	</snippet>
+	

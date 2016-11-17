@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-timber-green]]></content>
+	    <tabTrigger>C-16322C</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Timber Green Colour</description>
+	</snippet>
+	

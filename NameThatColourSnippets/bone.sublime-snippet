@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-bone]]></content>
+	    <tabTrigger>C-E4D1C0</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Bone Colour</description>
+	</snippet>
+	

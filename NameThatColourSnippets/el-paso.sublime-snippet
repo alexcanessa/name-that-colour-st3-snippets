@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-el-paso]]></content>
+	    <tabTrigger>C-1E1708</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>El Paso Colour</description>
+	</snippet>
+	

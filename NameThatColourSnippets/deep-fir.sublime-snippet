@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-deep-fir]]></content>
+	    <tabTrigger>C-002900</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Deep Fir Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-gun-powder]]></content>
+	    <tabTrigger>C-414257</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Gun Powder Colour</description>
+	</snippet>
+	

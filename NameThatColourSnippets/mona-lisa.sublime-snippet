@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-mona-lisa]]></content>
+	    <tabTrigger>C-FFA194</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Mona Lisa Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-horizon]]></content>
+	    <tabTrigger>C-5A87A0</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Horizon Colour</description>
+	</snippet>
+	

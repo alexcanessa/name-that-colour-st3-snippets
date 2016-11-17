@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-hint-of-green]]></content>
+	    <tabTrigger>C-E6FFE9</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Hint of Green Colour</description>
+	</snippet>
+	

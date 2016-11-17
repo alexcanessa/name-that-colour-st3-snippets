@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-amazon]]></content>
+	    <tabTrigger>C-3B7A57</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Amazon Colour</description>
+	</snippet>
+	

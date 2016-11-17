@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-medium-red-violet]]></content>
+	    <tabTrigger>C-BB3385</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Medium Red Violet Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-selago]]></content>
+	    <tabTrigger>C-F0EEFD</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Selago Colour</description>
+	</snippet>
+	

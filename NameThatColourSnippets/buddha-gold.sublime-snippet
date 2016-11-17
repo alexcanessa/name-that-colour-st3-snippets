@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-buddha-gold]]></content>
+	    <tabTrigger>C-C1A004</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Buddha Gold Colour</description>
+	</snippet>
+	

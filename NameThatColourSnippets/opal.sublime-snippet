@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-opal]]></content>
+	    <tabTrigger>C-A9C6C2</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Opal Colour</description>
+	</snippet>
+	

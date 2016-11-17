@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-snow-flurry]]></content>
+	    <tabTrigger>C-E4FFD1</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Snow Flurry Colour</description>
+	</snippet>
+	

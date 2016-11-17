@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-loulou]]></content>
+	    <tabTrigger>C-460B41</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Loulou Colour</description>
+	</snippet>
+	

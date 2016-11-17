@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-tree-poppy]]></content>
+	    <tabTrigger>C-FC9C1D</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Tree Poppy Colour</description>
+	</snippet>
+	

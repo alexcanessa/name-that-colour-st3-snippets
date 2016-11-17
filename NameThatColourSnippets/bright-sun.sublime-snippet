@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-bright-sun]]></content>
+	    <tabTrigger>C-FED33C</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Bright Sun Colour</description>
+	</snippet>
+	

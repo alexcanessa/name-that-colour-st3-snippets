@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-tosca]]></content>
+	    <tabTrigger>C-8D3F3F</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Tosca Colour</description>
+	</snippet>
+	

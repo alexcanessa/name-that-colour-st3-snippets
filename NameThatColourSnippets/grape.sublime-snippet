@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-grape]]></content>
+	    <tabTrigger>C-381A51</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Grape Colour</description>
+	</snippet>
+	

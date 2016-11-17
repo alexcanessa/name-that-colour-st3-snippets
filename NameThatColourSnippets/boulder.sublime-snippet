@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-boulder]]></content>
+	    <tabTrigger>C-7A7A7A</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Boulder Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-orange-peel]]></content>
+	    <tabTrigger>C-FFA000</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Orange Peel Colour</description>
+	</snippet>
+	

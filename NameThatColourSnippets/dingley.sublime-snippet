@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-dingley]]></content>
+	    <tabTrigger>C-5D7747</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Dingley Colour</description>
+	</snippet>
+	

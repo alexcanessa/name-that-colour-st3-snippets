@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-buttercup]]></content>
+	    <tabTrigger>C-F3AD16</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Buttercup Colour</description>
+	</snippet>
+	

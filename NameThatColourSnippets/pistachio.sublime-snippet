@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-pistachio]]></content>
+	    <tabTrigger>C-9DC209</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Pistachio Colour</description>
+	</snippet>
+	

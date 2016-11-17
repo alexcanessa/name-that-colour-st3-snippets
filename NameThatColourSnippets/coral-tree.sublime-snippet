@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-coral-tree]]></content>
+	    <tabTrigger>C-A86B6B</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Coral Tree Colour</description>
+	</snippet>
+	

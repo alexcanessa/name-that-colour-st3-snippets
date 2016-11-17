@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-zircon]]></content>
+	    <tabTrigger>C-F4F8FF</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Zircon Colour</description>
+	</snippet>
+	

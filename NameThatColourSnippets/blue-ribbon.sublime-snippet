@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-blue-ribbon]]></content>
+	    <tabTrigger>C-0066FF</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Blue Ribbon Colour</description>
+	</snippet>
+	

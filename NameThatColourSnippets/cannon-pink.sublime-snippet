@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-cannon-pink]]></content>
+	    <tabTrigger>C-894367</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Cannon Pink Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-silk]]></content>
+	    <tabTrigger>C-BDB1A8</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Silk Colour</description>
+	</snippet>
+	

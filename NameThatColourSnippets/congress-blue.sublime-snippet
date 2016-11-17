@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-congress-blue]]></content>
+	    <tabTrigger>C-02478E</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Congress Blue Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-grain-brown]]></content>
+	    <tabTrigger>C-E4D5B7</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Grain Brown Colour</description>
+	</snippet>
+	

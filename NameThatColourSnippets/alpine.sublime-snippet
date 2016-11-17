@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-alpine]]></content>
+	    <tabTrigger>C-AF8F2C</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Alpine Colour</description>
+	</snippet>
+	

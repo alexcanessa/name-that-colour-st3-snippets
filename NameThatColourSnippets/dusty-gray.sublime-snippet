@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-dusty-gray]]></content>
+	    <tabTrigger>C-A8989B</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Dusty Gray Colour</description>
+	</snippet>
+	

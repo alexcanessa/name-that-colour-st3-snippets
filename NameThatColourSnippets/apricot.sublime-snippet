@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-apricot]]></content>
+	    <tabTrigger>C-EB9373</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Apricot Colour</description>
+	</snippet>
+	

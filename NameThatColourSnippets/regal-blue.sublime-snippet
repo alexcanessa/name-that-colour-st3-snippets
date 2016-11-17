@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-regal-blue]]></content>
+	    <tabTrigger>C-013F6A</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Regal Blue Colour</description>
+	</snippet>
+	

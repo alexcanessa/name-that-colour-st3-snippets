@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-guardsman-red]]></content>
+	    <tabTrigger>C-BA0101</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Guardsman Red Colour</description>
+	</snippet>
+	

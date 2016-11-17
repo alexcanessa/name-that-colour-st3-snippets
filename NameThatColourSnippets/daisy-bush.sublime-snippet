@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-daisy-bush]]></content>
+	    <tabTrigger>C-4F2398</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Daisy Bush Colour</description>
+	</snippet>
+	

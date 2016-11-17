@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-allports]]></content>
+	    <tabTrigger>C-0076A3</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Allports Colour</description>
+	</snippet>
+	

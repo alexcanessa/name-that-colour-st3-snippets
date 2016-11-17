@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-bahia]]></content>
+	    <tabTrigger>C-A5CB0C</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Bahia Colour</description>
+	</snippet>
+	

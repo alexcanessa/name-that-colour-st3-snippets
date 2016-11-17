@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-cafe-royale]]></content>
+	    <tabTrigger>C-6F440C</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Cafe Royale Colour</description>
+	</snippet>
+	

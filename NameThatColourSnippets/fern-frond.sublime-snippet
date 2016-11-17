@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-fern-frond]]></content>
+	    <tabTrigger>C-657220</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Fern Frond Colour</description>
+	</snippet>
+	

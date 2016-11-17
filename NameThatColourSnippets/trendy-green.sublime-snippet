@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-trendy-green]]></content>
+	    <tabTrigger>C-7C881A</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Trendy Green Colour</description>
+	</snippet>
+	

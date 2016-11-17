@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-aths-special]]></content>
+	    <tabTrigger>C-ECEBCE</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Aths Special Colour</description>
+	</snippet>
+	

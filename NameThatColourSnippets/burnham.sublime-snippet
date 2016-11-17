@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-burnham]]></content>
+	    <tabTrigger>C-002E20</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Burnham Colour</description>
+	</snippet>
+	

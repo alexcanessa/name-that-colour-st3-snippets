@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-pesto]]></content>
+	    <tabTrigger>C-7C7631</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Pesto Colour</description>
+	</snippet>
+	

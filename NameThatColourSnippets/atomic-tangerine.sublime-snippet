@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-atomic-tangerine]]></content>
+	    <tabTrigger>C-FF9966</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Atomic Tangerine Colour</description>
+	</snippet>
+	

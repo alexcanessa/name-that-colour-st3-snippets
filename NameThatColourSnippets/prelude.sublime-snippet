@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-prelude]]></content>
+	    <tabTrigger>C-D0C0E5</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Prelude Colour</description>
+	</snippet>
+	

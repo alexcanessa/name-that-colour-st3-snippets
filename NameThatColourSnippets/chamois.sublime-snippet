@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-chamois]]></content>
+	    <tabTrigger>C-EDDCB1</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Chamois Colour</description>
+	</snippet>
+	

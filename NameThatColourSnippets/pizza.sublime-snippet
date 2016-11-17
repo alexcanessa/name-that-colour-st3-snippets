@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-pizza]]></content>
+	    <tabTrigger>C-C99415</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Pizza Colour</description>
+	</snippet>
+	

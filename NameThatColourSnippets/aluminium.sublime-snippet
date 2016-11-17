@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-aluminium]]></content>
+	    <tabTrigger>C-A9ACB6</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Aluminium Colour</description>
+	</snippet>
+	

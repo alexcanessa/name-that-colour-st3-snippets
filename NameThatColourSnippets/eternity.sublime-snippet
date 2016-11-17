@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-eternity]]></content>
+	    <tabTrigger>C-211A0E</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Eternity Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-red-robin]]></content>
+	    <tabTrigger>C-80341F</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Red Robin Colour</description>
+	</snippet>
+	

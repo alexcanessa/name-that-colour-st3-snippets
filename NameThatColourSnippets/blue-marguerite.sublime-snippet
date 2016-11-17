@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-blue-marguerite]]></content>
+	    <tabTrigger>C-7666C6</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Blue Marguerite Colour</description>
+	</snippet>
+	

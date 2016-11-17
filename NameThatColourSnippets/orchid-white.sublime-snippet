@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-orchid-white]]></content>
+	    <tabTrigger>C-FFFDF3</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Orchid White Colour</description>
+	</snippet>
+	

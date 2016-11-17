@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-purple-pizzazz]]></content>
+	    <tabTrigger>C-FF00CC</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Purple Pizzazz Colour</description>
+	</snippet>
+	

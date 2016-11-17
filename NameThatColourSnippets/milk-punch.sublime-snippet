@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-milk-punch]]></content>
+	    <tabTrigger>C-FFF6D4</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Milk Punch Colour</description>
+	</snippet>
+	

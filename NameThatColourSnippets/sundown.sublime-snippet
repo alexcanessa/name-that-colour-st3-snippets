@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-sundown]]></content>
+	    <tabTrigger>C-FFB1B3</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Sundown Colour</description>
+	</snippet>
+	

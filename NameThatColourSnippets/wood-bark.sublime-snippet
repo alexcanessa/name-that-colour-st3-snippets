@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-wood-bark]]></content>
+	    <tabTrigger>C-261105</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Wood Bark Colour</description>
+	</snippet>
+	

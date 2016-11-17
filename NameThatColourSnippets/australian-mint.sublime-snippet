@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-australian-mint]]></content>
+	    <tabTrigger>C-F5FFBE</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Australian Mint Colour</description>
+	</snippet>
+	

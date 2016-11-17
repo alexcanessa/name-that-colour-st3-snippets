@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-cloudy]]></content>
+	    <tabTrigger>C-ACA59F</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Cloudy Colour</description>
+	</snippet>
+	

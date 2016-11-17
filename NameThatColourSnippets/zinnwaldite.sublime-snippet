@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-zinnwaldite]]></content>
+	    <tabTrigger>C-EBC2AF</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Zinnwaldite Colour</description>
+	</snippet>
+	

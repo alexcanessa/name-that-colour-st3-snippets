@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-caper]]></content>
+	    <tabTrigger>C-DCEDB4</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Caper Colour</description>
+	</snippet>
+	

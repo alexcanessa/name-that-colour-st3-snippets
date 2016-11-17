@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-cumulus]]></content>
+	    <tabTrigger>C-FDFFD5</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Cumulus Colour</description>
+	</snippet>
+	

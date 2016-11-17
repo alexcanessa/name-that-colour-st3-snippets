@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-mischka]]></content>
+	    <tabTrigger>C-D1D2DD</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Mischka Colour</description>
+	</snippet>
+	

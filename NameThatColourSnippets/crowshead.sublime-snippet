@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-crowshead]]></content>
+	    <tabTrigger>C-1C1208</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Crowshead Colour</description>
+	</snippet>
+	

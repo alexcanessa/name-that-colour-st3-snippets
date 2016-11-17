@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-heather]]></content>
+	    <tabTrigger>C-B7C3D0</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Heather Colour</description>
+	</snippet>
+	

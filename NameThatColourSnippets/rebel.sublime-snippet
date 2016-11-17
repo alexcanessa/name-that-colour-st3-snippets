@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-rebel]]></content>
+	    <tabTrigger>C-3C1206</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Rebel Colour</description>
+	</snippet>
+	

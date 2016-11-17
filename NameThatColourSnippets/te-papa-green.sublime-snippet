@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-te-papa-green]]></content>
+	    <tabTrigger>C-1E433C</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Te Papa Green Colour</description>
+	</snippet>
+	

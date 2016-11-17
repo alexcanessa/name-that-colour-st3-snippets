@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-pablo]]></content>
+	    <tabTrigger>C-776F61</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Pablo Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-deep-blush]]></content>
+	    <tabTrigger>C-E47698</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Deep Blush Colour</description>
+	</snippet>
+	

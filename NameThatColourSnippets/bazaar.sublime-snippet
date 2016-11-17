@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-bazaar]]></content>
+	    <tabTrigger>C-98777B</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Bazaar Colour</description>
+	</snippet>
+	

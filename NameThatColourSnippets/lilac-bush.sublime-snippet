@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-lilac-bush]]></content>
+	    <tabTrigger>C-9874D3</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Lilac Bush Colour</description>
+	</snippet>
+	

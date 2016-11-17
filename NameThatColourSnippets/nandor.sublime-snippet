@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-nandor]]></content>
+	    <tabTrigger>C-4B5D52</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Nandor Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-manz]]></content>
+	    <tabTrigger>C-EEEF78</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Manz Colour</description>
+	</snippet>
+	

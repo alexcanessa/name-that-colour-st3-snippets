@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-hopbush]]></content>
+	    <tabTrigger>C-D06DA1</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Hopbush Colour</description>
+	</snippet>
+	

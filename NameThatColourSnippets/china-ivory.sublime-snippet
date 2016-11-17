@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-china-ivory]]></content>
+	    <tabTrigger>C-FCFFE7</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>China Ivory Colour</description>
+	</snippet>
+	

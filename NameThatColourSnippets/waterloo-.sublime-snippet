@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-waterloo-]]></content>
+	    <tabTrigger>C-7B7C94</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Waterloo  Colour</description>
+	</snippet>
+	

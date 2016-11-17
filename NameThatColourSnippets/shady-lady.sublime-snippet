@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-shady-lady]]></content>
+	    <tabTrigger>C-AAA5A9</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Shady Lady Colour</description>
+	</snippet>
+	

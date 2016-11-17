@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-chilean-fire]]></content>
+	    <tabTrigger>C-F77703</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Chilean Fire Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-grandis]]></content>
+	    <tabTrigger>C-FFD38C</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Grandis Colour</description>
+	</snippet>
+	

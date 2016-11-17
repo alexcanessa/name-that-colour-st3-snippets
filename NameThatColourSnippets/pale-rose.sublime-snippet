@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-pale-rose]]></content>
+	    <tabTrigger>C-FFE1F2</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Pale Rose Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-nomad]]></content>
+	    <tabTrigger>C-BAB1A2</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Nomad Colour</description>
+	</snippet>
+	

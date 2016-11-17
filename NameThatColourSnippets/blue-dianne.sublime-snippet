@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-blue-dianne]]></content>
+	    <tabTrigger>C-204852</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Blue Dianne Colour</description>
+	</snippet>
+	

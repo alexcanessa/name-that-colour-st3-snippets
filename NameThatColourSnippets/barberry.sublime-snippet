@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-barberry]]></content>
+	    <tabTrigger>C-DED717</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Barberry Colour</description>
+	</snippet>
+	

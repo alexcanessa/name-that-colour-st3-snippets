@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-smoky]]></content>
+	    <tabTrigger>C-605B73</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Smoky Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-cream]]></content>
+	    <tabTrigger>C-FFFDD0</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Cream Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-turbo]]></content>
+	    <tabTrigger>C-FAE600</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Turbo Colour</description>
+	</snippet>
+	

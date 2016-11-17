@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-west-coast]]></content>
+	    <tabTrigger>C-625119</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>West Coast Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-bizarre]]></content>
+	    <tabTrigger>C-EEDEDA</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Bizarre Colour</description>
+	</snippet>
+	

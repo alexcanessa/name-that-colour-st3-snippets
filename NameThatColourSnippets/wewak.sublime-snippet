@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-wewak]]></content>
+	    <tabTrigger>C-F19BAB</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Wewak Colour</description>
+	</snippet>
+	

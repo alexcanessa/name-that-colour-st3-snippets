@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-flax-smoke]]></content>
+	    <tabTrigger>C-7B8265</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Flax Smoke Colour</description>
+	</snippet>
+	

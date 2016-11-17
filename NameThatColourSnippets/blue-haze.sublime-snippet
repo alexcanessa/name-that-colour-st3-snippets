@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-blue-haze]]></content>
+	    <tabTrigger>C-BFBED8</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Blue Haze Colour</description>
+	</snippet>
+	

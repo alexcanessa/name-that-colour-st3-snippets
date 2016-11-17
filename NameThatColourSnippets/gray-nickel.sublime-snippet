@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-gray-nickel]]></content>
+	    <tabTrigger>C-C3C3BD</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Gray Nickel Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-dove-gray]]></content>
+	    <tabTrigger>C-6D6C6C</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Dove Gray Colour</description>
+	</snippet>
+	

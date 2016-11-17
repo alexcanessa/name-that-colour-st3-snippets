@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-jacaranda]]></content>
+	    <tabTrigger>C-2E0329</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Jacaranda Colour</description>
+	</snippet>
+	

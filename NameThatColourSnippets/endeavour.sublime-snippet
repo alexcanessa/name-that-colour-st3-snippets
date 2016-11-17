@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-endeavour]]></content>
+	    <tabTrigger>C-0056A7</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Endeavour Colour</description>
+	</snippet>
+	

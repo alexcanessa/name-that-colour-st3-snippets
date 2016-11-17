@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-vida-loca]]></content>
+	    <tabTrigger>C-549019</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Vida Loca Colour</description>
+	</snippet>
+	

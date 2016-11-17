@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-broom]]></content>
+	    <tabTrigger>C-FFEC13</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Broom Colour</description>
+	</snippet>
+	

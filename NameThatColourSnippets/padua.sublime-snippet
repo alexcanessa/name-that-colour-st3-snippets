@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-padua]]></content>
+	    <tabTrigger>C-ADE6C4</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Padua Colour</description>
+	</snippet>
+	

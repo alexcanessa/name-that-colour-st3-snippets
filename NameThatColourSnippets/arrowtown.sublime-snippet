@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-arrowtown]]></content>
+	    <tabTrigger>C-948771</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Arrowtown Colour</description>
+	</snippet>
+	

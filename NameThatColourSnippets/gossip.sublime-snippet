@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-gossip]]></content>
+	    <tabTrigger>C-D2F8B0</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Gossip Colour</description>
+	</snippet>
+	

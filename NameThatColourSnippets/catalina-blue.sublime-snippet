@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-catalina-blue]]></content>
+	    <tabTrigger>C-062A78</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Catalina Blue Colour</description>
+	</snippet>
+	

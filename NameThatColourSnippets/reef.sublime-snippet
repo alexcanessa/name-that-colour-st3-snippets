@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-reef]]></content>
+	    <tabTrigger>C-C9FFA2</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Reef Colour</description>
+	</snippet>
+	

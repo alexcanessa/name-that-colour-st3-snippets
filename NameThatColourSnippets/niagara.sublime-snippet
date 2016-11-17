@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-niagara]]></content>
+	    <tabTrigger>C-06A189</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Niagara Colour</description>
+	</snippet>
+	

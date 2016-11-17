@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-arapawa]]></content>
+	    <tabTrigger>C-110C6C</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Arapawa Colour</description>
+	</snippet>
+	

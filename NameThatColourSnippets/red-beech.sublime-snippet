@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-red-beech]]></content>
+	    <tabTrigger>C-7B3801</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Red Beech Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-kabul]]></content>
+	    <tabTrigger>C-5E483E</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Kabul Colour</description>
+	</snippet>
+	

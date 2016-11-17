@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-yukon-gold]]></content>
+	    <tabTrigger>C-7B6608</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Yukon Gold Colour</description>
+	</snippet>
+	

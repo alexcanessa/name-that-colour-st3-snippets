@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-burgundy]]></content>
+	    <tabTrigger>C-900020</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Burgundy Colour</description>
+	</snippet>
+	

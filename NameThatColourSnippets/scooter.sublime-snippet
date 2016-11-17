@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-scooter]]></content>
+	    <tabTrigger>C-2EBFD4</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Scooter Colour</description>
+	</snippet>
+	

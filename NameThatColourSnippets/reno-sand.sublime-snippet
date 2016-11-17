@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-reno-sand]]></content>
+	    <tabTrigger>C-A86515</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Reno Sand Colour</description>
+	</snippet>
+	

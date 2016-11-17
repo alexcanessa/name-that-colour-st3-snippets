@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-raw-umber]]></content>
+	    <tabTrigger>C-734A12</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Raw Umber Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-calico]]></content>
+	    <tabTrigger>C-E0C095</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Calico Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-paprika]]></content>
+	    <tabTrigger>C-8D0226</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Paprika Colour</description>
+	</snippet>
+	

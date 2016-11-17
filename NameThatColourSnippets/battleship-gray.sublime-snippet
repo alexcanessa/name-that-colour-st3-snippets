@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-battleship-gray]]></content>
+	    <tabTrigger>C-828F72</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Battleship Gray Colour</description>
+	</snippet>
+	

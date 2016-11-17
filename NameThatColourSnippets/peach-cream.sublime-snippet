@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-peach-cream]]></content>
+	    <tabTrigger>C-FFF0DB</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Peach Cream Colour</description>
+	</snippet>
+	

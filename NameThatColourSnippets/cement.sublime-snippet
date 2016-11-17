@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-cement]]></content>
+	    <tabTrigger>C-8D7662</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Cement Colour</description>
+	</snippet>
+	

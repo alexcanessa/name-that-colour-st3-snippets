@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-jaguar]]></content>
+	    <tabTrigger>C-080110</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Jaguar Colour</description>
+	</snippet>
+	

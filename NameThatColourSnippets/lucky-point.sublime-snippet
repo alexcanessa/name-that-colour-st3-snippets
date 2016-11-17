@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-lucky-point]]></content>
+	    <tabTrigger>C-1A1A68</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Lucky Point Colour</description>
+	</snippet>
+	

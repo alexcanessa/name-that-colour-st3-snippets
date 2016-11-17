@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-persian-plum]]></content>
+	    <tabTrigger>C-701C1C</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Persian Plum Colour</description>
+	</snippet>
+	

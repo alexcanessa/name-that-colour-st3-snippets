@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-firefly]]></content>
+	    <tabTrigger>C-0E2A30</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Firefly Colour</description>
+	</snippet>
+	

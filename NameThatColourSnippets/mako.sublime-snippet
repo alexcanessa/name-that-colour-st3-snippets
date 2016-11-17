@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-mako]]></content>
+	    <tabTrigger>C-444954</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Mako Colour</description>
+	</snippet>
+	

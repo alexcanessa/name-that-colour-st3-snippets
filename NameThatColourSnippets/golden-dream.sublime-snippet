@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-golden-dream]]></content>
+	    <tabTrigger>C-F0D52D</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Golden Dream Colour</description>
+	</snippet>
+	

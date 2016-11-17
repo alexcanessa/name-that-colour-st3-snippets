@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-cobalt]]></content>
+	    <tabTrigger>C-0047AB</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Cobalt Colour</description>
+	</snippet>
+	

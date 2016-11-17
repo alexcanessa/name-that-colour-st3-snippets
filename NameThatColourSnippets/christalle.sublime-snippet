@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-christalle]]></content>
+	    <tabTrigger>C-33036B</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Christalle Colour</description>
+	</snippet>
+	

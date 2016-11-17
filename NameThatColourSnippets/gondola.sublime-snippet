@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-gondola]]></content>
+	    <tabTrigger>C-261414</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Gondola Colour</description>
+	</snippet>
+	

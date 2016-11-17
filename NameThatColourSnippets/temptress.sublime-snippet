@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-temptress]]></content>
+	    <tabTrigger>C-3B000B</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Temptress Colour</description>
+	</snippet>
+	

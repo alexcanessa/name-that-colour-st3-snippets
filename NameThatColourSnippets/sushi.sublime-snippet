@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-sushi]]></content>
+	    <tabTrigger>C-87AB39</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Sushi Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-natural-gray]]></content>
+	    <tabTrigger>C-8B8680</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Natural Gray Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-eden]]></content>
+	    <tabTrigger>C-105852</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Eden Colour</description>
+	</snippet>
+	

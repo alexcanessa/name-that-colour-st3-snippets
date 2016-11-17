@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-magenta--fuchsia]]></content>
+	    <tabTrigger>C-FF00FF</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Magenta / Fuchsia Colour</description>
+	</snippet>
+	

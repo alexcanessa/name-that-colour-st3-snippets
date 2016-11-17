@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-delta]]></content>
+	    <tabTrigger>C-A4A49D</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Delta Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-glacier]]></content>
+	    <tabTrigger>C-80B3C4</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Glacier Colour</description>
+	</snippet>
+	

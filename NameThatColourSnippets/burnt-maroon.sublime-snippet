@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-burnt-maroon]]></content>
+	    <tabTrigger>C-420303</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Burnt Maroon Colour</description>
+	</snippet>
+	

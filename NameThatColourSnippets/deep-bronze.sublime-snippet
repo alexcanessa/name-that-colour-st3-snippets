@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-deep-bronze]]></content>
+	    <tabTrigger>C-4A3004</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Deep Bronze Colour</description>
+	</snippet>
+	

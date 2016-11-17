@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-trendy-pink]]></content>
+	    <tabTrigger>C-8C6495</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Trendy Pink Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-deep-sapphire]]></content>
+	    <tabTrigger>C-082567</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Deep Sapphire Colour</description>
+	</snippet>
+	

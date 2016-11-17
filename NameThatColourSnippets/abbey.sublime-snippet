@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-abbey]]></content>
+	    <tabTrigger>C-4C4F56</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Abbey Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-mercury]]></content>
+	    <tabTrigger>C-E5E5E5</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Mercury Colour</description>
+	</snippet>
+	

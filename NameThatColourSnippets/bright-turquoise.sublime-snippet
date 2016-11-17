@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-bright-turquoise]]></content>
+	    <tabTrigger>C-08E8DE</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Bright Turquoise Colour</description>
+	</snippet>
+	

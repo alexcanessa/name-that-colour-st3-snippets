@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-tallow]]></content>
+	    <tabTrigger>C-A8A589</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Tallow Colour</description>
+	</snippet>
+	

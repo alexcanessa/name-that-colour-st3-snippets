@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-peppermint]]></content>
+	    <tabTrigger>C-E3F5E1</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Peppermint Colour</description>
+	</snippet>
+	

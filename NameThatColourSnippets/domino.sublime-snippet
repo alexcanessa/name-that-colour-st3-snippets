@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-domino]]></content>
+	    <tabTrigger>C-8E775E</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Domino Colour</description>
+	</snippet>
+	

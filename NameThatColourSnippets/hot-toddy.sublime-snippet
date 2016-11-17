@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-hot-toddy]]></content>
+	    <tabTrigger>C-B38007</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Hot Toddy Colour</description>
+	</snippet>
+	

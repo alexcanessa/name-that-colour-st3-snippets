@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-bottle-green]]></content>
+	    <tabTrigger>C-093624</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Bottle Green Colour</description>
+	</snippet>
+	

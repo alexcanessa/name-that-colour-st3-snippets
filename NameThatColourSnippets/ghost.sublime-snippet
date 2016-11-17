@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-ghost]]></content>
+	    <tabTrigger>C-C7C9D5</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Ghost Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-aqua-island]]></content>
+	    <tabTrigger>C-A1DAD7</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Aqua Island Colour</description>
+	</snippet>
+	

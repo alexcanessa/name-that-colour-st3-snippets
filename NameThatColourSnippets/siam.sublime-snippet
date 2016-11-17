@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-siam]]></content>
+	    <tabTrigger>C-646A54</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Siam Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-brandy-rose]]></content>
+	    <tabTrigger>C-BB8983</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Brandy Rose Colour</description>
+	</snippet>
+	

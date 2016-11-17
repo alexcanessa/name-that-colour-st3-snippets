@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-perfume]]></content>
+	    <tabTrigger>C-D0BEF8</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Perfume Colour</description>
+	</snippet>
+	

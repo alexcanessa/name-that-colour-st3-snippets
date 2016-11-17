@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-tusk]]></content>
+	    <tabTrigger>C-EEF3C3</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Tusk Colour</description>
+	</snippet>
+	

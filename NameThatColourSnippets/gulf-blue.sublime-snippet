@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-gulf-blue]]></content>
+	    <tabTrigger>C-051657</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Gulf Blue Colour</description>
+	</snippet>
+	

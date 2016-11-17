@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-rum-swizzle]]></content>
+	    <tabTrigger>C-F9F8E4</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Rum Swizzle Colour</description>
+	</snippet>
+	

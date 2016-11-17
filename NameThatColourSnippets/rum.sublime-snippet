@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-rum]]></content>
+	    <tabTrigger>C-796989</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Rum Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-contessa]]></content>
+	    <tabTrigger>C-C6726B</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Contessa Colour</description>
+	</snippet>
+	

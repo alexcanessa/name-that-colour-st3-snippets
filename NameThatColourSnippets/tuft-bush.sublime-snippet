@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-tuft-bush]]></content>
+	    <tabTrigger>C-FFDDCD</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Tuft Bush Colour</description>
+	</snippet>
+	

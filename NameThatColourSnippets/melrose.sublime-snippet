@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-melrose]]></content>
+	    <tabTrigger>C-C7C1FF</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Melrose Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-cyan--aqua]]></content>
+	    <tabTrigger>C-00FFFF</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Cyan / Aqua Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-stratos]]></content>
+	    <tabTrigger>C-000741</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Stratos Colour</description>
+	</snippet>
+	

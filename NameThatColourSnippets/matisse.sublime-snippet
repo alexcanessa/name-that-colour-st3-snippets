@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-matisse]]></content>
+	    <tabTrigger>C-1B659D</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Matisse Colour</description>
+	</snippet>
+	

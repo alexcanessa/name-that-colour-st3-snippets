@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-cumin]]></content>
+	    <tabTrigger>C-924321</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Cumin Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-flesh]]></content>
+	    <tabTrigger>C-FFCBA4</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Flesh Colour</description>
+	</snippet>
+	

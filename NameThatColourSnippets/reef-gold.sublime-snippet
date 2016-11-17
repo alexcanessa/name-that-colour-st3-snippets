@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-reef-gold]]></content>
+	    <tabTrigger>C-9F821C</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Reef Gold Colour</description>
+	</snippet>
+	

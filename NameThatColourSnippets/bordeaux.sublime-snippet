@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-bordeaux]]></content>
+	    <tabTrigger>C-5C0120</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Bordeaux Colour</description>
+	</snippet>
+	

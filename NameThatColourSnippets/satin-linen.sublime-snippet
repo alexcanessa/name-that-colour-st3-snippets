@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-satin-linen]]></content>
+	    <tabTrigger>C-E6E4D4</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Satin Linen Colour</description>
+	</snippet>
+	

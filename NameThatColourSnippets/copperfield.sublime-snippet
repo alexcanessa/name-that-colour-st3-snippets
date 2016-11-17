@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-copperfield]]></content>
+	    <tabTrigger>C-DA8A67</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Copperfield Colour</description>
+	</snippet>
+	

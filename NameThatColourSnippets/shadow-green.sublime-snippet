@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-shadow-green]]></content>
+	    <tabTrigger>C-9AC2B8</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Shadow Green Colour</description>
+	</snippet>
+	

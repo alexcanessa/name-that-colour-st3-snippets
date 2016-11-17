@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-pale-oyster]]></content>
+	    <tabTrigger>C-988D77</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Pale Oyster Colour</description>
+	</snippet>
+	

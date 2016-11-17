@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-rob-roy]]></content>
+	    <tabTrigger>C-EAC674</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Rob Roy Colour</description>
+	</snippet>
+	

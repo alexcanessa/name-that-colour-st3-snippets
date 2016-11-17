@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-burnt-umber]]></content>
+	    <tabTrigger>C-8A3324</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Burnt Umber Colour</description>
+	</snippet>
+	

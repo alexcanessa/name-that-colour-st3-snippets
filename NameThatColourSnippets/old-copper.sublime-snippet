@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-old-copper]]></content>
+	    <tabTrigger>C-724A2F</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Old Copper Colour</description>
+	</snippet>
+	

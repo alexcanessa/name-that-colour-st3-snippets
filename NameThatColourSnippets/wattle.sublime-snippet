@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-wattle]]></content>
+	    <tabTrigger>C-DCD747</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Wattle Colour</description>
+	</snippet>
+	

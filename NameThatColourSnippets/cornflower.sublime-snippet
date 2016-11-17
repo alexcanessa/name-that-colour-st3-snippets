@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-cornflower]]></content>
+	    <tabTrigger>C-93CCEA</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Cornflower Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-bourbon]]></content>
+	    <tabTrigger>C-BA6F1E</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Bourbon Colour</description>
+	</snippet>
+	

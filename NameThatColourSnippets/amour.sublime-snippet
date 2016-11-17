@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-amour]]></content>
+	    <tabTrigger>C-F9EAF3</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Amour Colour</description>
+	</snippet>
+	

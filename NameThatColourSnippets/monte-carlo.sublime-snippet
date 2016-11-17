@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-monte-carlo]]></content>
+	    <tabTrigger>C-83D0C6</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Monte Carlo Colour</description>
+	</snippet>
+	

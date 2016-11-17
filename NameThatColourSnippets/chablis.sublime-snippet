@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-chablis]]></content>
+	    <tabTrigger>C-FFF4F3</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Chablis Colour</description>
+	</snippet>
+	

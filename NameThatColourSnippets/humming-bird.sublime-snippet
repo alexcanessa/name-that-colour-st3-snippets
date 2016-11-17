@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-humming-bird]]></content>
+	    <tabTrigger>C-CFF9F3</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Humming Bird Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-jazzberry-jam]]></content>
+	    <tabTrigger>C-A50B5E</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Jazzberry Jam Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-karaka]]></content>
+	    <tabTrigger>C-1E1609</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Karaka Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-cherokee]]></content>
+	    <tabTrigger>C-FCDA98</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Cherokee Colour</description>
+	</snippet>
+	

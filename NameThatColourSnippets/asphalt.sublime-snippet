@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-asphalt]]></content>
+	    <tabTrigger>C-130A06</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Asphalt Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-downriver]]></content>
+	    <tabTrigger>C-092256</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Downriver Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-golden-grass]]></content>
+	    <tabTrigger>C-DAA520</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Golden Grass Colour</description>
+	</snippet>
+	

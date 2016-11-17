@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-energy-yellow]]></content>
+	    <tabTrigger>C-F8DD5C</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Energy Yellow Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-black-bean]]></content>
+	    <tabTrigger>C-081910</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Black Bean Colour</description>
+	</snippet>
+	

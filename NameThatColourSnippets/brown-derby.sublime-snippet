@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-brown-derby]]></content>
+	    <tabTrigger>C-492615</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Brown Derby Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-rose-of-sharon]]></content>
+	    <tabTrigger>C-BF5500</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Rose of Sharon Colour</description>
+	</snippet>
+	

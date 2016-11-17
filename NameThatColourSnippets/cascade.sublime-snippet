@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-cascade]]></content>
+	    <tabTrigger>C-8BA9A5</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Cascade Colour</description>
+	</snippet>
+	

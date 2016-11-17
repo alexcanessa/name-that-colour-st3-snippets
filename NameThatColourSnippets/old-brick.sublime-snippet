@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-old-brick]]></content>
+	    <tabTrigger>C-901E1E</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Old Brick Colour</description>
+	</snippet>
+	

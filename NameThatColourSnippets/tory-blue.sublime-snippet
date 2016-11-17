@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-tory-blue]]></content>
+	    <tabTrigger>C-1450AA</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Tory Blue Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-casal]]></content>
+	    <tabTrigger>C-2F6168</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Casal Colour</description>
+	</snippet>
+	

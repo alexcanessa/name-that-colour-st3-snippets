@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-french-pass]]></content>
+	    <tabTrigger>C-BDEDFD</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>French Pass Colour</description>
+	</snippet>
+	

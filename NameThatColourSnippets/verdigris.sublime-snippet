@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-verdigris]]></content>
+	    <tabTrigger>C-5D5E37</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Verdigris Colour</description>
+	</snippet>
+	

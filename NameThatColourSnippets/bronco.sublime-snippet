@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-bronco]]></content>
+	    <tabTrigger>C-ABA196</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Bronco Colour</description>
+	</snippet>
+	

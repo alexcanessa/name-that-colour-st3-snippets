@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-frangipani]]></content>
+	    <tabTrigger>C-FFDEB3</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Frangipani Colour</description>
+	</snippet>
+	

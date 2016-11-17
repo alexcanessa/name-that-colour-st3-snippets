@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-valentino]]></content>
+	    <tabTrigger>C-350E42</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Valentino Colour</description>
+	</snippet>
+	

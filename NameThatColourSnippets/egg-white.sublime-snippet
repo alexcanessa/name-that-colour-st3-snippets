@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-egg-white]]></content>
+	    <tabTrigger>C-FFEFC1</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Egg White Colour</description>
+	</snippet>
+	

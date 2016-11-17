@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-rock-spray]]></content>
+	    <tabTrigger>C-BA450C</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Rock Spray Colour</description>
+	</snippet>
+	

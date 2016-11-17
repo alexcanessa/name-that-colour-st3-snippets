@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-link-water]]></content>
+	    <tabTrigger>C-D9E4F5</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Link Water Colour</description>
+	</snippet>
+	

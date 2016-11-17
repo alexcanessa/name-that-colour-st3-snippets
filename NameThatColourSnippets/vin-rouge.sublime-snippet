@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-vin-rouge]]></content>
+	    <tabTrigger>C-983D61</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Vin Rouge Colour</description>
+	</snippet>
+	

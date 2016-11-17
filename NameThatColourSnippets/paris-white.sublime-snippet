@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-paris-white]]></content>
+	    <tabTrigger>C-CADCD4</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Paris White Colour</description>
+	</snippet>
+	

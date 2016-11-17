@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-lemon-ginger]]></content>
+	    <tabTrigger>C-AC9E22</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Lemon Ginger Colour</description>
+	</snippet>
+	

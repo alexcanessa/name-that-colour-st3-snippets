@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-empress]]></content>
+	    <tabTrigger>C-817377</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Empress Colour</description>
+	</snippet>
+	

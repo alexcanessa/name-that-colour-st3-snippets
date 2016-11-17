@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-breaker-bay]]></content>
+	    <tabTrigger>C-5DA19F</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Breaker Bay Colour</description>
+	</snippet>
+	

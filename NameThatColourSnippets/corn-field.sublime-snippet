@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-corn-field]]></content>
+	    <tabTrigger>C-F8FACD</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Corn Field Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-jungle-mist]]></content>
+	    <tabTrigger>C-B4CFD3</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Jungle Mist Colour</description>
+	</snippet>
+	

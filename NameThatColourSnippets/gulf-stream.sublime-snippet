@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-gulf-stream]]></content>
+	    <tabTrigger>C-80B3AE</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Gulf Stream Colour</description>
+	</snippet>
+	

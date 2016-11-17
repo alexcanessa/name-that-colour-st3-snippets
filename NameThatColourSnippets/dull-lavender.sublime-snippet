@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-dull-lavender]]></content>
+	    <tabTrigger>C-A899E6</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Dull Lavender Colour</description>
+	</snippet>
+	

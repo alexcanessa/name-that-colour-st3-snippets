@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-indochine]]></content>
+	    <tabTrigger>C-C26B03</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Indochine Colour</description>
+	</snippet>
+	

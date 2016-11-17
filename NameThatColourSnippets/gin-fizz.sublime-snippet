@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-gin-fizz]]></content>
+	    <tabTrigger>C-FFF9E2</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Gin Fizz Colour</description>
+	</snippet>
+	

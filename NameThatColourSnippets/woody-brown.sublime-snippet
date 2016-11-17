@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-woody-brown]]></content>
+	    <tabTrigger>C-483131</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Woody Brown Colour</description>
+	</snippet>
+	

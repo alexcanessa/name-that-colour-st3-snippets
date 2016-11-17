@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-aero-blue]]></content>
+	    <tabTrigger>C-C9FFE5</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Aero Blue Colour</description>
+	</snippet>
+	

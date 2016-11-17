@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-quicksand]]></content>
+	    <tabTrigger>C-BD978E</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Quicksand Colour</description>
+	</snippet>
+	

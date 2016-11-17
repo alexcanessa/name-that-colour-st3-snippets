@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-beryl-green]]></content>
+	    <tabTrigger>C-DEE5C0</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Beryl Green Colour</description>
+	</snippet>
+	

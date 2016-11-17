@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-morocco-brown]]></content>
+	    <tabTrigger>C-441D00</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Morocco Brown Colour</description>
+	</snippet>
+	

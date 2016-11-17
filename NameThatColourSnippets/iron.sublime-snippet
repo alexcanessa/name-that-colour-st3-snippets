@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-iron]]></content>
+	    <tabTrigger>C-D4D7D9</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Iron Colour</description>
+	</snippet>
+	

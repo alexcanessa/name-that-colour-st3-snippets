@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-racing-green]]></content>
+	    <tabTrigger>C-0C1911</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Racing Green Colour</description>
+	</snippet>
+	

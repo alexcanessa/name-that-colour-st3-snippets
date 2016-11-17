@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-masala]]></content>
+	    <tabTrigger>C-403B38</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Masala Colour</description>
+	</snippet>
+	

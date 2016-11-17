@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-alice-blue]]></content>
+	    <tabTrigger>C-F0F8FF</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Alice Blue Colour</description>
+	</snippet>
+	

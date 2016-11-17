@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-bay-of-many]]></content>
+	    <tabTrigger>C-273A81</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Bay of Many Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-west-side]]></content>
+	    <tabTrigger>C-FF910F</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>West Side Colour</description>
+	</snippet>
+	

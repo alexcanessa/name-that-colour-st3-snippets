@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-texas-rose]]></content>
+	    <tabTrigger>C-FFB555</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Texas Rose Colour</description>
+	</snippet>
+	

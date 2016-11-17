@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-rice-flower]]></content>
+	    <tabTrigger>C-EEFFE2</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Rice Flower Colour</description>
+	</snippet>
+	

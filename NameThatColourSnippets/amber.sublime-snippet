@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-amber]]></content>
+	    <tabTrigger>C-FFBF00</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Amber Colour</description>
+	</snippet>
+	

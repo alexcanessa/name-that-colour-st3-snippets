@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-limed-oak]]></content>
+	    <tabTrigger>C-AC8A56</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Limed Oak Colour</description>
+	</snippet>
+	

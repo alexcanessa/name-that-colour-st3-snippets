@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-raw-sienna]]></content>
+	    <tabTrigger>C-D27D46</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Raw Sienna Colour</description>
+	</snippet>
+	

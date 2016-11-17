@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-manhattan]]></content>
+	    <tabTrigger>C-F5C999</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Manhattan Colour</description>
+	</snippet>
+	

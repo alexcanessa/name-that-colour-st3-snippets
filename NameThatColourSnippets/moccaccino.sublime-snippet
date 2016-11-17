@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-moccaccino]]></content>
+	    <tabTrigger>C-6E1D14</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Moccaccino Colour</description>
+	</snippet>
+	

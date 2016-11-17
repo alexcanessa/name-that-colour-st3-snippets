@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-cavern-pink]]></content>
+	    <tabTrigger>C-E3BEBE</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Cavern Pink Colour</description>
+	</snippet>
+	

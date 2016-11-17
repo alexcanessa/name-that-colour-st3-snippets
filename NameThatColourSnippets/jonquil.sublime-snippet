@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-jonquil]]></content>
+	    <tabTrigger>C-EEFF9A</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Jonquil Colour</description>
+	</snippet>
+	

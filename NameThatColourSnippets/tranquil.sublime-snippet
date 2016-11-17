@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-tranquil]]></content>
+	    <tabTrigger>C-E6FFFF</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Tranquil Colour</description>
+	</snippet>
+	

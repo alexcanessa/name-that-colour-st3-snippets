@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-aqua-forest]]></content>
+	    <tabTrigger>C-5FA777</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Aqua Forest Colour</description>
+	</snippet>
+	

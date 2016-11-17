@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-fuscous-gray]]></content>
+	    <tabTrigger>C-54534D</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Fuscous Gray Colour</description>
+	</snippet>
+	

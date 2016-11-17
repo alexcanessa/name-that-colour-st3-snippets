@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-hoki]]></content>
+	    <tabTrigger>C-65869F</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Hoki Colour</description>
+	</snippet>
+	

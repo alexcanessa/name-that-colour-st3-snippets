@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-envy]]></content>
+	    <tabTrigger>C-8BA690</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Envy Colour</description>
+	</snippet>
+	

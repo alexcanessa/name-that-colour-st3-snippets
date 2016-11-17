@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-tarawera]]></content>
+	    <tabTrigger>C-073A50</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Tarawera Colour</description>
+	</snippet>
+	

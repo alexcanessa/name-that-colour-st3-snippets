@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-peanut]]></content>
+	    <tabTrigger>C-782F16</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Peanut Colour</description>
+	</snippet>
+	

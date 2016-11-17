@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-goldenrod]]></content>
+	    <tabTrigger>C-FCD667</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Goldenrod Colour</description>
+	</snippet>
+	

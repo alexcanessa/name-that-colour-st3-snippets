@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-pampas]]></content>
+	    <tabTrigger>C-F4F2EE</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Pampas Colour</description>
+	</snippet>
+	

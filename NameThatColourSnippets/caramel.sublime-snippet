@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-caramel]]></content>
+	    <tabTrigger>C-FFDDAF</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Caramel Colour</description>
+	</snippet>
+	

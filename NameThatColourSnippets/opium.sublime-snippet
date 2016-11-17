@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-opium]]></content>
+	    <tabTrigger>C-8E6F70</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Opium Colour</description>
+	</snippet>
+	

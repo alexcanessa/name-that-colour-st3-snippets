@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-cold-purple]]></content>
+	    <tabTrigger>C-ABA0D9</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Cold Purple Colour</description>
+	</snippet>
+	

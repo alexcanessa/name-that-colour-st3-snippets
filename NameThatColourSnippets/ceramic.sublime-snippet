@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-ceramic]]></content>
+	    <tabTrigger>C-FCFFF9</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Ceramic Colour</description>
+	</snippet>
+	

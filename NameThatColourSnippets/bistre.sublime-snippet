@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-bistre]]></content>
+	    <tabTrigger>C-3D2B1F</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Bistre Colour</description>
+	</snippet>
+	

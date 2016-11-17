@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-brink-pink]]></content>
+	    <tabTrigger>C-FB607F</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Brink Pink Colour</description>
+	</snippet>
+	

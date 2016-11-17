@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-red-oxide]]></content>
+	    <tabTrigger>C-6E0902</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Red Oxide Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-tana]]></content>
+	    <tabTrigger>C-D9DCC1</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Tana Colour</description>
+	</snippet>
+	

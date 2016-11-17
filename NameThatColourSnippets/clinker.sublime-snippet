@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-clinker]]></content>
+	    <tabTrigger>C-371D09</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Clinker Colour</description>
+	</snippet>
+	

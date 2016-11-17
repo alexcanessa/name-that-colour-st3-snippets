@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-kenyan-copper]]></content>
+	    <tabTrigger>C-7C1C05</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Kenyan Copper Colour</description>
+	</snippet>
+	

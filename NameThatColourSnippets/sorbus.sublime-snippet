@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-sorbus]]></content>
+	    <tabTrigger>C-FD7C07</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Sorbus Colour</description>
+	</snippet>
+	

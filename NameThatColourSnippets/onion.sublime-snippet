@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-onion]]></content>
+	    <tabTrigger>C-2F270E</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Onion Colour</description>
+	</snippet>
+	

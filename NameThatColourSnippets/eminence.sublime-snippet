@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-eminence]]></content>
+	    <tabTrigger>C-6C3082</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Eminence Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-hawaiian-tan]]></content>
+	    <tabTrigger>C-9D5616</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Hawaiian Tan Colour</description>
+	</snippet>
+	

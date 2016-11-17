@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-cedar-wood-finish]]></content>
+	    <tabTrigger>C-711A00</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Cedar Wood Finish Colour</description>
+	</snippet>
+	

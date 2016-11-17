@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-coral]]></content>
+	    <tabTrigger>C-FF7F50</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Coral Colour</description>
+	</snippet>
+	

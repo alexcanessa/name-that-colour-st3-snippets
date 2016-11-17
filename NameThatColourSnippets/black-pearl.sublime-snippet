@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-black-pearl]]></content>
+	    <tabTrigger>C-041322</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Black Pearl Colour</description>
+	</snippet>
+	

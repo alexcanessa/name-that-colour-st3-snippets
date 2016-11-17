@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-roof-terracotta]]></content>
+	    <tabTrigger>C-A62F20</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Roof Terracotta Colour</description>
+	</snippet>
+	

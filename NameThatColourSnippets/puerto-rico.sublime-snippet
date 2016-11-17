@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-puerto-rico]]></content>
+	    <tabTrigger>C-3FC1AA</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Puerto Rico Colour</description>
+	</snippet>
+	

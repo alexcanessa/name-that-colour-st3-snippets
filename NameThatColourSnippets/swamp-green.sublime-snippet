@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-swamp-green]]></content>
+	    <tabTrigger>C-ACB78E</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Swamp Green Colour</description>
+	</snippet>
+	

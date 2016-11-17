@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-mauvelous]]></content>
+	    <tabTrigger>C-F091A9</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Mauvelous Colour</description>
+	</snippet>
+	

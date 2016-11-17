@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-barossa]]></content>
+	    <tabTrigger>C-44012D</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Barossa Colour</description>
+	</snippet>
+	

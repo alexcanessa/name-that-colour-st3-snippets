@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-trinidad]]></content>
+	    <tabTrigger>C-E64E03</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Trinidad Colour</description>
+	</snippet>
+	

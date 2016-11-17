@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-graphite]]></content>
+	    <tabTrigger>C-251607</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Graphite Colour</description>
+	</snippet>
+	

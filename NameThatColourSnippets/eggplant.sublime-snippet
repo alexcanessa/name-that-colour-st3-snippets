@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-eggplant]]></content>
+	    <tabTrigger>C-614051</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Eggplant Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-moon-glow]]></content>
+	    <tabTrigger>C-FCFEDA</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Moon Glow Colour</description>
+	</snippet>
+	

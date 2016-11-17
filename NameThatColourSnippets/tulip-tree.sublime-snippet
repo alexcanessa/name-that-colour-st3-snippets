@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-tulip-tree]]></content>
+	    <tabTrigger>C-EAB33B</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Tulip Tree Colour</description>
+	</snippet>
+	

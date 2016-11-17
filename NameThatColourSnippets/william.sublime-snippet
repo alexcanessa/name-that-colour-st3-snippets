@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-william]]></content>
+	    <tabTrigger>C-3A686C</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>William Colour</description>
+	</snippet>
+	

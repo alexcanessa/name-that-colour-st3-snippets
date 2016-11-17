@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-cinderella]]></content>
+	    <tabTrigger>C-FDE1DC</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Cinderella Colour</description>
+	</snippet>
+	

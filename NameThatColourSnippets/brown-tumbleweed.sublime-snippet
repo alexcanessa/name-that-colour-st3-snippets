@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-brown-tumbleweed]]></content>
+	    <tabTrigger>C-37290E</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Brown Tumbleweed Colour</description>
+	</snippet>
+	

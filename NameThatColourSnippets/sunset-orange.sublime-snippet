@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-sunset-orange]]></content>
+	    <tabTrigger>C-FE4C40</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Sunset Orange Colour</description>
+	</snippet>
+	

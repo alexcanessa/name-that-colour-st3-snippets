@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-fair-pink]]></content>
+	    <tabTrigger>C-FFEFEC</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Fair Pink Colour</description>
+	</snippet>
+	

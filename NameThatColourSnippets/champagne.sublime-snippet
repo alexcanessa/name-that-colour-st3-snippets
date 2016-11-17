@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-champagne]]></content>
+	    <tabTrigger>C-FAECCC</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Champagne Colour</description>
+	</snippet>
+	

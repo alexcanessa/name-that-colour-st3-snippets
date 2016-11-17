@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-sanguine-brown]]></content>
+	    <tabTrigger>C-8D3D38</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Sanguine Brown Colour</description>
+	</snippet>
+	

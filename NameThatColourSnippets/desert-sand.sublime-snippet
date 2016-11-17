@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-desert-sand]]></content>
+	    <tabTrigger>C-EDC9AF</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Desert Sand Colour</description>
+	</snippet>
+	

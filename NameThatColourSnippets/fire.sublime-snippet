@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-fire]]></content>
+	    <tabTrigger>C-AA4203</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Fire Colour</description>
+	</snippet>
+	

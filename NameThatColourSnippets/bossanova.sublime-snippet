@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-bossanova]]></content>
+	    <tabTrigger>C-4E2A5A</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Bossanova Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-star-dust]]></content>
+	    <tabTrigger>C-9F9F9C</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Star Dust Colour</description>
+	</snippet>
+	

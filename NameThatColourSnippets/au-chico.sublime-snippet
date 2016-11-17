@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-au-chico]]></content>
+	    <tabTrigger>C-97605D</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Au Chico Colour</description>
+	</snippet>
+	

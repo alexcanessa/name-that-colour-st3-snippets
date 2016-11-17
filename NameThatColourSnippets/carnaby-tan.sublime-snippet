@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-carnaby-tan]]></content>
+	    <tabTrigger>C-5C2E01</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Carnaby Tan Colour</description>
+	</snippet>
+	

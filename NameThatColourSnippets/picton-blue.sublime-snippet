@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-picton-blue]]></content>
+	    <tabTrigger>C-45B1E8</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Picton Blue Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-pipi]]></content>
+	    <tabTrigger>C-FEF4CC</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Pipi Colour</description>
+	</snippet>
+	

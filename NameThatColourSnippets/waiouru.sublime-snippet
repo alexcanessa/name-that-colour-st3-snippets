@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-waiouru]]></content>
+	    <tabTrigger>C-363C0D</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Waiouru Colour</description>
+	</snippet>
+	

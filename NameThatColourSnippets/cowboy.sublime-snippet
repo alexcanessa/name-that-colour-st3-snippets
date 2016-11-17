@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-cowboy]]></content>
+	    <tabTrigger>C-4D282D</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Cowboy Colour</description>
+	</snippet>
+	

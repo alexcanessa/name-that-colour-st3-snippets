@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-witch-haze]]></content>
+	    <tabTrigger>C-FFFC99</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Witch Haze Colour</description>
+	</snippet>
+	

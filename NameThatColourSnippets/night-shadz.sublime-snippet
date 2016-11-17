@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-night-shadz]]></content>
+	    <tabTrigger>C-AA375A</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Night Shadz Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-water-leaf]]></content>
+	    <tabTrigger>C-A1E9DE</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Water Leaf Colour</description>
+	</snippet>
+	

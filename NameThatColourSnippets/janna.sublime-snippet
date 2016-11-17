@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-janna]]></content>
+	    <tabTrigger>C-F4EBD3</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Janna Colour</description>
+	</snippet>
+	

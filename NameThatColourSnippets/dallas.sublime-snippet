@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-dallas]]></content>
+	    <tabTrigger>C-6E4B26</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Dallas Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-california]]></content>
+	    <tabTrigger>C-FE9D04</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>California Colour</description>
+	</snippet>
+	

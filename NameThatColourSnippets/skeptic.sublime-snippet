@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-skeptic]]></content>
+	    <tabTrigger>C-CAE6DA</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Skeptic Colour</description>
+	</snippet>
+	

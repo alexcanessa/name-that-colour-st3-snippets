@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-torch-red]]></content>
+	    <tabTrigger>C-FD0E35</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Torch Red Colour</description>
+	</snippet>
+	

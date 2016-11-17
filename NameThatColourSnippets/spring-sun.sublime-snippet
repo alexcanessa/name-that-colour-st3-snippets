@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-spring-sun]]></content>
+	    <tabTrigger>C-F6FFDC</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Spring Sun Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-topaz]]></content>
+	    <tabTrigger>C-7C778A</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Topaz Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-cabaret]]></content>
+	    <tabTrigger>C-D94972</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Cabaret Colour</description>
+	</snippet>
+	

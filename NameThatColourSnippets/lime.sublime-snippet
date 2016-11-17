@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-lime]]></content>
+	    <tabTrigger>C-BFFF00</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Lime Colour</description>
+	</snippet>
+	

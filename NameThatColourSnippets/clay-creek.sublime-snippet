@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-clay-creek]]></content>
+	    <tabTrigger>C-8A8360</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Clay Creek Colour</description>
+	</snippet>
+	

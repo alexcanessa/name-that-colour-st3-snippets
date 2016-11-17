@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-sandrift]]></content>
+	    <tabTrigger>C-AB917A</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Sandrift Colour</description>
+	</snippet>
+	

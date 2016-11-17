@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-el-salva]]></content>
+	    <tabTrigger>C-8F3E33</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>El Salva Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-navajo-white]]></content>
+	    <tabTrigger>C-FFDEAD</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Navajo White Colour</description>
+	</snippet>
+	

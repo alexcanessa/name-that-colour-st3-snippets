@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-mystic]]></content>
+	    <tabTrigger>C-E2EBED</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Mystic Colour</description>
+	</snippet>
+	

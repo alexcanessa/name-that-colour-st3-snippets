@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-straw]]></content>
+	    <tabTrigger>C-D4BF8D</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Straw Colour</description>
+	</snippet>
+	

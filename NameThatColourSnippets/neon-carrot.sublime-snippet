@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-neon-carrot]]></content>
+	    <tabTrigger>C-FF9933</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Neon Carrot Colour</description>
+	</snippet>
+	

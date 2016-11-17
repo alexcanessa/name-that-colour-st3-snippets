@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-supernova]]></content>
+	    <tabTrigger>C-FFC901</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Supernova Colour</description>
+	</snippet>
+	

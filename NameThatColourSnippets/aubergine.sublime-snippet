@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-aubergine]]></content>
+	    <tabTrigger>C-3B0910</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Aubergine Colour</description>
+	</snippet>
+	

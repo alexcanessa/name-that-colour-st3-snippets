@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-hint-of-yellow]]></content>
+	    <tabTrigger>C-FAFDE4</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Hint of Yellow Colour</description>
+	</snippet>
+	

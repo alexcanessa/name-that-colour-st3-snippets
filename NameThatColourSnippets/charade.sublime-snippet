@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-charade]]></content>
+	    <tabTrigger>C-292937</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Charade Colour</description>
+	</snippet>
+	

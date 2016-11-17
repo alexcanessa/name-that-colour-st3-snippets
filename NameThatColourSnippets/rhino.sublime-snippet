@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-rhino]]></content>
+	    <tabTrigger>C-2E3F62</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Rhino Colour</description>
+	</snippet>
+	

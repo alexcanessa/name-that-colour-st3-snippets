@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-maize]]></content>
+	    <tabTrigger>C-F5D5A0</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Maize Colour</description>
+	</snippet>
+	

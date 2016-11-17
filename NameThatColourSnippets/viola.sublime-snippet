@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-viola]]></content>
+	    <tabTrigger>C-CB8FA9</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Viola Colour</description>
+	</snippet>
+	

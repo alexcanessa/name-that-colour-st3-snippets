@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-sherpa-blue]]></content>
+	    <tabTrigger>C-004950</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Sherpa Blue Colour</description>
+	</snippet>
+	

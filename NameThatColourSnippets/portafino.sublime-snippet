@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-portafino]]></content>
+	    <tabTrigger>C-FFFFB4</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Portafino Colour</description>
+	</snippet>
+	

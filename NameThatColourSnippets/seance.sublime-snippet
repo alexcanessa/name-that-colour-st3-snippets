@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-seance]]></content>
+	    <tabTrigger>C-731E8F</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Seance Colour</description>
+	</snippet>
+	

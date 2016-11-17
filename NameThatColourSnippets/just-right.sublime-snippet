@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-just-right]]></content>
+	    <tabTrigger>C-ECCDB9</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Just Right Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-persian-indigo]]></content>
+	    <tabTrigger>C-32127A</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Persian Indigo Colour</description>
+	</snippet>
+	

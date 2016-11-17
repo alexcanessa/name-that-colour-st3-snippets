@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-electric-violet]]></content>
+	    <tabTrigger>C-8B00FF</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Electric Violet Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-sunshade]]></content>
+	    <tabTrigger>C-FF9E2C</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Sunshade Colour</description>
+	</snippet>
+	

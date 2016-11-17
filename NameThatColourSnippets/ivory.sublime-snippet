@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-ivory]]></content>
+	    <tabTrigger>C-FFFFF0</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Ivory Colour</description>
+	</snippet>
+	

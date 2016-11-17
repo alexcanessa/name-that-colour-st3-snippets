@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-silver-chalice]]></content>
+	    <tabTrigger>C-ACACAC</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Silver Chalice Colour</description>
+	</snippet>
+	

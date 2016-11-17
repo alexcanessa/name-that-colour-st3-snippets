@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-key-lime-pie]]></content>
+	    <tabTrigger>C-BFC921</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Key Lime Pie Colour</description>
+	</snippet>
+	

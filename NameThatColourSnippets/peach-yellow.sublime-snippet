@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-peach-yellow]]></content>
+	    <tabTrigger>C-FADFAD</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Peach Yellow Colour</description>
+	</snippet>
+	

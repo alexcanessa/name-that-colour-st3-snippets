@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-kumera]]></content>
+	    <tabTrigger>C-886221</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Kumera Colour</description>
+	</snippet>
+	

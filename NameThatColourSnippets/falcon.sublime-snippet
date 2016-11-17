@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-falcon]]></content>
+	    <tabTrigger>C-7F626D</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Falcon Colour</description>
+	</snippet>
+	

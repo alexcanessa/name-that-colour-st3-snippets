@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-suva-gray]]></content>
+	    <tabTrigger>C-888387</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Suva Gray Colour</description>
+	</snippet>
+	

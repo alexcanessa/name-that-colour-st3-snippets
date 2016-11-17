@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-wild-strawberry]]></content>
+	    <tabTrigger>C-FF3399</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Wild Strawberry Colour</description>
+	</snippet>
+	

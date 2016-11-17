@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-wild-blue-yonder]]></content>
+	    <tabTrigger>C-7A89B8</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Wild Blue Yonder Colour</description>
+	</snippet>
+	

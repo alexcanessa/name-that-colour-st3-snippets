@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-sazerac]]></content>
+	    <tabTrigger>C-FFF4E0</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Sazerac Colour</description>
+	</snippet>
+	

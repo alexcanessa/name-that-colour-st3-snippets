@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-solitude]]></content>
+	    <tabTrigger>C-EAF6FF</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Solitude Colour</description>
+	</snippet>
+	

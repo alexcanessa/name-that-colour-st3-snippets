@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-ecstasy]]></content>
+	    <tabTrigger>C-FA7814</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Ecstasy Colour</description>
+	</snippet>
+	

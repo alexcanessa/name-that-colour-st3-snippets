@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-barley-white]]></content>
+	    <tabTrigger>C-FFF4CE</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Barley White Colour</description>
+	</snippet>
+	

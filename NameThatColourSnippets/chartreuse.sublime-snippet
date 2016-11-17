@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-chartreuse]]></content>
+	    <tabTrigger>C-7FFF00</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Chartreuse Colour</description>
+	</snippet>
+	

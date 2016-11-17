@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-san-felix]]></content>
+	    <tabTrigger>C-0B6207</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>San Felix Colour</description>
+	</snippet>
+	

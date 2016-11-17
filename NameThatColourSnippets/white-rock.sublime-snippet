@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-white-rock]]></content>
+	    <tabTrigger>C-EAE8D4</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>White Rock Colour</description>
+	</snippet>
+	

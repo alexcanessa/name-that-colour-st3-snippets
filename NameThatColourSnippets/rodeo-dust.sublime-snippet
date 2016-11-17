@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-rodeo-dust]]></content>
+	    <tabTrigger>C-C9B29B</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Rodeo Dust Colour</description>
+	</snippet>
+	

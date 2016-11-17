@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-narvik]]></content>
+	    <tabTrigger>C-EDF9F1</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Narvik Colour</description>
+	</snippet>
+	

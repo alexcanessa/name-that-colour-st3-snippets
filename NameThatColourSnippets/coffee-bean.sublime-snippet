@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-coffee-bean]]></content>
+	    <tabTrigger>C-2A140E</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Coffee Bean Colour</description>
+	</snippet>
+	

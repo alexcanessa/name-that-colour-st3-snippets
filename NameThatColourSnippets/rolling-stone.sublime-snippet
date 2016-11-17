@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-rolling-stone]]></content>
+	    <tabTrigger>C-747D83</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Rolling Stone Colour</description>
+	</snippet>
+	

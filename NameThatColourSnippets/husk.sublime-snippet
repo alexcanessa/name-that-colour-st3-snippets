@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-husk]]></content>
+	    <tabTrigger>C-B7A458</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Husk Colour</description>
+	</snippet>
+	

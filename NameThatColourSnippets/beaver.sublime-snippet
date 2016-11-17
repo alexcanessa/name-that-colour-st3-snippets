@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-beaver]]></content>
+	    <tabTrigger>C-926F5B</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Beaver Colour</description>
+	</snippet>
+	

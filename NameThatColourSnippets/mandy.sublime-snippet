@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-mandy]]></content>
+	    <tabTrigger>C-E25465</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Mandy Colour</description>
+	</snippet>
+	

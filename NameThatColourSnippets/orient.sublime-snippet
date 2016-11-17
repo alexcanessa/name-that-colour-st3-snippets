@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-orient]]></content>
+	    <tabTrigger>C-015E85</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Orient Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-hit-gray]]></content>
+	    <tabTrigger>C-A1ADB5</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Hit Gray Colour</description>
+	</snippet>
+	

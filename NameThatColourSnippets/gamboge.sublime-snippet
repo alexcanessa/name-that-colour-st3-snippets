@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-gamboge]]></content>
+	    <tabTrigger>C-E49B0F</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Gamboge Colour</description>
+	</snippet>
+	

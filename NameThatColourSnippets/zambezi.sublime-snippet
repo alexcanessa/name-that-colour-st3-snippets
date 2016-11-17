@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-zambezi]]></content>
+	    <tabTrigger>C-685558</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Zambezi Colour</description>
+	</snippet>
+	

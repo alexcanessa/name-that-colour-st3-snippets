@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-creole]]></content>
+	    <tabTrigger>C-1E0F04</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Creole Colour</description>
+	</snippet>
+	

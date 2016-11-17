@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-tamarind]]></content>
+	    <tabTrigger>C-341515</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Tamarind Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-thunderbird]]></content>
+	    <tabTrigger>C-C02B18</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Thunderbird Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-equator]]></content>
+	    <tabTrigger>C-E1BC64</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Equator Colour</description>
+	</snippet>
+	

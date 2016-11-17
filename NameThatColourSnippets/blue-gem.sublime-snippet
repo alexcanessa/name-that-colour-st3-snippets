@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-blue-gem]]></content>
+	    <tabTrigger>C-2C0E8C</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Blue Gem Colour</description>
+	</snippet>
+	

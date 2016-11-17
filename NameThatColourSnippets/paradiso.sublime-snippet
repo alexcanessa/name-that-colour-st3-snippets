@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-paradiso]]></content>
+	    <tabTrigger>C-317D82</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Paradiso Colour</description>
+	</snippet>
+	

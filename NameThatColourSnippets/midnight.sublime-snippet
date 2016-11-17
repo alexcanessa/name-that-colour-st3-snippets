@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-midnight]]></content>
+	    <tabTrigger>C-011635</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Midnight Colour</description>
+	</snippet>
+	

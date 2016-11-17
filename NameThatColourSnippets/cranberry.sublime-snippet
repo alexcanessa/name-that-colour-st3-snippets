@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-cranberry]]></content>
+	    <tabTrigger>C-DB5079</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Cranberry Colour</description>
+	</snippet>
+	

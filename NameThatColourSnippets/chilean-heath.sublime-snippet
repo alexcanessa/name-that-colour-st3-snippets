@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-chilean-heath]]></content>
+	    <tabTrigger>C-FFFDE6</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Chilean Heath Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-mindaro]]></content>
+	    <tabTrigger>C-E3F988</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Mindaro Colour</description>
+	</snippet>
+	

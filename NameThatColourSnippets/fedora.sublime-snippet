@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-fedora]]></content>
+	    <tabTrigger>C-796A78</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Fedora Colour</description>
+	</snippet>
+	

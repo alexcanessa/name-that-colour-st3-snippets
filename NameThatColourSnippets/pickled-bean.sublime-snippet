@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-pickled-bean]]></content>
+	    <tabTrigger>C-6E4826</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Pickled Bean Colour</description>
+	</snippet>
+	

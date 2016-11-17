@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-martini]]></content>
+	    <tabTrigger>C-AFA09E</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Martini Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-pigment-indigo]]></content>
+	    <tabTrigger>C-4B0082</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Pigment Indigo Colour</description>
+	</snippet>
+	

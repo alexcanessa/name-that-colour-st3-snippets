@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-woodrush]]></content>
+	    <tabTrigger>C-302A0F</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Woodrush Colour</description>
+	</snippet>
+	

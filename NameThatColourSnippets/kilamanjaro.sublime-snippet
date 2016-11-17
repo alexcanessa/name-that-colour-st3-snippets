@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-kilamanjaro]]></content>
+	    <tabTrigger>C-240C02</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Kilamanjaro Colour</description>
+	</snippet>
+	

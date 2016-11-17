@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-honeysuckle]]></content>
+	    <tabTrigger>C-EDFC84</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Honeysuckle Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-oxford-blue]]></content>
+	    <tabTrigger>C-384555</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Oxford Blue Colour</description>
+	</snippet>
+	

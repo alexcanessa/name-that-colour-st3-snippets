@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-radical-red]]></content>
+	    <tabTrigger>C-FF355E</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Radical Red Colour</description>
+	</snippet>
+	

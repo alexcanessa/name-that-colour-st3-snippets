@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-brown]]></content>
+	    <tabTrigger>C-964B00</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Brown Colour</description>
+	</snippet>
+	

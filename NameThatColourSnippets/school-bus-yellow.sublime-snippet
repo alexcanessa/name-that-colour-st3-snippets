@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-school-bus-yellow]]></content>
+	    <tabTrigger>C-FFD800</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>School bus Yellow Colour</description>
+	</snippet>
+	

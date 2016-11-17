@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-desert-storm]]></content>
+	    <tabTrigger>C-F8F8F7</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Desert Storm Colour</description>
+	</snippet>
+	

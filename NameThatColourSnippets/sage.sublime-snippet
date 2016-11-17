@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-sage]]></content>
+	    <tabTrigger>C-9EA587</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Sage Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-meteorite]]></content>
+	    <tabTrigger>C-3C1F76</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Meteorite Colour</description>
+	</snippet>
+	

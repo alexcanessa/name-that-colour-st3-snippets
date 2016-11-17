@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-bay-leaf]]></content>
+	    <tabTrigger>C-7DA98D</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Bay Leaf Colour</description>
+	</snippet>
+	

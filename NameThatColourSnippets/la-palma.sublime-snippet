@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-la-palma]]></content>
+	    <tabTrigger>C-368716</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>La Palma Colour</description>
+	</snippet>
+	

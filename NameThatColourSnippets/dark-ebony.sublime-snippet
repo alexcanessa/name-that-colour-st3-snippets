@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-dark-ebony]]></content>
+	    <tabTrigger>C-3C2005</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Dark Ebony Colour</description>
+	</snippet>
+	

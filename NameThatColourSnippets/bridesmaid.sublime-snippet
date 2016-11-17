@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-bridesmaid]]></content>
+	    <tabTrigger>C-FEF0EC</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Bridesmaid Colour</description>
+	</snippet>
+	

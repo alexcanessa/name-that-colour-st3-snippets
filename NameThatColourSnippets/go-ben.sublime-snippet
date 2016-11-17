@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-go-ben]]></content>
+	    <tabTrigger>C-726D4E</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Go Ben Colour</description>
+	</snippet>
+	

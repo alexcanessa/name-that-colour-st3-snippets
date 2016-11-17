@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-dolly]]></content>
+	    <tabTrigger>C-F9FF8B</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Dolly Colour</description>
+	</snippet>
+	

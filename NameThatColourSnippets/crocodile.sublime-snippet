@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-crocodile]]></content>
+	    <tabTrigger>C-736D58</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Crocodile Colour</description>
+	</snippet>
+	

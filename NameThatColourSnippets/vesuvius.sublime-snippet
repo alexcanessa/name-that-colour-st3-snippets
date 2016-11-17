@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-vesuvius]]></content>
+	    <tabTrigger>C-B14A0B</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Vesuvius Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-tutu]]></content>
+	    <tabTrigger>C-FFF1F9</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Tutu Colour</description>
+	</snippet>
+	

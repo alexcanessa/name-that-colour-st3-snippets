@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-ottoman]]></content>
+	    <tabTrigger>C-E9F8ED</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Ottoman Colour</description>
+	</snippet>
+	

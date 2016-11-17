@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-copper-canyon]]></content>
+	    <tabTrigger>C-7E3A15</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Copper Canyon Colour</description>
+	</snippet>
+	

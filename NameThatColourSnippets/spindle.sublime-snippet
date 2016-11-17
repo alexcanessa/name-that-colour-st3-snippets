@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-spindle]]></content>
+	    <tabTrigger>C-B6D1EA</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Spindle Colour</description>
+	</snippet>
+	

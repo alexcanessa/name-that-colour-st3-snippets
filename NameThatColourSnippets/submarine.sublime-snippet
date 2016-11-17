@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-submarine]]></content>
+	    <tabTrigger>C-BAC7C9</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Submarine Colour</description>
+	</snippet>
+	

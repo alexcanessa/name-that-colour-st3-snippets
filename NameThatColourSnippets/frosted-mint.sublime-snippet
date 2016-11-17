@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-frosted-mint]]></content>
+	    <tabTrigger>C-DBFFF8</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Frosted Mint Colour</description>
+	</snippet>
+	

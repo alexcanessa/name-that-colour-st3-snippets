@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-highland]]></content>
+	    <tabTrigger>C-6F8E63</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Highland Colour</description>
+	</snippet>
+	

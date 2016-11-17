@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-whisper]]></content>
+	    <tabTrigger>C-F7F5FA</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Whisper Colour</description>
+	</snippet>
+	

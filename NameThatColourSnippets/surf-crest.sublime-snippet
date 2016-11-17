@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-surf-crest]]></content>
+	    <tabTrigger>C-CFE5D2</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Surf Crest Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-cloud]]></content>
+	    <tabTrigger>C-C7C4BF</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Cloud Colour</description>
+	</snippet>
+	

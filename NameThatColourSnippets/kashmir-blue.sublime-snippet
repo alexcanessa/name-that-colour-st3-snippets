@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-kashmir-blue]]></content>
+	    <tabTrigger>C-507096</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Kashmir Blue Colour</description>
+	</snippet>
+	

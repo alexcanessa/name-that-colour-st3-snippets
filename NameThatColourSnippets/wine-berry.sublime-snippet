@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-wine-berry]]></content>
+	    <tabTrigger>C-591D35</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Wine Berry Colour</description>
+	</snippet>
+	

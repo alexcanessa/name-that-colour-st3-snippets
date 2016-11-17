@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-puce]]></content>
+	    <tabTrigger>C-CC8899</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Puce Colour</description>
+	</snippet>
+	

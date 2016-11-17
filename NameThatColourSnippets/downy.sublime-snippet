@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-downy]]></content>
+	    <tabTrigger>C-6FD0C5</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Downy Colour</description>
+	</snippet>
+	

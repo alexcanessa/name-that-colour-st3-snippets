@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-selective-yellow]]></content>
+	    <tabTrigger>C-FFBA00</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Selective Yellow Colour</description>
+	</snippet>
+	

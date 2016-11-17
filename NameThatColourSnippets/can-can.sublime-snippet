@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-can-can]]></content>
+	    <tabTrigger>C-D591A4</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Can Can Colour</description>
+	</snippet>
+	

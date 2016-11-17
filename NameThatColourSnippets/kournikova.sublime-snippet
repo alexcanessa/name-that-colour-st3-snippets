@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-kournikova]]></content>
+	    <tabTrigger>C-FFE772</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Kournikova Colour</description>
+	</snippet>
+	

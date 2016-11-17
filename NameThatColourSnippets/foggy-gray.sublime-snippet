@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-foggy-gray]]></content>
+	    <tabTrigger>C-CBCAB6</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Foggy Gray Colour</description>
+	</snippet>
+	

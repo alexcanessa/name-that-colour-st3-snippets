@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-rangoon-green]]></content>
+	    <tabTrigger>C-1C1E13</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Rangoon Green Colour</description>
+	</snippet>
+	

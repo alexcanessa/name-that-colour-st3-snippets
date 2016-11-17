@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-alto]]></content>
+	    <tabTrigger>C-DBDBDB</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Alto Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-dodger-blue]]></content>
+	    <tabTrigger>C-1E90FF</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Dodger Blue Colour</description>
+	</snippet>
+	

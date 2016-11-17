@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-feta]]></content>
+	    <tabTrigger>C-F0FCEA</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Feta Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-fruit-salad]]></content>
+	    <tabTrigger>C-4F9D5D</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Fruit Salad Colour</description>
+	</snippet>
+	

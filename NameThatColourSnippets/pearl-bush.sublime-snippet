@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-pearl-bush]]></content>
+	    <tabTrigger>C-E8E0D5</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Pearl Bush Colour</description>
+	</snippet>
+	

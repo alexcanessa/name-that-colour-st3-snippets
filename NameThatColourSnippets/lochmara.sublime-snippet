@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-lochmara]]></content>
+	    <tabTrigger>C-007EC7</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Lochmara Colour</description>
+	</snippet>
+	

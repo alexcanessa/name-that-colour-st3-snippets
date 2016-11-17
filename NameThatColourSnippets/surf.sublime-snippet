@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-surf]]></content>
+	    <tabTrigger>C-BBD7C1</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Surf Colour</description>
+	</snippet>
+	

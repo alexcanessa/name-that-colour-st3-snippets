@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-chardon]]></content>
+	    <tabTrigger>C-FFF3F1</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Chardon Colour</description>
+	</snippet>
+	

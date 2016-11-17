@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-teak]]></content>
+	    <tabTrigger>C-B19461</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Teak Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-rusty-nail]]></content>
+	    <tabTrigger>C-86560A</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Rusty Nail Colour</description>
+	</snippet>
+	

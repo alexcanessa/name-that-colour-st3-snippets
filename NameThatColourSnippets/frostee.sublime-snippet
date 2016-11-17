@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-frostee]]></content>
+	    <tabTrigger>C-E4F6E7</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Frostee Colour</description>
+	</snippet>
+	

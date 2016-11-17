@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-sidecar]]></content>
+	    <tabTrigger>C-F3E7BB</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Sidecar Colour</description>
+	</snippet>
+	

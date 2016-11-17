@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-indian-tan]]></content>
+	    <tabTrigger>C-4D1E01</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Indian Tan Colour</description>
+	</snippet>
+	

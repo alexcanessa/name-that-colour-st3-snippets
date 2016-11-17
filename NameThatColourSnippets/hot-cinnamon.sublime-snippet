@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-hot-cinnamon]]></content>
+	    <tabTrigger>C-D2691E</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Hot Cinnamon Colour</description>
+	</snippet>
+	

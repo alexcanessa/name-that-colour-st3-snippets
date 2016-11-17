@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-sepia]]></content>
+	    <tabTrigger>C-704214</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Sepia Colour</description>
+	</snippet>
+	

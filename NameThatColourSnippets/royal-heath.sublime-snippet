@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-royal-heath]]></content>
+	    <tabTrigger>C-AB3472</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Royal Heath Colour</description>
+	</snippet>
+	

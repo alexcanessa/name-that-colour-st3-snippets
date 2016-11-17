@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-sycamore]]></content>
+	    <tabTrigger>C-908D39</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Sycamore Colour</description>
+	</snippet>
+	

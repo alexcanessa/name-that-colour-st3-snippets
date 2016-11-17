@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-dixie]]></content>
+	    <tabTrigger>C-E29418</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Dixie Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-watusi]]></content>
+	    <tabTrigger>C-FFDDCF</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Watusi Colour</description>
+	</snippet>
+	

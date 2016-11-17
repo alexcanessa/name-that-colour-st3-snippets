@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-mai-tai]]></content>
+	    <tabTrigger>C-B06608</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Mai Tai Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-deep-cerulean]]></content>
+	    <tabTrigger>C-007BA7</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Deep Cerulean Colour</description>
+	</snippet>
+	

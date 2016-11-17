@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-winter-hazel]]></content>
+	    <tabTrigger>C-D5D195</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Winter Hazel Colour</description>
+	</snippet>
+	

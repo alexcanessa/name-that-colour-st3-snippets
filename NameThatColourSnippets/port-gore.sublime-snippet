@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-port-gore]]></content>
+	    <tabTrigger>C-251F4F</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Port Gore Colour</description>
+	</snippet>
+	

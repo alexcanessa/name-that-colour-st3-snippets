@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-akaroa]]></content>
+	    <tabTrigger>C-D4C4A8</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Akaroa Colour</description>
+	</snippet>
+	

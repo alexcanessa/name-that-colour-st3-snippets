@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-drover]]></content>
+	    <tabTrigger>C-FDF7AD</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Drover Colour</description>
+	</snippet>
+	

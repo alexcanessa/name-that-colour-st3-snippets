@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-moon-raker]]></content>
+	    <tabTrigger>C-D6CEF6</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Moon Raker Colour</description>
+	</snippet>
+	

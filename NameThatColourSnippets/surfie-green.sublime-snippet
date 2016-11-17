@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-surfie-green]]></content>
+	    <tabTrigger>C-0C7A79</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Surfie Green Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-jon]]></content>
+	    <tabTrigger>C-3B1F1F</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Jon Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-magnolia]]></content>
+	    <tabTrigger>C-F8F4FF</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Magnolia Colour</description>
+	</snippet>
+	

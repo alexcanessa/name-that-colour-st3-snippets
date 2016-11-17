@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-tiber]]></content>
+	    <tabTrigger>C-063537</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Tiber Colour</description>
+	</snippet>
+	

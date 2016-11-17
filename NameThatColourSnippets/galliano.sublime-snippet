@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-galliano]]></content>
+	    <tabTrigger>C-DCB20C</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Galliano Colour</description>
+	</snippet>
+	

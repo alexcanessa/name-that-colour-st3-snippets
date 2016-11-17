@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-alizarin-crimson]]></content>
+	    <tabTrigger>C-E32636</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Alizarin Crimson Colour</description>
+	</snippet>
+	

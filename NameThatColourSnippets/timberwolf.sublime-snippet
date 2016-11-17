@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-timberwolf]]></content>
+	    <tabTrigger>C-D9D6CF</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Timberwolf Colour</description>
+	</snippet>
+	

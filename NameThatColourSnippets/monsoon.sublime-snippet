@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-monsoon]]></content>
+	    <tabTrigger>C-8A8389</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Monsoon Colour</description>
+	</snippet>
+	

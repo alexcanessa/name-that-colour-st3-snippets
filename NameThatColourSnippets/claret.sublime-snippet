@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-claret]]></content>
+	    <tabTrigger>C-7F1734</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Claret Colour</description>
+	</snippet>
+	

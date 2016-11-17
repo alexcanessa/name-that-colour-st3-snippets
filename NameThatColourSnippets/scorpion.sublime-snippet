@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-scorpion]]></content>
+	    <tabTrigger>C-695F62</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Scorpion Colour</description>
+	</snippet>
+	

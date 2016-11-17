@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-rustic-red]]></content>
+	    <tabTrigger>C-480404</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Rustic Red Colour</description>
+	</snippet>
+	

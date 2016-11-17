@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-charm]]></content>
+	    <tabTrigger>C-D47494</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Charm Colour</description>
+	</snippet>
+	

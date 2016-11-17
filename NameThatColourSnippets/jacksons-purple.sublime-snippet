@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-jacksons-purple]]></content>
+	    <tabTrigger>C-20208D</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Jacksons Purple Colour</description>
+	</snippet>
+	

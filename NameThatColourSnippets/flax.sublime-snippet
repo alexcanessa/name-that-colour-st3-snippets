@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-flax]]></content>
+	    <tabTrigger>C-EEDC82</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Flax Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-we-peep]]></content>
+	    <tabTrigger>C-F7DBE6</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>We Peep Colour</description>
+	</snippet>
+	

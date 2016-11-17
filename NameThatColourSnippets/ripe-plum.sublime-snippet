@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-ripe-plum]]></content>
+	    <tabTrigger>C-410056</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Ripe Plum Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-sisal]]></content>
+	    <tabTrigger>C-D3CBBA</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Sisal Colour</description>
+	</snippet>
+	

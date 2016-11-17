@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-buccaneer]]></content>
+	    <tabTrigger>C-622F30</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Buccaneer Colour</description>
+	</snippet>
+	

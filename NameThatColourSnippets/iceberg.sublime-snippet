@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-iceberg]]></content>
+	    <tabTrigger>C-DAF4F0</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Iceberg Colour</description>
+	</snippet>
+	

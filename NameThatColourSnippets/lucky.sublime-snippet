@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-lucky]]></content>
+	    <tabTrigger>C-AF9F1C</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Lucky Colour</description>
+	</snippet>
+	

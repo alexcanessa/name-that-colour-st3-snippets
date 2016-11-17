@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-dew]]></content>
+	    <tabTrigger>C-EAFFFE</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Dew Colour</description>
+	</snippet>
+	

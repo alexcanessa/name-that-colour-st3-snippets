@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-bracken]]></content>
+	    <tabTrigger>C-4A2A04</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Bracken Colour</description>
+	</snippet>
+	

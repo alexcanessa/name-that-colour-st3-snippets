@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-half-dutch-white]]></content>
+	    <tabTrigger>C-FEF7DE</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Half Dutch White Colour</description>
+	</snippet>
+	

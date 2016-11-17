@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-golden-bell]]></content>
+	    <tabTrigger>C-E28913</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Golden Bell Colour</description>
+	</snippet>
+	

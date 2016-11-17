@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-olive-haze]]></content>
+	    <tabTrigger>C-8B8470</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Olive Haze Colour</description>
+	</snippet>
+	

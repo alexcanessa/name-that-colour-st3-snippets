@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-pink]]></content>
+	    <tabTrigger>C-FFC0CB</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Pink Colour</description>
+	</snippet>
+	

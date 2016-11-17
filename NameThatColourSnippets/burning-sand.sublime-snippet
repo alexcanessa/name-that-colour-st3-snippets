@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-burning-sand]]></content>
+	    <tabTrigger>C-D99376</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Burning Sand Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-cold-turkey]]></content>
+	    <tabTrigger>C-CEBABA</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Cold Turkey Colour</description>
+	</snippet>
+	

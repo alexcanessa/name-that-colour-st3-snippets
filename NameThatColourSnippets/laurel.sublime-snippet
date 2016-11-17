@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-laurel]]></content>
+	    <tabTrigger>C-749378</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Laurel Colour</description>
+	</snippet>
+	

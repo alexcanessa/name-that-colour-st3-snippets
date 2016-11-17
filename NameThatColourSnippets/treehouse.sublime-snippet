@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-treehouse]]></content>
+	    <tabTrigger>C-3B2820</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Treehouse Colour</description>
+	</snippet>
+	

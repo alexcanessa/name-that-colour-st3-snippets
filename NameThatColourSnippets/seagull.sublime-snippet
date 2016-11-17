@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-seagull]]></content>
+	    <tabTrigger>C-80CCEA</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Seagull Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-island-spice]]></content>
+	    <tabTrigger>C-FFFCEE</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Island Spice Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-primrose]]></content>
+	    <tabTrigger>C-EDEA99</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Primrose Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-vanilla]]></content>
+	    <tabTrigger>C-D1BEA8</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Vanilla Colour</description>
+	</snippet>
+	

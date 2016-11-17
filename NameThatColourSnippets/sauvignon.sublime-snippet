@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-sauvignon]]></content>
+	    <tabTrigger>C-FFF5F3</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Sauvignon Colour</description>
+	</snippet>
+	

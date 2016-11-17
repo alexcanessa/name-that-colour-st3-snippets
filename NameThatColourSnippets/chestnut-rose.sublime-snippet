@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-chestnut-rose]]></content>
+	    <tabTrigger>C-CD5C5C</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Chestnut Rose Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-mortar]]></content>
+	    <tabTrigger>C-504351</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Mortar Colour</description>
+	</snippet>
+	

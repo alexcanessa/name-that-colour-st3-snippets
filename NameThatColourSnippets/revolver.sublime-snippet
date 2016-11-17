@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-revolver]]></content>
+	    <tabTrigger>C-2C1632</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Revolver Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-wisp-pink]]></content>
+	    <tabTrigger>C-FEF4F8</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Wisp Pink Colour</description>
+	</snippet>
+	

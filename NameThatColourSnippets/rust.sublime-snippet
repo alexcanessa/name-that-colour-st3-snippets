@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-rust]]></content>
+	    <tabTrigger>C-B7410E</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Rust Colour</description>
+	</snippet>
+	

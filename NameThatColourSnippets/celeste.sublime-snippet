@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-celeste]]></content>
+	    <tabTrigger>C-D1D2CA</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Celeste Colour</description>
+	</snippet>
+	

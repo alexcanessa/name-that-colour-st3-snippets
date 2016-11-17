@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-azure]]></content>
+	    <tabTrigger>C-315BA1</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Azure Colour</description>
+	</snippet>
+	

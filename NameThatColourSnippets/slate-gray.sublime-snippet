@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-slate-gray]]></content>
+	    <tabTrigger>C-708090</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Slate Gray Colour</description>
+	</snippet>
+	

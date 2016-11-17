@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-santa-fe]]></content>
+	    <tabTrigger>C-B16D52</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Santa Fe Colour</description>
+	</snippet>
+	

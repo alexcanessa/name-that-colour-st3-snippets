@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-sunglo]]></content>
+	    <tabTrigger>C-E16865</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Sunglo Colour</description>
+	</snippet>
+	

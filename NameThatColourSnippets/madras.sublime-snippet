@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-madras]]></content>
+	    <tabTrigger>C-3F3002</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Madras Colour</description>
+	</snippet>
+	

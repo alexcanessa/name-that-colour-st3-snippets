@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-alabaster]]></content>
+	    <tabTrigger>C-FAFAFA</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Alabaster Colour</description>
+	</snippet>
+	

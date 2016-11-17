@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-bird-flower]]></content>
+	    <tabTrigger>C-D4CD16</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Bird Flower Colour</description>
+	</snippet>
+	

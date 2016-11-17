@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-bittersweet]]></content>
+	    <tabTrigger>C-FE6F5E</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Bittersweet Colour</description>
+	</snippet>
+	

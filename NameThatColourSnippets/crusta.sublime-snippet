@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-crusta]]></content>
+	    <tabTrigger>C-FD7B33</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Crusta Colour</description>
+	</snippet>
+	

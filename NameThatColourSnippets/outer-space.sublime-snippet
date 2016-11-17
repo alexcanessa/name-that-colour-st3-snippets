@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-outer-space]]></content>
+	    <tabTrigger>C-2D383A</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Outer Space Colour</description>
+	</snippet>
+	

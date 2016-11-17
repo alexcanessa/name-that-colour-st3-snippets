@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-spice]]></content>
+	    <tabTrigger>C-6A442E</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Spice Colour</description>
+	</snippet>
+	

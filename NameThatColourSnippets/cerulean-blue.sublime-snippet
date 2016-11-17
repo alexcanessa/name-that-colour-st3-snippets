@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-cerulean-blue]]></content>
+	    <tabTrigger>C-2A52BE</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Cerulean Blue Colour</description>
+	</snippet>
+	

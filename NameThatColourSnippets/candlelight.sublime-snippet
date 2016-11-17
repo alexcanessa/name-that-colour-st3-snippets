@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-candlelight]]></content>
+	    <tabTrigger>C-FCD917</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Candlelight Colour</description>
+	</snippet>
+	

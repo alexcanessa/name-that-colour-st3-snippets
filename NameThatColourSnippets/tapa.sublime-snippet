@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-tapa]]></content>
+	    <tabTrigger>C-7B7874</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Tapa Colour</description>
+	</snippet>
+	

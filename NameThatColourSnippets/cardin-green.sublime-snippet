@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-cardin-green]]></content>
+	    <tabTrigger>C-01361C</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Cardin Green Colour</description>
+	</snippet>
+	

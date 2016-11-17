@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-hippie-pink]]></content>
+	    <tabTrigger>C-AE4560</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Hippie Pink Colour</description>
+	</snippet>
+	

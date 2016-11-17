@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-silver-tree]]></content>
+	    <tabTrigger>C-66B58F</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Silver Tree Colour</description>
+	</snippet>
+	

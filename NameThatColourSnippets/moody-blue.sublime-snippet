@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-moody-blue]]></content>
+	    <tabTrigger>C-7F76D3</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Moody Blue Colour</description>
+	</snippet>
+	

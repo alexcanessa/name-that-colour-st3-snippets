@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-thistle-green]]></content>
+	    <tabTrigger>C-CCCAA8</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Thistle Green Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-chelsea-gem]]></content>
+	    <tabTrigger>C-9E5302</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Chelsea Gem Colour</description>
+	</snippet>
+	

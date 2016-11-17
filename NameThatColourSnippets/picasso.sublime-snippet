@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-picasso]]></content>
+	    <tabTrigger>C-FFF39D</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Picasso Colour</description>
+	</snippet>
+	

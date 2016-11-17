@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-cherub]]></content>
+	    <tabTrigger>C-F8D9E9</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Cherub Colour</description>
+	</snippet>
+	

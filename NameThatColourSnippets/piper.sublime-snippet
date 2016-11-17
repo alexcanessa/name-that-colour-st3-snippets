@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-piper]]></content>
+	    <tabTrigger>C-C96323</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Piper Colour</description>
+	</snippet>
+	

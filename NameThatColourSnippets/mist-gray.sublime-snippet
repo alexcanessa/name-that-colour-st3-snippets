@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-mist-gray]]></content>
+	    <tabTrigger>C-C4C4BC</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Mist Gray Colour</description>
+	</snippet>
+	

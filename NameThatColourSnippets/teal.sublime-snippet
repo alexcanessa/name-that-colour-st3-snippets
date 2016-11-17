@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-teal]]></content>
+	    <tabTrigger>C-008080</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Teal Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-new-orleans]]></content>
+	    <tabTrigger>C-F3D69D</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>New Orleans Colour</description>
+	</snippet>
+	

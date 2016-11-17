@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-camelot]]></content>
+	    <tabTrigger>C-893456</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Camelot Colour</description>
+	</snippet>
+	

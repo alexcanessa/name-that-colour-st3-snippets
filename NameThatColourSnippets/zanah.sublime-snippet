@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-zanah]]></content>
+	    <tabTrigger>C-DAECD6</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Zanah Colour</description>
+	</snippet>
+	

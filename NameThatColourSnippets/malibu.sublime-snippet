@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-malibu]]></content>
+	    <tabTrigger>C-7DC8F7</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Malibu Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-squirrel]]></content>
+	    <tabTrigger>C-8F8176</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Squirrel Colour</description>
+	</snippet>
+	

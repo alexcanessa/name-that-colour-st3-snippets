@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-tuatara]]></content>
+	    <tabTrigger>C-363534</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Tuatara Colour</description>
+	</snippet>
+	

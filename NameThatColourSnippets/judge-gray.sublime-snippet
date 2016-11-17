@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-judge-gray]]></content>
+	    <tabTrigger>C-544333</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Judge Gray Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-pohutukawa]]></content>
+	    <tabTrigger>C-8F021C</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Pohutukawa Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-brandy-punch]]></content>
+	    <tabTrigger>C-CD8429</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Brandy Punch Colour</description>
+	</snippet>
+	

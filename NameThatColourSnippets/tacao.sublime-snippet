@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-tacao]]></content>
+	    <tabTrigger>C-EDB381</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Tacao Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-magic-mint]]></content>
+	    <tabTrigger>C-AAF0D1</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Magic Mint Colour</description>
+	</snippet>
+	

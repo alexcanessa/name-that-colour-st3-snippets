@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-beauty-bush]]></content>
+	    <tabTrigger>C-EEC1BE</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Beauty Bush Colour</description>
+	</snippet>
+	

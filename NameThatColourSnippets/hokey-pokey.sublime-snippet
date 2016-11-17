@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-hokey-pokey]]></content>
+	    <tabTrigger>C-C8A528</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Hokey Pokey Colour</description>
+	</snippet>
+	

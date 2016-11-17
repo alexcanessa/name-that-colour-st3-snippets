@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-gurkha]]></content>
+	    <tabTrigger>C-9A9577</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Gurkha Colour</description>
+	</snippet>
+	

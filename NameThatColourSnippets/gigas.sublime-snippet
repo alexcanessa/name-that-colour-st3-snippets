@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-gigas]]></content>
+	    <tabTrigger>C-523C94</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Gigas Colour</description>
+	</snippet>
+	

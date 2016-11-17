@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-celadon]]></content>
+	    <tabTrigger>C-ACE1AF</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Celadon Colour</description>
+	</snippet>
+	

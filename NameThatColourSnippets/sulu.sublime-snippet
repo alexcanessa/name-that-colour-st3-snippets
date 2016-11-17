@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-sulu]]></content>
+	    <tabTrigger>C-C1F07C</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Sulu Colour</description>
+	</snippet>
+	

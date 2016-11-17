@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-cararra]]></content>
+	    <tabTrigger>C-EEEEE8</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Cararra Colour</description>
+	</snippet>
+	

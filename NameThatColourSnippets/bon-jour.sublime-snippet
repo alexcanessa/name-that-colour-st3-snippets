@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-bon-jour]]></content>
+	    <tabTrigger>C-E5E0E1</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Bon Jour Colour</description>
+	</snippet>
+	

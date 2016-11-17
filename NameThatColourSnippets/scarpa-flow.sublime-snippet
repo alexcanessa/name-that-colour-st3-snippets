@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-scarpa-flow]]></content>
+	    <tabTrigger>C-585562</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Scarpa Flow Colour</description>
+	</snippet>
+	

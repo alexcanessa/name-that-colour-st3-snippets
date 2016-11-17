@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-sweet-pink]]></content>
+	    <tabTrigger>C-FD9FA2</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Sweet Pink Colour</description>
+	</snippet>
+	

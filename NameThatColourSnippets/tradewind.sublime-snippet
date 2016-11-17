@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-tradewind]]></content>
+	    <tabTrigger>C-5FB3AC</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Tradewind Colour</description>
+	</snippet>
+	

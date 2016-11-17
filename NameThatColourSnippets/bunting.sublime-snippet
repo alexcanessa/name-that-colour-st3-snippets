@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-bunting]]></content>
+	    <tabTrigger>C-151F4C</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Bunting Colour</description>
+	</snippet>
+	

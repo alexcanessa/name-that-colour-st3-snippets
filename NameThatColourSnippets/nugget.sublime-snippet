@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-nugget]]></content>
+	    <tabTrigger>C-C59922</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Nugget Colour</description>
+	</snippet>
+	

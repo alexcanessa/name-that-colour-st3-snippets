@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-sea-buckthorn]]></content>
+	    <tabTrigger>C-FBA129</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Sea Buckthorn Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-pizazz]]></content>
+	    <tabTrigger>C-FF9000</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Pizazz Colour</description>
+	</snippet>
+	

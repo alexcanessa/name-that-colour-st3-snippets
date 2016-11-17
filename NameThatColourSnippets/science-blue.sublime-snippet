@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-science-blue]]></content>
+	    <tabTrigger>C-0066CC</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Science Blue Colour</description>
+	</snippet>
+	

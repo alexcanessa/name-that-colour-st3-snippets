@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-razzle-dazzle-rose]]></content>
+	    <tabTrigger>C-FF33CC</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Razzle Dazzle Rose Colour</description>
+	</snippet>
+	

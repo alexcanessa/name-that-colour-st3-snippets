@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-malachite]]></content>
+	    <tabTrigger>C-0BDA51</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Malachite Colour</description>
+	</snippet>
+	

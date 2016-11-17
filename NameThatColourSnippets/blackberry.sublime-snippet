@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-blackberry]]></content>
+	    <tabTrigger>C-4D0135</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Blackberry Colour</description>
+	</snippet>
+	

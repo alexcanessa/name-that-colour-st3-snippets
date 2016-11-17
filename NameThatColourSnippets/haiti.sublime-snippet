@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-haiti]]></content>
+	    <tabTrigger>C-1B1035</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Haiti Colour</description>
+	</snippet>
+	

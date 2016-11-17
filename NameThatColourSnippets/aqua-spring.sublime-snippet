@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-aqua-spring]]></content>
+	    <tabTrigger>C-EAF9F5</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Aqua Spring Colour</description>
+	</snippet>
+	

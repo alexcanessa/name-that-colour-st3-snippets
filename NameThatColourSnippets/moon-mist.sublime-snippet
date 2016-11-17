@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-moon-mist]]></content>
+	    <tabTrigger>C-DCDDCC</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Moon Mist Colour</description>
+	</snippet>
+	

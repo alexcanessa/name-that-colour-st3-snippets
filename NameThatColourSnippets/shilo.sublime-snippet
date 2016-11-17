@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-shilo]]></content>
+	    <tabTrigger>C-E8B9B3</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Shilo Colour</description>
+	</snippet>
+	

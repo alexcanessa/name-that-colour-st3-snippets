@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-tickle-me-pink]]></content>
+	    <tabTrigger>C-FC80A5</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Tickle Me Pink Colour</description>
+	</snippet>
+	

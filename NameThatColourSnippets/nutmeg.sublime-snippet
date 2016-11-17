@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-nutmeg]]></content>
+	    <tabTrigger>C-81422C</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Nutmeg Colour</description>
+	</snippet>
+	

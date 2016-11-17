@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-tabasco]]></content>
+	    <tabTrigger>C-A02712</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Tabasco Colour</description>
+	</snippet>
+	

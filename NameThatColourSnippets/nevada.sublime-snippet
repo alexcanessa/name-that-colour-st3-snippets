@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-nevada]]></content>
+	    <tabTrigger>C-646E75</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Nevada Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-shiraz]]></content>
+	    <tabTrigger>C-B20931</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Shiraz Colour</description>
+	</snippet>
+	

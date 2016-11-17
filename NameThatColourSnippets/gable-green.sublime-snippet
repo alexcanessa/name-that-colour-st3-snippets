@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-gable-green]]></content>
+	    <tabTrigger>C-163531</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Gable Green Colour</description>
+	</snippet>
+	

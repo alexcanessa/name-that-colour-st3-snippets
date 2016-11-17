@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-ship-gray]]></content>
+	    <tabTrigger>C-3E3A44</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Ship Gray Colour</description>
+	</snippet>
+	

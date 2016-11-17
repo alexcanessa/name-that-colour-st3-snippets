@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-harp]]></content>
+	    <tabTrigger>C-E6F2EA</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Harp Colour</description>
+	</snippet>
+	

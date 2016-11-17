@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-dark-tan]]></content>
+	    <tabTrigger>C-661010</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Dark Tan Colour</description>
+	</snippet>
+	

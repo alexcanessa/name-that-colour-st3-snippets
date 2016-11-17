@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-taupe-gray]]></content>
+	    <tabTrigger>C-B3AF95</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Taupe Gray Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-tiara]]></content>
+	    <tabTrigger>C-C3D1D1</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Tiara Colour</description>
+	</snippet>
+	

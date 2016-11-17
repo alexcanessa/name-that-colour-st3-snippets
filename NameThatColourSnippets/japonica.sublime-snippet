@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-japonica]]></content>
+	    <tabTrigger>C-D87C63</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Japonica Colour</description>
+	</snippet>
+	

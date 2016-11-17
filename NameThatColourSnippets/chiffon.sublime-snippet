@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-chiffon]]></content>
+	    <tabTrigger>C-F1FFC8</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Chiffon Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-aqua-squeeze]]></content>
+	    <tabTrigger>C-E8F5F2</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Aqua Squeeze Colour</description>
+	</snippet>
+	

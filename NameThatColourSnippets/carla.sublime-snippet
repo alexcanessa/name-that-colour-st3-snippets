@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-carla]]></content>
+	    <tabTrigger>C-F3FFD8</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Carla Colour</description>
+	</snippet>
+	

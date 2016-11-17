@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-mountain-meadow]]></content>
+	    <tabTrigger>C-1AB385</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Mountain Meadow Colour</description>
+	</snippet>
+	

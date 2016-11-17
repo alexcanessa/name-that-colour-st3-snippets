@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-acadia]]></content>
+	    <tabTrigger>C-1B1404</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Acadia Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-elephant]]></content>
+	    <tabTrigger>C-123447</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Elephant Colour</description>
+	</snippet>
+	

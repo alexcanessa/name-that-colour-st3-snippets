@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-donkey-brown]]></content>
+	    <tabTrigger>C-A69279</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Donkey Brown Colour</description>
+	</snippet>
+	

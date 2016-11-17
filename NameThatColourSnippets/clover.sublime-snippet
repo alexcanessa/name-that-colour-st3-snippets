@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-clover]]></content>
+	    <tabTrigger>C-384910</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Clover Colour</description>
+	</snippet>
+	

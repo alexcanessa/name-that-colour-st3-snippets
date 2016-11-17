@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-gold-tips]]></content>
+	    <tabTrigger>C-DEBA13</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Gold Tips Colour</description>
+	</snippet>
+	

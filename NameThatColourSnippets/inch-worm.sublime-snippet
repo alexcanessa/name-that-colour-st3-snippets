@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-inch-worm]]></content>
+	    <tabTrigger>C-B0E313</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Inch Worm Colour</description>
+	</snippet>
+	

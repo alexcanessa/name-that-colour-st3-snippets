@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-pale-prim]]></content>
+	    <tabTrigger>C-FDFEB8</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Pale Prim Colour</description>
+	</snippet>
+	

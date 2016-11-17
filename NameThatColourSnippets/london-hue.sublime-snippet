@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-london-hue]]></content>
+	    <tabTrigger>C-BEA6C3</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>London Hue Colour</description>
+	</snippet>
+	

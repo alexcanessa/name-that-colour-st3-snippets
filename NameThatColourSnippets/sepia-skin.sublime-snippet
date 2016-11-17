@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-sepia-skin]]></content>
+	    <tabTrigger>C-9E5B40</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Sepia Skin Colour</description>
+	</snippet>
+	

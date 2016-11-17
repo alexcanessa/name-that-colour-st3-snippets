@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-sapphire]]></content>
+	    <tabTrigger>C-2F519E</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Sapphire Colour</description>
+	</snippet>
+	

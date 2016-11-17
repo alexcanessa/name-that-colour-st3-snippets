@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-spicy-mustard]]></content>
+	    <tabTrigger>C-74640D</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Spicy Mustard Colour</description>
+	</snippet>
+	

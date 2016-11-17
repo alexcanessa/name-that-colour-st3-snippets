@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-hurricane]]></content>
+	    <tabTrigger>C-877C7B</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Hurricane Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-orange-roughy]]></content>
+	    <tabTrigger>C-C45719</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Orange Roughy Colour</description>
+	</snippet>
+	

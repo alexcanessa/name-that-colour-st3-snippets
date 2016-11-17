@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-twine]]></content>
+	    <tabTrigger>C-C2955D</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Twine Colour</description>
+	</snippet>
+	

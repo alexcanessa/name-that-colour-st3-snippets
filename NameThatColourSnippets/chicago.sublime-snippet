@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-chicago]]></content>
+	    <tabTrigger>C-5D5C58</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Chicago Colour</description>
+	</snippet>
+	

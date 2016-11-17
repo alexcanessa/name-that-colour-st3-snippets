@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-blue-chalk]]></content>
+	    <tabTrigger>C-F1E9FF</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Blue Chalk Colour</description>
+	</snippet>
+	

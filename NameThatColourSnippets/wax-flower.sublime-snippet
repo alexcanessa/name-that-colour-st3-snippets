@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-wax-flower]]></content>
+	    <tabTrigger>C-FFC0A8</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Wax Flower Colour</description>
+	</snippet>
+	

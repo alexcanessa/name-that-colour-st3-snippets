@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-ebb]]></content>
+	    <tabTrigger>C-E9E3E3</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Ebb Colour</description>
+	</snippet>
+	

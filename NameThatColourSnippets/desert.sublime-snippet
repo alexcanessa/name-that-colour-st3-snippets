@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-desert]]></content>
+	    <tabTrigger>C-AE6020</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Desert Colour</description>
+	</snippet>
+	

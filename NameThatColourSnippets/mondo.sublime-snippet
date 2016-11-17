@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-mondo]]></content>
+	    <tabTrigger>C-4A3C30</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Mondo Colour</description>
+	</snippet>
+	

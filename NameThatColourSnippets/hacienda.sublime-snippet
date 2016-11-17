@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-hacienda]]></content>
+	    <tabTrigger>C-98811B</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Hacienda Colour</description>
+	</snippet>
+	

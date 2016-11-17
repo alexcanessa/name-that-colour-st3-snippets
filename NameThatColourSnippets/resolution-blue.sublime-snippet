@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-resolution-blue]]></content>
+	    <tabTrigger>C-002387</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Resolution Blue Colour</description>
+	</snippet>
+	

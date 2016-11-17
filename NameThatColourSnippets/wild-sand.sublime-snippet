@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-wild-sand]]></content>
+	    <tabTrigger>C-F4F4F4</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Wild Sand Colour</description>
+	</snippet>
+	

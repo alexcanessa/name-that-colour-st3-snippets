@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-oregon]]></content>
+	    <tabTrigger>C-9B4703</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Oregon Colour</description>
+	</snippet>
+	

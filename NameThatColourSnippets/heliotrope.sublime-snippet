@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-heliotrope]]></content>
+	    <tabTrigger>C-DF73FF</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Heliotrope Colour</description>
+	</snippet>
+	

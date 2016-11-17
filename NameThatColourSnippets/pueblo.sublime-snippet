@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-pueblo]]></content>
+	    <tabTrigger>C-7D2C14</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Pueblo Colour</description>
+	</snippet>
+	

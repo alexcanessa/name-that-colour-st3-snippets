@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-jumbo]]></content>
+	    <tabTrigger>C-7C7B82</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Jumbo Colour</description>
+	</snippet>
+	

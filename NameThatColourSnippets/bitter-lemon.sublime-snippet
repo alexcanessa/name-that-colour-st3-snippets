@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-bitter-lemon]]></content>
+	    <tabTrigger>C-CAE00D</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Bitter Lemon Colour</description>
+	</snippet>
+	

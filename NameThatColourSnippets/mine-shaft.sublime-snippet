@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-mine-shaft]]></content>
+	    <tabTrigger>C-323232</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Mine Shaft Colour</description>
+	</snippet>
+	

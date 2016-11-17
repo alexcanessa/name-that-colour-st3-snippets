@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-county-green]]></content>
+	    <tabTrigger>C-01371A</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>County Green Colour</description>
+	</snippet>
+	

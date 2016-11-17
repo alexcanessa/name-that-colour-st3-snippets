@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-cardinal]]></content>
+	    <tabTrigger>C-C41E3A</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Cardinal Colour</description>
+	</snippet>
+	

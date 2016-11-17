@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-bianca]]></content>
+	    <tabTrigger>C-FCFBF3</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Bianca Colour</description>
+	</snippet>
+	

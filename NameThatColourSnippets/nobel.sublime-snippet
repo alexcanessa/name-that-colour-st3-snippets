@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-nobel]]></content>
+	    <tabTrigger>C-B7B1B1</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Nobel Colour</description>
+	</snippet>
+	

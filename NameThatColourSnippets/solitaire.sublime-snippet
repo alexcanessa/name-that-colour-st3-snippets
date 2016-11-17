@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-solitaire]]></content>
+	    <tabTrigger>C-FEF8E2</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Solitaire Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-astral]]></content>
+	    <tabTrigger>C-327DA0</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Astral Colour</description>
+	</snippet>
+	

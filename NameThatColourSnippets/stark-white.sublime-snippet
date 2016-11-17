@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-stark-white]]></content>
+	    <tabTrigger>C-E5D7BD</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Stark White Colour</description>
+	</snippet>
+	

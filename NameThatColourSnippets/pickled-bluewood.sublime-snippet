@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-pickled-bluewood]]></content>
+	    <tabTrigger>C-314459</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Pickled Bluewood Colour</description>
+	</snippet>
+	

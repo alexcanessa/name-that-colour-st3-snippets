@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-napa]]></content>
+	    <tabTrigger>C-ACA494</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Napa Colour</description>
+	</snippet>
+	

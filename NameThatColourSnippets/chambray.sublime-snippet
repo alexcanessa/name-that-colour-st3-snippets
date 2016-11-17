@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-chambray]]></content>
+	    <tabTrigger>C-354E8C</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Chambray Colour</description>
+	</snippet>
+	

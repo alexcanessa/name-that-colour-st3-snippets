@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-venetian-red]]></content>
+	    <tabTrigger>C-72010F</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Venetian Red Colour</description>
+	</snippet>
+	

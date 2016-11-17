@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-millbrook]]></content>
+	    <tabTrigger>C-594433</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Millbrook Colour</description>
+	</snippet>
+	

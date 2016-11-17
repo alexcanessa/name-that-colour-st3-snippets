@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-meteor]]></content>
+	    <tabTrigger>C-D07D12</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Meteor Colour</description>
+	</snippet>
+	

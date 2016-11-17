@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-finlandia]]></content>
+	    <tabTrigger>C-556D56</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Finlandia Colour</description>
+	</snippet>
+	

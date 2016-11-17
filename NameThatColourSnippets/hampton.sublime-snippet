@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-hampton]]></content>
+	    <tabTrigger>C-E5D8AF</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Hampton Colour</description>
+	</snippet>
+	

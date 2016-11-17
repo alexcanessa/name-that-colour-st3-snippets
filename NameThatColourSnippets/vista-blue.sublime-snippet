@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-vista-blue]]></content>
+	    <tabTrigger>C-8FD6B4</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Vista Blue Colour</description>
+	</snippet>
+	

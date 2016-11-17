@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-old-rose]]></content>
+	    <tabTrigger>C-C08081</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Old Rose Colour</description>
+	</snippet>
+	

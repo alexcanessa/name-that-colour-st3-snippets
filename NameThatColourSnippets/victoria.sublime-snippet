@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-victoria]]></content>
+	    <tabTrigger>C-534491</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Victoria Colour</description>
+	</snippet>
+	

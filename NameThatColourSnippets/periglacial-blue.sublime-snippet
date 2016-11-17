@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-periglacial-blue]]></content>
+	    <tabTrigger>C-E1E6D6</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Periglacial Blue Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-spray]]></content>
+	    <tabTrigger>C-79DEEC</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Spray Colour</description>
+	</snippet>
+	

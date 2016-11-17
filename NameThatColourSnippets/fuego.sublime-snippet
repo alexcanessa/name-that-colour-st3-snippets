@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-fuego]]></content>
+	    <tabTrigger>C-BEDE0D</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Fuego Colour</description>
+	</snippet>
+	

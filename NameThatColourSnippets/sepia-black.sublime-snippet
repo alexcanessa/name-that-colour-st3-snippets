@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-sepia-black]]></content>
+	    <tabTrigger>C-2B0202</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Sepia Black Colour</description>
+	</snippet>
+	

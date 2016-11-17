@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-bismark]]></content>
+	    <tabTrigger>C-497183</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Bismark Colour</description>
+	</snippet>
+	

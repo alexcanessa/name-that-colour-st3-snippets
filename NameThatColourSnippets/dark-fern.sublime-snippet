@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-dark-fern]]></content>
+	    <tabTrigger>C-0A480D</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Dark Fern Colour</description>
+	</snippet>
+	

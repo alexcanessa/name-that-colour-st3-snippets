@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-azalea]]></content>
+	    <tabTrigger>C-F7C8DA</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Azalea Colour</description>
+	</snippet>
+	

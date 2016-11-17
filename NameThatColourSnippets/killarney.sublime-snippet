@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-killarney]]></content>
+	    <tabTrigger>C-3A6A47</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Killarney Colour</description>
+	</snippet>
+	

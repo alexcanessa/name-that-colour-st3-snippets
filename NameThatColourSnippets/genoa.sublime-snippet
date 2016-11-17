@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-genoa]]></content>
+	    <tabTrigger>C-15736B</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Genoa Colour</description>
+	</snippet>
+	

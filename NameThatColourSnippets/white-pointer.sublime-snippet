@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-white-pointer]]></content>
+	    <tabTrigger>C-FEF8FF</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>White Pointer Colour</description>
+	</snippet>
+	

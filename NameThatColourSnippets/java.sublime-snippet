@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-java]]></content>
+	    <tabTrigger>C-1FC2C2</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Java Colour</description>
+	</snippet>
+	

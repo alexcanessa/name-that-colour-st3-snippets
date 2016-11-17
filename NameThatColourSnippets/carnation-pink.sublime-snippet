@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-carnation-pink]]></content>
+	    <tabTrigger>C-FFA6C9</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Carnation Pink Colour</description>
+	</snippet>
+	

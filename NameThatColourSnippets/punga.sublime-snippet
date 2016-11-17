@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-punga]]></content>
+	    <tabTrigger>C-4D3D14</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Punga Colour</description>
+	</snippet>
+	

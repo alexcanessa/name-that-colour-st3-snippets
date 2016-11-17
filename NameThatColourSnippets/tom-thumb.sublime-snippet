@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-tom-thumb]]></content>
+	    <tabTrigger>C-3F583B</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Tom Thumb Colour</description>
+	</snippet>
+	

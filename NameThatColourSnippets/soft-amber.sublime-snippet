@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-soft-amber]]></content>
+	    <tabTrigger>C-D1C6B4</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Soft Amber Colour</description>
+	</snippet>
+	

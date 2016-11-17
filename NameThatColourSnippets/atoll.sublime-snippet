@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-atoll]]></content>
+	    <tabTrigger>C-0A6F75</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Atoll Colour</description>
+	</snippet>
+	

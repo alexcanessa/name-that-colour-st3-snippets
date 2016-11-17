@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-malta]]></content>
+	    <tabTrigger>C-BDB2A1</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Malta Colour</description>
+	</snippet>
+	

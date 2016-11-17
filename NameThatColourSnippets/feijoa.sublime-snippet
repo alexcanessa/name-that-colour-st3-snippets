@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-feijoa]]></content>
+	    <tabTrigger>C-9FDD8C</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Feijoa Colour</description>
+	</snippet>
+	

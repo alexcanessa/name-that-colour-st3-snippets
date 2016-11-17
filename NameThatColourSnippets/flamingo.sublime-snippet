@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-flamingo]]></content>
+	    <tabTrigger>C-F2552A</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Flamingo Colour</description>
+	</snippet>
+	

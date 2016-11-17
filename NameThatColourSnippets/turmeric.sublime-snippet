@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-turmeric]]></content>
+	    <tabTrigger>C-CABB48</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Turmeric Colour</description>
+	</snippet>
+	

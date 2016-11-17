@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-hemlock]]></content>
+	    <tabTrigger>C-5E5D3B</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Hemlock Colour</description>
+	</snippet>
+	

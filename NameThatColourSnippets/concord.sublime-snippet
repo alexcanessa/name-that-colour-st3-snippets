@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-concord]]></content>
+	    <tabTrigger>C-7C7B7A</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Concord Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-mardi-gras]]></content>
+	    <tabTrigger>C-350036</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Mardi Gras Colour</description>
+	</snippet>
+	

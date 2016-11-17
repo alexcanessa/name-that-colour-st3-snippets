@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-oxley]]></content>
+	    <tabTrigger>C-779E86</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Oxley Colour</description>
+	</snippet>
+	

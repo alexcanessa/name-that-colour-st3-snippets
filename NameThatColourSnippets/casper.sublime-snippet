@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-casper]]></content>
+	    <tabTrigger>C-ADBED1</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Casper Colour</description>
+	</snippet>
+	

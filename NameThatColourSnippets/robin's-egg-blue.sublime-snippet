@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-robin's-egg-blue]]></content>
+	    <tabTrigger>C-00CCCC</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Robin's Egg Blue Colour</description>
+	</snippet>
+	

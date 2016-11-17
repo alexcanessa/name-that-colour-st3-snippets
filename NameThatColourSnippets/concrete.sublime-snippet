@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-concrete]]></content>
+	    <tabTrigger>C-F2F2F2</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Concrete Colour</description>
+	</snippet>
+	

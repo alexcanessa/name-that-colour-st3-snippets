@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-astronaut-blue]]></content>
+	    <tabTrigger>C-013E62</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Astronaut Blue Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-crete]]></content>
+	    <tabTrigger>C-737829</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Crete Colour</description>
+	</snippet>
+	

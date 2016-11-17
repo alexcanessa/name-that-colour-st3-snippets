@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-vivid-tangerine]]></content>
+	    <tabTrigger>C-FF9980</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Vivid Tangerine Colour</description>
+	</snippet>
+	

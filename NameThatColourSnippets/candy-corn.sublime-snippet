@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-candy-corn]]></content>
+	    <tabTrigger>C-FBEC5D</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Candy Corn Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-marigold]]></content>
+	    <tabTrigger>C-B98D28</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Marigold Colour</description>
+	</snippet>
+	

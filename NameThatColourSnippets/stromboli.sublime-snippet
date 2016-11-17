@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-stromboli]]></content>
+	    <tabTrigger>C-325D52</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Stromboli Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-powder-blue]]></content>
+	    <tabTrigger>C-B0E0E6</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Powder Blue Colour</description>
+	</snippet>
+	

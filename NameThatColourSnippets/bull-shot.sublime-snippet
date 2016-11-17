@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-bull-shot]]></content>
+	    <tabTrigger>C-864D1E</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Bull Shot Colour</description>
+	</snippet>
+	

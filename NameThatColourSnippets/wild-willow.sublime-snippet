@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-wild-willow]]></content>
+	    <tabTrigger>C-B9C46A</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Wild Willow Colour</description>
+	</snippet>
+	

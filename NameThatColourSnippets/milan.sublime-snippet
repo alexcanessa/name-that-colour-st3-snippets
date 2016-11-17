@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-milan]]></content>
+	    <tabTrigger>C-FAFFA4</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Milan Colour</description>
+	</snippet>
+	

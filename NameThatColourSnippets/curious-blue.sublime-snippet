@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-curious-blue]]></content>
+	    <tabTrigger>C-2596D1</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Curious Blue Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-polar]]></content>
+	    <tabTrigger>C-E5F9F6</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Polar Colour</description>
+	</snippet>
+	

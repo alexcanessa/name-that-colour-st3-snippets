@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-viking]]></content>
+	    <tabTrigger>C-64CCDB</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Viking Colour</description>
+	</snippet>
+	

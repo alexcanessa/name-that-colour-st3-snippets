@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-illusion]]></content>
+	    <tabTrigger>C-F6A4C9</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Illusion Colour</description>
+	</snippet>
+	

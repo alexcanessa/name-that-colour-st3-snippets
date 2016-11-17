@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-beeswax]]></content>
+	    <tabTrigger>C-FEF2C7</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Beeswax Colour</description>
+	</snippet>
+	

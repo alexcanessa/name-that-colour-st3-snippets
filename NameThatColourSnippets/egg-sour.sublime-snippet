@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-egg-sour]]></content>
+	    <tabTrigger>C-FFF4DD</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Egg Sour Colour</description>
+	</snippet>
+	

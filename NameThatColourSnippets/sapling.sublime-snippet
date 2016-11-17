@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-sapling]]></content>
+	    <tabTrigger>C-DED4A4</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Sapling Colour</description>
+	</snippet>
+	

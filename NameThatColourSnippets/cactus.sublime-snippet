@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-cactus]]></content>
+	    <tabTrigger>C-587156</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Cactus Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-brandy]]></content>
+	    <tabTrigger>C-DEC196</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Brandy Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-dolphin]]></content>
+	    <tabTrigger>C-646077</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Dolphin Colour</description>
+	</snippet>
+	

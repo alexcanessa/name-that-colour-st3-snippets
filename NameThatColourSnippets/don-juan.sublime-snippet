@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-don-juan]]></content>
+	    <tabTrigger>C-5D4C51</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Don Juan Colour</description>
+	</snippet>
+	

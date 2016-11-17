@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-thunder]]></content>
+	    <tabTrigger>C-33292F</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Thunder Colour</description>
+	</snippet>
+	

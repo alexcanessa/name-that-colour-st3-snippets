@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-fall-green]]></content>
+	    <tabTrigger>C-ECEBBD</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Fall Green Colour</description>
+	</snippet>
+	

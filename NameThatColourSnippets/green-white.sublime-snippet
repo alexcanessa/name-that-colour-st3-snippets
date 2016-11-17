@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-green-white]]></content>
+	    <tabTrigger>C-E8EBE0</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Green White Colour</description>
+	</snippet>
+	

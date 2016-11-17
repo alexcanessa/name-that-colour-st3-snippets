@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-schist]]></content>
+	    <tabTrigger>C-A9B497</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Schist Colour</description>
+	</snippet>
+	

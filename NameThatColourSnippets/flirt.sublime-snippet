@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-flirt]]></content>
+	    <tabTrigger>C-A2006D</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Flirt Colour</description>
+	</snippet>
+	

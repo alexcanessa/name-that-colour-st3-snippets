@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-manatee]]></content>
+	    <tabTrigger>C-8D90A1</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Manatee Colour</description>
+	</snippet>
+	

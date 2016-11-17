@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-screamin'-green]]></content>
+	    <tabTrigger>C-66FF66</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Screamin' Green Colour</description>
+	</snippet>
+	

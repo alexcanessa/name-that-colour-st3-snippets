@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-horses-neck]]></content>
+	    <tabTrigger>C-604913</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Horses Neck Colour</description>
+	</snippet>
+	

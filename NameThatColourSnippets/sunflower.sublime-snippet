@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-sunflower]]></content>
+	    <tabTrigger>C-E4D422</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Sunflower Colour</description>
+	</snippet>
+	

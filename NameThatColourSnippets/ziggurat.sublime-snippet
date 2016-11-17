@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-ziggurat]]></content>
+	    <tabTrigger>C-BFDBE2</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Ziggurat Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-madison]]></content>
+	    <tabTrigger>C-09255D</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Madison Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-mahogany]]></content>
+	    <tabTrigger>C-4E0606</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Mahogany Colour</description>
+	</snippet>
+	

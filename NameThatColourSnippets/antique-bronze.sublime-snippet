@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-antique-bronze]]></content>
+	    <tabTrigger>C-704A07</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Antique Bronze Colour</description>
+	</snippet>
+	

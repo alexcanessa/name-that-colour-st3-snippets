@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-lavender-magenta]]></content>
+	    <tabTrigger>C-EE82EE</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Lavender Magenta Colour</description>
+	</snippet>
+	

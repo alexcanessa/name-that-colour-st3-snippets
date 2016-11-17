@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-lipstick]]></content>
+	    <tabTrigger>C-AB0563</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Lipstick Colour</description>
+	</snippet>
+	

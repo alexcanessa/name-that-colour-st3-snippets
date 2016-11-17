@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-korma]]></content>
+	    <tabTrigger>C-8F4B0E</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Korma Colour</description>
+	</snippet>
+	

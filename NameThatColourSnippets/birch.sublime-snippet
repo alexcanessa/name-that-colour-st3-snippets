@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-birch]]></content>
+	    <tabTrigger>C-373021</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Birch Colour</description>
+	</snippet>
+	

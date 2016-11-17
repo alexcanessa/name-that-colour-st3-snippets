@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-double-colonial-white]]></content>
+	    <tabTrigger>C-EEE3AD</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Double Colonial White Colour</description>
+	</snippet>
+	

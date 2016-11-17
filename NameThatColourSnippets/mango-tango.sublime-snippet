@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-mango-tango]]></content>
+	    <tabTrigger>C-E77200</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Mango Tango Colour</description>
+	</snippet>
+	

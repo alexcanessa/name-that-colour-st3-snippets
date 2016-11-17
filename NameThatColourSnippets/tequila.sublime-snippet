@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-tequila]]></content>
+	    <tabTrigger>C-FFE6C7</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Tequila Colour</description>
+	</snippet>
+	

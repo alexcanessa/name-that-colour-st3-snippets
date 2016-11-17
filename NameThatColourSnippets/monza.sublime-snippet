@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-monza]]></content>
+	    <tabTrigger>C-C7031E</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Monza Colour</description>
+	</snippet>
+	

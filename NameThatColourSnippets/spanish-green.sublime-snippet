@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-spanish-green]]></content>
+	    <tabTrigger>C-819885</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Spanish Green Colour</description>
+	</snippet>
+	

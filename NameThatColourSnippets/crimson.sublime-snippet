@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-crimson]]></content>
+	    <tabTrigger>C-DC143C</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Crimson Colour</description>
+	</snippet>
+	

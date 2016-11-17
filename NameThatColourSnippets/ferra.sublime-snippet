@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-ferra]]></content>
+	    <tabTrigger>C-704F50</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Ferra Colour</description>
+	</snippet>
+	

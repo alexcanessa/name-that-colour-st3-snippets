@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-verdun-green]]></content>
+	    <tabTrigger>C-495400</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Verdun Green Colour</description>
+	</snippet>
+	

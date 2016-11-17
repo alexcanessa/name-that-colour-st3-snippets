@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-kangaroo]]></content>
+	    <tabTrigger>C-C6C8BD</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Kangaroo Colour</description>
+	</snippet>
+	

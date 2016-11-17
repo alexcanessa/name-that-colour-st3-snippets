@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-blue-bayoux]]></content>
+	    <tabTrigger>C-496679</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Blue Bayoux Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-purple-heart]]></content>
+	    <tabTrigger>C-652DC1</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Purple Heart Colour</description>
+	</snippet>
+	

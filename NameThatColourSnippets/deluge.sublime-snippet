@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-deluge]]></content>
+	    <tabTrigger>C-7563A8</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Deluge Colour</description>
+	</snippet>
+	

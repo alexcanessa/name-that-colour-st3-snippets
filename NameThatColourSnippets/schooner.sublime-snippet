@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-schooner]]></content>
+	    <tabTrigger>C-8B847E</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Schooner Colour</description>
+	</snippet>
+	

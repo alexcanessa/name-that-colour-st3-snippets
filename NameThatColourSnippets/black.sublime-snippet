@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-black]]></content>
+	    <tabTrigger>C-000000</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Black Colour</description>
+	</snippet>
+	

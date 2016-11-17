@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-mulled-wine]]></content>
+	    <tabTrigger>C-4E4562</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Mulled Wine Colour</description>
+	</snippet>
+	

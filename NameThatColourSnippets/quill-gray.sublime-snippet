@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-quill-gray]]></content>
+	    <tabTrigger>C-D6D6D1</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Quill Gray Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-blue-lagoon]]></content>
+	    <tabTrigger>C-017987</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Blue Lagoon Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-bombay]]></content>
+	    <tabTrigger>C-AFB1B8</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Bombay Colour</description>
+	</snippet>
+	

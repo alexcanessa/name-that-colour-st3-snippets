@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-taupe]]></content>
+	    <tabTrigger>C-483C32</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Taupe Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-avocado]]></content>
+	    <tabTrigger>C-888D65</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Avocado Colour</description>
+	</snippet>
+	

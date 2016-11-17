@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-silver-sand]]></content>
+	    <tabTrigger>C-BFC1C2</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Silver Sand Colour</description>
+	</snippet>
+	

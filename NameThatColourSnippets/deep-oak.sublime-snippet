@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-deep-oak]]></content>
+	    <tabTrigger>C-412010</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Deep Oak Colour</description>
+	</snippet>
+	

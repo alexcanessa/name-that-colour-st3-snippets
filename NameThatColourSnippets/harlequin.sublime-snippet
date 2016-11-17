@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-harlequin]]></content>
+	    <tabTrigger>C-3FFF00</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Harlequin Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-bean--]]></content>
+	    <tabTrigger>C-3D0C02</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Bean   Colour</description>
+	</snippet>
+	

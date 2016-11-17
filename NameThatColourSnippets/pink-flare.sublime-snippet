@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-pink-flare]]></content>
+	    <tabTrigger>C-E1C0C8</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Pink Flare Colour</description>
+	</snippet>
+	

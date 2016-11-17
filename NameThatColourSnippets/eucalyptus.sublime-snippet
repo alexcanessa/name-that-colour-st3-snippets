@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-eucalyptus]]></content>
+	    <tabTrigger>C-278A5B</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Eucalyptus Colour</description>
+	</snippet>
+	

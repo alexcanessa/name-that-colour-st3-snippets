@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-bitter]]></content>
+	    <tabTrigger>C-868974</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Bitter Colour</description>
+	</snippet>
+	

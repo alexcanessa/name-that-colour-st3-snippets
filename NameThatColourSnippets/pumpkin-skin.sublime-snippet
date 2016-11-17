@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-pumpkin-skin]]></content>
+	    <tabTrigger>C-B1610B</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Pumpkin Skin Colour</description>
+	</snippet>
+	

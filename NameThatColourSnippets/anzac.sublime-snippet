@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-anzac]]></content>
+	    <tabTrigger>C-E0B646</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Anzac Colour</description>
+	</snippet>
+	

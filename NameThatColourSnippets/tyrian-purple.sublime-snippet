@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-tyrian-purple]]></content>
+	    <tabTrigger>C-66023C</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Tyrian Purple Colour</description>
+	</snippet>
+	

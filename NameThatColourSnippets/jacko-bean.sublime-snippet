@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-jacko-bean]]></content>
+	    <tabTrigger>C-2E1905</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Jacko Bean Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-hollywood-cerise]]></content>
+	    <tabTrigger>C-F400A1</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Hollywood Cerise Colour</description>
+	</snippet>
+	

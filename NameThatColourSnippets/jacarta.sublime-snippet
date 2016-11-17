@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-jacarta]]></content>
+	    <tabTrigger>C-3A2A6A</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Jacarta Colour</description>
+	</snippet>
+	

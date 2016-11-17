@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-mikado]]></content>
+	    <tabTrigger>C-2D2510</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Mikado Colour</description>
+	</snippet>
+	

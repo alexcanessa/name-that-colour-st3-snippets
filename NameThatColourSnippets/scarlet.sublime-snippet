@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-scarlet]]></content>
+	    <tabTrigger>C-FF2400</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Scarlet Colour</description>
+	</snippet>
+	

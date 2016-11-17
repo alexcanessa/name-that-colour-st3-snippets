@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-sambuca]]></content>
+	    <tabTrigger>C-3A2010</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Sambuca Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-casablanca]]></content>
+	    <tabTrigger>C-F8B853</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Casablanca Colour</description>
+	</snippet>
+	

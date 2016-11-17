@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-pirate-gold]]></content>
+	    <tabTrigger>C-BA7F03</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Pirate Gold Colour</description>
+	</snippet>
+	

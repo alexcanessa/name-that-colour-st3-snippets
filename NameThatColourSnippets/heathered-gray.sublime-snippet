@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-heathered-gray]]></content>
+	    <tabTrigger>C-B6B095</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Heathered Gray Colour</description>
+	</snippet>
+	

@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-froly]]></content>
+	    <tabTrigger>C-F57584</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Froly Colour</description>
+	</snippet>
+	

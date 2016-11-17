@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-gold-drop]]></content>
+	    <tabTrigger>C-F18200</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Gold Drop Colour</description>
+	</snippet>
+	

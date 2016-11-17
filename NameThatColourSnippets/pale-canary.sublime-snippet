@@ -1,0 +1,8 @@
+
+	<snippet>
+	    <content><![CDATA[\$color-pale-canary]]></content>
+	    <tabTrigger>C-FFFF99</tabTrigger>
+	    <scope>source.scss</scope>
+	    <description>Pale Canary Colour</description>
+	</snippet>
+	

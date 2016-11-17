@@ -19,4 +19,4 @@
 
 After you've added the snippets, you will be able to use them in every `*.scss` file:
 
-![Package result](https://raw.githubusercontent.com/alexcanessa/name-that-colour-st3-snippets/name-that-colour.gif)
+![Package result](https://github.com/alexcanessa/name-that-colour-st3-snippets/raw/master/name-that-colour.gif)

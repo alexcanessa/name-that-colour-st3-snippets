@@ -1,6 +1,6 @@
 # Name that colour - Sublime Text 3 snippets
 
-> Generates a snippet for each colour, and returns its variable name
+> Generates a Sublime Text snippet for each colour, and returns its variable name
 
 ## Warning!
 

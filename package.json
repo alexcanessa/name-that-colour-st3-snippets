@@ -1,0 +1,16 @@
+{
+  "name": "name-that-colour-st3-snippets",
+  "version": "0.1.0",
+  "description": "Snippets for Sublime Text 3 to autocomplete the colours based on name that colour.",
+  "main": "generate-colours.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex Canessa",
+  "license": "ISC",
+  "devDependencies": {
+    "del": "^2.2.2",
+    "empty-dir": "^0.2.1"
+  },
+  "dependencies": {}
+}
